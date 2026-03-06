@@ -87,14 +87,21 @@ TPP in past :-(enter any value 1,2,3,4....)  (this is total purchases in past wh
 once you fill out all the inputs you will get the answer in either yes or no as shown below
 
 Enter Age: 25
+
 Enter Gender (Male/Female): male
+
 Enter Income Level (High/Medium/Low): high
+
 Enter Product Category: car
+
 Ad Interaction (Yes/No): yes
+
 Discount Offered (%): 10
+
 TPP in Past: 5
 
 Will customer purchase? Yes
+
 Prediction Probability: [[0.385 0.615]]
 
 ## Author
