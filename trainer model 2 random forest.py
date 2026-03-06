@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 # Load dataset
-df = pd.read_csv("dataset code generated.csv")
+df = pd.read_csv("enter your dataset here in csv")
 
 # Convert numeric column
 df["Discount_Offered in(%)"] = df["Discount_Offered in(%)"].astype(int)
@@ -55,5 +55,6 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 with open("random_forest_model.pkl", "wb") as f:
     pickle.dump((model, le_gender, le_income, le_product, le_ad, le_purchase), f)
+
 
 print("\nRandom Forest model trained and saved successfully!")
