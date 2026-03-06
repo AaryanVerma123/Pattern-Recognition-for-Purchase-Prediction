@@ -83,7 +83,7 @@ Discount offered in %:- (only put the int value e.g.:- 1,2,3,4,5....)
 
 TPP in past :-(enter any value 1,2,3,4....)  (this is total purchases in past which means if the customers is a regular or new)
 
-Output :-
+##Output :-
 once you fill out all the inputs you will get the answer in either yes or no as shown below
 
 Enter Age: 25
