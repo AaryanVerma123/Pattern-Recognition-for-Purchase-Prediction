@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 
 # Load saved model
-with open("random_forest_model.pkl", "rb") as f:
+with open("enter your model here in.pkl", "rb") as f:
     model, le_gender, le_income, le_product, le_ad, le_purchase = pickle.load(f)
 
 # Take user input
@@ -57,4 +57,5 @@ probability = model.predict_proba(new_customer)
 result = le_purchase.inverse_transform(prediction)
 
 print("\nWill customer purchase?", result[0])
+
 print("Prediction Probability:", probability)
