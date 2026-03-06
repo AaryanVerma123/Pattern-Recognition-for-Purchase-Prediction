@@ -58,12 +58,14 @@ these are the name of your trained model which are saved in pkl format
 
 
 ## loading the model into the predictor model : -
-to load the model into the predictor you need to copy and past the names of the saved model which are 1. logistic_model.pkl 2. random_forest_model.pkl into the code
+to load the model into the predictor you need to copy and paste the name of the saved model which are 1. logistic_model.pkl 2. random_forest_model.pkl into the code
 
 import pickle
+
 import pandas as pd
 
 with open("enter your model name here", "rb") as f:
+
     model, le_gender, le_income, le_product, le_ad, le_purchase = pickle.load(f)
 
 ## input and output
