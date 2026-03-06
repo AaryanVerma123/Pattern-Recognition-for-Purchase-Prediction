@@ -65,7 +65,6 @@ import pickle
 import pandas as pd
 
 with open("enter your model name here", "rb") as f:
-
     model, le_gender, le_income, le_product, le_ad, le_purchase = pickle.load(f)
 
 ## input and output
