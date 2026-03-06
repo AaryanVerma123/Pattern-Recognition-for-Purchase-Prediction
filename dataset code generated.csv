@@ -1,0 +1,5001 @@
+Age,Gender,Income_Level,Product_Category,Ad_Interaction,Discount_Offered in(%),TPP in Past,Purchase
+56,Female,High,Car,Yes,19,14,Yes
+25,Male,Low,Beauty Products,Yes,28,6,Yes
+36,Male,Low,Designer items,Yes,22,10,No
+28,Male,High,Electronics,Yes,23,3,Yes
+57,Female,High,Designer items,Yes,23,2,Yes
+39,Male,High,Groceries,Yes,20,1,Yes
+41,Female,High,Beauty Products,No,11,5,No
+19,Male,Low,Electronics,Yes,27,0,No
+29,Male,Medium,Groceries,No,25,11,Yes
+42,Male,Medium,Groceries,No,16,9,No
+45,Female,Medium,Electronics,Yes,27,15,Yes
+32,Male,Medium,Car,Yes,29,14,Yes
+20,Male,Low,Groceries,No,4,18,No
+24,Male,High,Designer items,No,20,8,Yes
+56,Female,Low,Beauty Products,Yes,17,3,Yes
+42,Male,High,Electronics,Yes,27,13,Yes
+26,Female,Medium,Groceries,No,25,1,Yes
+37,Female,Low,Designer items,Yes,27,14,Yes
+24,Female,Low,Designer items,Yes,11,7,No
+52,Female,Medium,Electronics,No,13,16,No
+53,Female,Low,Car,No,17,7,Yes
+21,Female,Low,Designer items,Yes,1,5,No
+59,Male,High,Beauty Products,Yes,3,17,Yes
+43,Male,High,Beauty Products,Yes,11,1,No
+27,Male,Medium,Beauty Products,Yes,29,3,Yes
+31,Female,Low,Groceries,Yes,30,15,Yes
+32,Male,Medium,Car,No,7,13,No
+40,Male,High,Beauty Products,Yes,27,7,Yes
+38,Female,Medium,Groceries,No,15,12,No
+35,Female,High,Designer items,Yes,14,12,Yes
+58,Female,Medium,Beauty Products,Yes,28,14,Yes
+18,Male,Low,Beauty Products,Yes,24,6,Yes
+26,Male,High,Car,Yes,23,0,Yes
+25,Male,Medium,Beauty Products,Yes,23,10,Yes
+34,Female,Medium,Beauty Products,Yes,7,2,Yes
+52,Male,Medium,Car,No,0,4,No
+59,Male,Medium,Car,Yes,6,8,No
+45,Male,High,Car,Yes,6,8,No
+25,Female,Low,Designer items,Yes,11,1,No
+50,Male,Low,Beauty Products,Yes,15,4,No
+52,Male,High,Car,Yes,11,7,Yes
+39,Male,Low,Electronics,Yes,26,2,Yes
+18,Female,Low,Electronics,Yes,2,4,No
+31,Female,High,Beauty Products,Yes,2,0,Yes
+22,Male,High,Beauty Products,No,25,13,Yes
+56,Male,Medium,Beauty Products,Yes,26,8,Yes
+32,Male,High,Car,No,14,9,Yes
+30,Male,Low,Beauty Products,Yes,18,6,Yes
+49,Female,Low,Beauty Products,No,3,4,Yes
+40,Female,High,Designer items,Yes,6,12,Yes
+32,Male,Low,Groceries,Yes,10,3,Yes
+30,Male,Medium,Car,Yes,6,18,No
+39,Male,Low,Groceries,No,27,1,Yes
+59,Female,Low,Beauty Products,No,12,5,No
+45,Female,High,Car,No,27,11,Yes
+37,Male,High,Groceries,No,29,10,Yes
+45,Male,Low,Groceries,No,24,6,Yes
+50,Female,High,Groceries,Yes,0,19,No
+30,Female,Low,Electronics,Yes,8,2,Yes
+56,Male,Low,Groceries,No,5,7,Yes
+44,Male,Medium,Car,Yes,8,4,No
+50,Male,High,Beauty Products,No,18,9,Yes
+41,Male,Low,Designer items,Yes,14,8,No
+29,Female,High,Car,Yes,29,6,Yes
+19,Female,Low,Beauty Products,No,2,16,Yes
+54,Male,High,Designer items,No,16,16,Yes
+19,Male,Medium,Car,No,1,4,No
+49,Female,High,Designer items,Yes,0,0,No
+36,Female,Medium,Car,Yes,29,1,No
+43,Male,Medium,Groceries,Yes,5,3,No
+28,Male,Medium,Groceries,No,23,16,Yes
+55,Female,High,Electronics,No,23,4,Yes
+51,Female,High,Designer items,Yes,5,10,Yes
+33,Female,Medium,Groceries,No,0,8,Yes
+23,Male,Medium,Beauty Products,Yes,15,2,No
+37,Male,Low,Beauty Products,Yes,27,3,Yes
+36,Female,Medium,Groceries,No,25,2,Yes
+36,Female,High,Beauty Products,No,19,6,Yes
+58,Male,High,Beauty Products,Yes,0,7,No
+56,Female,Medium,Designer items,Yes,17,7,No
+18,Female,Low,Designer items,No,10,17,No
+40,Female,Medium,Electronics,No,30,9,Yes
+52,Male,High,Designer items,Yes,6,15,Yes
+43,Male,High,Car,No,15,19,Yes
+19,Male,Low,Car,Yes,0,15,No
+29,Female,High,Car,Yes,4,4,No
+49,Female,Low,Electronics,Yes,26,8,Yes
+58,Female,High,Car,Yes,2,18,No
+33,Male,Medium,Electronics,Yes,2,19,No
+41,Female,Low,Designer items,No,21,0,No
+41,Female,Medium,Electronics,No,19,10,Yes
+25,Female,High,Electronics,Yes,3,5,Yes
+57,Female,High,Beauty Products,No,19,2,Yes
+42,Male,Low,Groceries,Yes,2,17,Yes
+35,Male,Medium,Designer items,Yes,1,2,No
+33,Female,High,Car,Yes,28,8,Yes
+53,Female,Medium,Designer items,Yes,0,3,No
+50,Female,High,Car,Yes,13,15,No
+37,Female,Low,Electronics,Yes,23,7,No
+24,Female,High,Designer items,Yes,2,16,Yes
+50,Female,Low,Groceries,No,15,11,No
+39,Male,High,Beauty Products,No,22,13,Yes
+47,Female,High,Car,Yes,5,5,No
+25,Female,Low,Electronics,Yes,26,1,Yes
+38,Female,High,Electronics,No,29,0,No
+45,Female,Medium,Car,Yes,14,0,No
+22,Male,High,Groceries,No,27,15,Yes
+36,Male,Medium,Car,Yes,3,2,Yes
+34,Female,Low,Designer items,No,11,13,No
+23,Female,Low,Groceries,Yes,2,8,Yes
+54,Male,High,Car,No,23,16,Yes
+48,Female,Low,Groceries,Yes,2,0,No
+38,Male,Low,Designer items,No,22,0,No
+20,Male,Medium,Car,Yes,17,9,Yes
+48,Female,Medium,Beauty Products,Yes,21,2,Yes
+57,Female,Medium,Electronics,No,13,17,No
+49,Male,High,Electronics,No,14,1,No
+44,Female,Medium,Beauty Products,Yes,9,1,No
+43,Male,Medium,Groceries,No,16,7,Yes
+50,Female,High,Designer items,Yes,8,10,Yes
+56,Female,Medium,Electronics,Yes,28,9,Yes
+43,Female,High,Groceries,No,2,17,No
+42,Male,Medium,Car,Yes,23,12,No
+24,Female,Medium,Designer items,No,24,3,No
+37,Female,High,Car,Yes,0,7,No
+33,Female,Medium,Beauty Products,Yes,13,11,Yes
+40,Female,Medium,Beauty Products,Yes,14,1,Yes
+19,Male,Low,Designer items,No,22,18,No
+42,Male,High,Designer items,Yes,25,16,Yes
+59,Female,High,Beauty Products,No,5,14,No
+54,Male,Medium,Groceries,Yes,0,7,Yes
+22,Male,Low,Car,Yes,6,3,No
+23,Male,Low,Electronics,No,12,19,No
+47,Female,Medium,Electronics,Yes,14,2,Yes
+57,Male,High,Electronics,No,19,15,Yes
+30,Male,Low,Car,Yes,17,9,No
+47,Male,Medium,Designer items,Yes,18,16,Yes
+36,Male,Medium,Beauty Products,No,27,4,Yes
+43,Female,High,Groceries,Yes,20,8,Yes
+29,Male,Medium,Car,No,20,0,No
+18,Male,Low,Designer items,Yes,14,1,Yes
+49,Female,Medium,Beauty Products,Yes,29,15,Yes
+42,Male,High,Electronics,No,7,12,No
+18,Male,Medium,Beauty Products,Yes,15,6,Yes
+22,Male,Medium,Groceries,Yes,21,2,Yes
+29,Female,Medium,Beauty Products,Yes,25,15,Yes
+54,Female,Medium,Electronics,Yes,21,13,Yes
+45,Female,Low,Car,No,4,14,No
+47,Male,Low,Designer items,No,13,19,No
+22,Male,Low,Car,Yes,11,15,No
+43,Female,High,Designer items,No,25,15,Yes
+38,Female,Low,Groceries,Yes,6,3,No
+50,Female,High,Groceries,No,29,4,Yes
+40,Male,High,Beauty Products,Yes,25,9,Yes
+22,Male,Low,Electronics,No,3,1,No
+48,Female,Medium,Designer items,No,9,18,Yes
+49,Male,Medium,Car,Yes,0,4,Yes
+21,Male,Low,Electronics,Yes,15,15,No
+19,Female,Medium,Designer items,Yes,16,19,Yes
+41,Female,Low,Car,No,11,17,No
+52,Female,Low,Groceries,Yes,27,0,Yes
+50,Male,Medium,Electronics,Yes,28,18,No
+54,Male,Medium,Designer items,Yes,11,2,No
+18,Female,Low,Beauty Products,No,0,7,Yes
+27,Female,Low,Beauty Products,No,10,11,Yes
+46,Female,Medium,Groceries,Yes,12,11,Yes
+48,Female,Low,Designer items,Yes,13,1,No
+52,Female,Low,Electronics,Yes,22,16,No
+43,Female,High,Designer items,No,7,9,Yes
+43,Male,High,Groceries,No,29,1,Yes
+58,Male,Medium,Electronics,No,6,3,Yes
+28,Male,Medium,Designer items,Yes,28,3,No
+42,Male,Medium,Electronics,No,20,3,No
+27,Female,High,Electronics,No,4,8,No
+41,Male,Medium,Beauty Products,No,2,16,Yes
+52,Male,High,Groceries,No,15,3,Yes
+35,Female,Low,Car,Yes,16,6,Yes
+49,Male,Low,Groceries,Yes,23,4,Yes
+29,Female,Low,Beauty Products,Yes,16,12,Yes
+40,Female,Low,Car,No,24,2,No
+58,Male,High,Designer items,Yes,29,16,Yes
+37,Female,Low,Car,No,15,12,No
+36,Female,Low,Electronics,No,16,3,Yes
+29,Female,High,Groceries,No,28,8,Yes
+36,Male,Medium,Electronics,Yes,11,8,Yes
+24,Male,Medium,Groceries,No,27,13,Yes
+48,Male,Medium,Beauty Products,No,19,18,No
+33,Male,High,Groceries,No,20,4,Yes
+52,Female,High,Beauty Products,No,11,19,Yes
+38,Male,Medium,Designer items,No,3,15,No
+56,Male,Medium,Electronics,Yes,12,9,Yes
+56,Female,Low,Groceries,No,13,4,Yes
+52,Female,Low,Beauty Products,Yes,22,10,No
+28,Female,High,Groceries,No,17,14,Yes
+29,Female,High,Car,No,8,9,No
+34,Female,High,Electronics,Yes,28,5,Yes
+24,Female,Low,Car,Yes,13,12,No
+57,Female,Medium,Electronics,Yes,9,8,Yes
+44,Female,Low,Beauty Products,No,25,1,Yes
+22,Female,Low,Electronics,No,28,4,Yes
+55,Female,Low,Car,No,18,7,Yes
+18,Male,Low,Beauty Products,Yes,21,19,Yes
+34,Female,High,Beauty Products,Yes,30,6,Yes
+42,Female,High,Car,No,12,3,No
+53,Male,Medium,Groceries,Yes,5,18,No
+56,Female,High,Car,Yes,26,9,No
+43,Female,Medium,Electronics,Yes,18,6,Yes
+20,Male,Medium,Electronics,No,12,12,Yes
+45,Male,Medium,Car,No,29,19,Yes
+45,Male,Low,Beauty Products,Yes,7,8,No
+56,Male,Medium,Designer items,Yes,0,2,Yes
+30,Female,High,Car,No,27,16,Yes
+42,Male,Low,Groceries,Yes,23,0,No
+55,Male,Low,Groceries,Yes,20,5,Yes
+49,Female,Medium,Designer items,Yes,12,14,No
+38,Male,Medium,Groceries,Yes,15,10,Yes
+54,Female,High,Beauty Products,Yes,3,2,No
+36,Female,Low,Electronics,Yes,19,17,Yes
+58,Male,High,Electronics,No,16,13,Yes
+32,Female,Low,Designer items,No,30,0,No
+20,Female,Medium,Electronics,Yes,15,10,Yes
+29,Male,Low,Car,Yes,9,15,No
+25,Female,Medium,Electronics,Yes,5,11,Yes
+41,Female,Medium,Groceries,No,27,7,Yes
+45,Male,Medium,Car,Yes,3,7,Yes
+45,Male,High,Designer items,Yes,27,4,Yes
+58,Female,Medium,Car,Yes,3,16,No
+26,Female,High,Car,No,0,19,No
+30,Male,Medium,Designer items,No,27,15,Yes
+46,Female,Low,Beauty Products,Yes,12,13,Yes
+52,Male,Medium,Electronics,No,28,5,Yes
+35,Male,Medium,Car,Yes,18,4,No
+42,Male,High,Groceries,Yes,1,9,Yes
+47,Male,High,Car,No,17,12,No
+22,Male,Low,Beauty Products,Yes,22,0,Yes
+18,Female,Low,Groceries,No,17,14,Yes
+28,Male,Low,Car,Yes,20,16,No
+30,Female,Medium,Groceries,No,0,1,Yes
+58,Male,Medium,Groceries,No,2,0,Yes
+38,Female,Medium,Groceries,Yes,15,5,Yes
+45,Male,Medium,Beauty Products,Yes,16,4,Yes
+48,Female,Medium,Designer items,Yes,4,5,Yes
+20,Male,Low,Electronics,Yes,20,4,No
+54,Female,Medium,Beauty Products,Yes,9,9,No
+36,Female,Low,Car,No,16,13,No
+26,Female,Medium,Beauty Products,No,13,0,Yes
+30,Female,Low,Car,Yes,3,0,No
+57,Male,Medium,Groceries,Yes,1,7,Yes
+56,Male,Medium,Electronics,Yes,25,1,Yes
+20,Male,Low,Groceries,Yes,26,17,Yes
+29,Female,Medium,Designer items,Yes,0,11,No
+22,Male,Medium,Designer items,Yes,29,16,Yes
+40,Male,Low,Designer items,Yes,14,4,No
+38,Female,Medium,Beauty Products,No,13,1,No
+28,Female,Medium,Beauty Products,No,18,6,Yes
+55,Female,Low,Car,Yes,27,1,No
+55,Female,Medium,Car,Yes,17,1,No
+35,Female,Medium,Car,No,29,14,Yes
+44,Female,High,Car,Yes,18,1,No
+55,Female,High,Car,No,0,14,No
+47,Female,Low,Beauty Products,Yes,22,9,No
+34,Male,Medium,Groceries,Yes,4,3,Yes
+27,Female,Low,Electronics,Yes,23,16,No
+27,Female,Medium,Groceries,Yes,16,19,Yes
+41,Male,Medium,Groceries,Yes,4,1,No
+23,Male,Medium,Groceries,Yes,20,1,Yes
+30,Female,Low,Groceries,No,29,10,Yes
+28,Male,Medium,Beauty Products,Yes,18,14,Yes
+40,Male,High,Designer items,No,22,15,Yes
+48,Female,Medium,Groceries,Yes,10,15,Yes
+25,Male,High,Electronics,Yes,3,7,Yes
+21,Male,Low,Car,No,23,2,No
+49,Female,High,Beauty Products,Yes,2,17,Yes
+36,Male,Medium,Beauty Products,No,20,4,Yes
+35,Female,Medium,Designer items,No,27,9,No
+39,Male,High,Designer items,Yes,20,5,Yes
+18,Female,Low,Designer items,No,4,8,No
+29,Female,Medium,Groceries,Yes,25,13,Yes
+51,Male,Low,Designer items,No,16,13,Yes
+43,Male,Medium,Groceries,No,12,8,Yes
+43,Male,Low,Car,Yes,24,14,No
+39,Male,Low,Electronics,No,14,10,Yes
+34,Male,Medium,Groceries,Yes,25,3,Yes
+18,Male,Low,Electronics,Yes,7,16,Yes
+52,Male,High,Groceries,Yes,28,19,Yes
+32,Female,High,Designer items,Yes,14,13,Yes
+43,Male,Low,Groceries,No,27,13,Yes
+41,Female,High,Beauty Products,Yes,1,12,Yes
+43,Male,Medium,Car,Yes,13,18,No
+24,Female,Medium,Car,Yes,2,14,Yes
+40,Male,Medium,Designer items,Yes,13,10,Yes
+35,Female,Medium,Beauty Products,Yes,25,5,Yes
+52,Male,Medium,Groceries,No,18,14,Yes
+42,Male,High,Beauty Products,Yes,22,4,Yes
+45,Female,High,Groceries,No,9,6,Yes
+34,Male,Low,Designer items,No,6,11,No
+42,Female,Medium,Car,Yes,16,12,No
+37,Female,Low,Electronics,No,24,3,No
+27,Male,Low,Electronics,Yes,2,8,Yes
+35,Female,Low,Car,No,14,3,No
+39,Female,High,Beauty Products,Yes,1,14,No
+25,Male,Low,Groceries,No,7,16,Yes
+36,Female,Low,Groceries,No,9,8,Yes
+54,Female,High,Electronics,No,5,19,Yes
+43,Female,Medium,Beauty Products,No,1,12,No
+23,Male,Low,Beauty Products,Yes,4,0,Yes
+39,Female,Low,Groceries,Yes,20,5,Yes
+23,Female,Low,Electronics,Yes,22,15,No
+21,Female,High,Beauty Products,Yes,29,10,No
+47,Female,High,Car,Yes,30,8,No
+20,Male,Medium,Car,No,18,7,No
+54,Male,Medium,Designer items,Yes,3,5,No
+19,Male,Low,Beauty Products,No,19,10,No
+21,Female,High,Groceries,No,14,5,Yes
+47,Female,Medium,Electronics,No,23,5,Yes
+19,Female,Low,Designer items,Yes,14,10,No
+25,Female,Low,Groceries,Yes,25,18,Yes
+22,Male,Medium,Electronics,Yes,5,3,No
+36,Male,Medium,Electronics,No,19,0,No
+37,Male,High,Groceries,Yes,16,11,Yes
+18,Male,Low,Designer items,No,25,13,No
+55,Male,Low,Designer items,Yes,4,10,No
+53,Female,Medium,Beauty Products,Yes,12,10,No
+20,Male,Low,Car,Yes,0,5,No
+27,Female,High,Beauty Products,No,4,9,No
+19,Male,Low,Groceries,Yes,12,7,Yes
+19,Male,Low,Beauty Products,No,19,0,Yes
+54,Male,Medium,Car,Yes,8,16,Yes
+26,Female,Low,Designer items,No,10,14,No
+41,Female,Medium,Car,Yes,5,2,No
+47,Male,Medium,Groceries,Yes,30,16,Yes
+22,Male,High,Designer items,No,29,11,Yes
+31,Male,Medium,Beauty Products,No,20,10,Yes
+26,Female,Low,Beauty Products,No,1,11,No
+52,Female,Medium,Car,No,2,0,No
+57,Female,High,Groceries,Yes,21,7,Yes
+28,Male,Medium,Electronics,No,8,4,Yes
+31,Male,Medium,Electronics,Yes,27,2,Yes
+38,Female,High,Groceries,No,4,4,Yes
+36,Male,Medium,Beauty Products,Yes,26,13,Yes
+43,Male,Medium,Designer items,Yes,29,3,Yes
+42,Female,Medium,Beauty Products,Yes,12,9,No
+42,Female,Low,Groceries,Yes,17,7,Yes
+25,Female,High,Electronics,No,6,7,Yes
+31,Female,Low,Electronics,No,18,5,Yes
+50,Female,Medium,Car,Yes,22,14,No
+50,Female,High,Electronics,Yes,24,16,Yes
+50,Female,Medium,Groceries,No,14,1,Yes
+31,Male,Medium,Beauty Products,Yes,20,7,Yes
+57,Female,Medium,Electronics,No,18,6,Yes
+23,Male,Medium,Designer items,Yes,5,2,No
+24,Male,Medium,Groceries,Yes,18,7,Yes
+59,Male,Medium,Car,Yes,19,14,Yes
+46,Male,Medium,Electronics,No,0,19,Yes
+47,Female,Medium,Beauty Products,Yes,6,3,No
+46,Female,High,Groceries,Yes,5,0,Yes
+54,Female,Medium,Beauty Products,Yes,26,0,Yes
+21,Female,Low,Car,Yes,21,1,No
+27,Female,High,Car,Yes,4,9,No
+50,Male,High,Beauty Products,No,21,5,No
+30,Female,Low,Beauty Products,Yes,30,14,Yes
+53,Male,Low,Car,Yes,12,19,Yes
+32,Female,Low,Designer items,Yes,28,7,No
+22,Male,Low,Car,Yes,28,14,No
+21,Female,High,Electronics,Yes,11,12,Yes
+19,Female,High,Groceries,No,26,18,No
+53,Female,High,Groceries,Yes,3,10,Yes
+44,Female,Medium,Designer items,No,4,19,No
+28,Female,Medium,Electronics,Yes,29,9,Yes
+57,Female,High,Groceries,Yes,5,5,Yes
+25,Female,Medium,Electronics,No,22,14,No
+43,Male,Medium,Groceries,Yes,13,10,Yes
+29,Male,Low,Electronics,Yes,25,12,Yes
+57,Male,High,Groceries,Yes,29,17,Yes
+42,Male,Medium,Car,No,0,14,Yes
+57,Male,Medium,Electronics,No,27,10,Yes
+29,Female,High,Designer items,No,11,3,No
+21,Female,Low,Designer items,Yes,4,4,No
+25,Male,High,Car,Yes,30,9,Yes
+45,Female,High,Designer items,No,30,8,Yes
+46,Female,High,Electronics,Yes,13,7,Yes
+58,Male,High,Groceries,Yes,21,10,Yes
+40,Female,Low,Groceries,Yes,0,13,Yes
+54,Female,Medium,Designer items,Yes,20,13,No
+53,Female,Medium,Electronics,No,21,0,Yes
+57,Male,Medium,Groceries,Yes,14,14,No
+26,Female,High,Electronics,Yes,20,8,Yes
+27,Female,Low,Designer items,Yes,19,8,Yes
+52,Female,Medium,Designer items,No,30,19,No
+42,Male,Medium,Beauty Products,Yes,25,10,Yes
+55,Female,Medium,Car,Yes,1,6,No
+35,Male,Medium,Groceries,No,26,1,No
+44,Male,Medium,Designer items,No,16,10,Yes
+41,Female,Medium,Beauty Products,Yes,24,6,Yes
+23,Male,Medium,Beauty Products,No,20,0,No
+46,Female,Medium,Car,Yes,30,10,Yes
+39,Male,High,Car,No,25,17,No
+38,Male,Low,Beauty Products,Yes,16,6,No
+34,Female,Medium,Designer items,Yes,19,8,Yes
+37,Male,High,Electronics,Yes,21,7,Yes
+24,Female,Low,Electronics,No,0,12,No
+47,Male,High,Designer items,Yes,22,18,Yes
+36,Male,Low,Car,No,29,16,No
+46,Male,Medium,Designer items,No,29,15,No
+57,Female,High,Electronics,No,18,17,Yes
+18,Female,Medium,Electronics,Yes,13,18,No
+19,Female,Medium,Designer items,Yes,21,16,No
+47,Male,Medium,Designer items,No,5,18,No
+21,Female,High,Electronics,Yes,0,7,No
+46,Male,Medium,Groceries,Yes,22,6,No
+20,Male,Medium,Car,No,9,9,No
+36,Male,High,Car,Yes,13,1,Yes
+50,Male,Low,Beauty Products,Yes,22,17,Yes
+24,Male,Medium,Beauty Products,No,28,7,No
+18,Male,Low,Groceries,No,24,2,No
+41,Female,Medium,Beauty Products,Yes,22,7,No
+54,Male,High,Beauty Products,Yes,2,18,Yes
+50,Male,Medium,Beauty Products,No,27,14,Yes
+25,Female,Medium,Groceries,No,1,2,Yes
+49,Female,Medium,Designer items,Yes,23,13,No
+49,Female,Medium,Designer items,No,23,13,Yes
+33,Female,Medium,Car,No,3,19,No
+54,Female,Low,Designer items,Yes,21,13,No
+48,Male,High,Groceries,Yes,22,15,Yes
+35,Male,Low,Electronics,No,6,9,Yes
+24,Male,High,Beauty Products,Yes,0,18,No
+36,Male,Medium,Car,No,3,17,No
+19,Male,Low,Electronics,No,0,14,No
+22,Female,Low,Designer items,No,19,10,No
+59,Female,Medium,Groceries,Yes,30,1,Yes
+20,Female,Low,Car,No,22,11,Yes
+37,Female,Low,Groceries,Yes,4,4,No
+55,Female,High,Car,Yes,29,8,Yes
+51,Male,High,Groceries,Yes,20,11,Yes
+52,Female,Medium,Designer items,Yes,19,11,No
+41,Female,Medium,Electronics,Yes,16,9,Yes
+47,Female,Medium,Designer items,Yes,23,13,No
+40,Male,High,Car,No,16,17,Yes
+34,Male,High,Car,Yes,13,8,No
+57,Male,Medium,Designer items,Yes,1,12,Yes
+42,Female,Low,Beauty Products,No,6,8,Yes
+39,Male,Medium,Electronics,Yes,10,13,Yes
+21,Male,Low,Groceries,Yes,25,12,Yes
+51,Male,Medium,Designer items,No,22,4,No
+28,Female,Low,Beauty Products,No,5,17,Yes
+38,Female,Medium,Groceries,Yes,9,3,Yes
+58,Male,High,Groceries,No,5,1,No
+34,Female,High,Car,Yes,4,5,No
+29,Male,Low,Car,Yes,22,9,No
+39,Male,Medium,Groceries,No,20,5,No
+44,Female,Medium,Beauty Products,Yes,7,1,No
+29,Male,Medium,Groceries,Yes,12,6,No
+27,Male,Low,Designer items,No,12,16,No
+43,Female,Medium,Car,Yes,20,13,Yes
+19,Female,Medium,Electronics,Yes,27,10,Yes
+18,Female,Medium,Car,Yes,18,3,No
+43,Female,High,Groceries,No,28,10,Yes
+57,Female,High,Electronics,Yes,10,3,Yes
+56,Female,Medium,Designer items,Yes,7,2,No
+51,Male,High,Car,Yes,22,14,Yes
+41,Female,High,Designer items,Yes,21,4,Yes
+50,Female,Low,Groceries,Yes,25,3,Yes
+37,Female,Low,Designer items,Yes,18,2,No
+34,Male,Medium,Car,Yes,29,12,Yes
+51,Female,Medium,Groceries,Yes,8,1,Yes
+26,Male,High,Beauty Products,Yes,8,7,Yes
+34,Female,Medium,Designer items,Yes,0,10,Yes
+57,Female,Low,Electronics,Yes,9,6,Yes
+52,Male,Low,Groceries,No,2,17,Yes
+54,Male,High,Electronics,Yes,11,11,Yes
+47,Female,Medium,Beauty Products,No,5,1,Yes
+29,Male,Medium,Beauty Products,Yes,18,4,No
+34,Female,Medium,Electronics,Yes,9,16,Yes
+29,Male,Medium,Electronics,Yes,29,15,Yes
+41,Male,High,Groceries,No,18,7,Yes
+48,Male,High,Designer items,No,20,16,Yes
+40,Female,High,Electronics,No,4,15,Yes
+23,Female,High,Electronics,Yes,7,17,Yes
+42,Female,Medium,Designer items,No,11,14,Yes
+43,Female,High,Electronics,Yes,8,12,No
+43,Male,High,Electronics,No,14,9,Yes
+33,Male,High,Beauty Products,Yes,6,16,Yes
+40,Male,High,Designer items,Yes,25,6,Yes
+31,Female,Medium,Groceries,Yes,14,6,Yes
+26,Male,Low,Beauty Products,Yes,18,15,Yes
+25,Male,High,Beauty Products,Yes,17,17,Yes
+48,Male,Low,Electronics,Yes,29,19,No
+56,Female,Low,Groceries,Yes,2,17,Yes
+59,Male,Medium,Electronics,Yes,6,16,No
+31,Male,Medium,Groceries,No,30,2,Yes
+51,Male,High,Car,No,2,4,No
+57,Male,Medium,Beauty Products,Yes,25,11,Yes
+56,Male,Medium,Electronics,Yes,14,16,Yes
+21,Male,Low,Beauty Products,Yes,28,12,Yes
+35,Male,Low,Designer items,Yes,0,15,No
+59,Male,High,Beauty Products,No,11,1,No
+52,Female,Medium,Designer items,Yes,9,1,No
+47,Female,Medium,Groceries,No,26,12,Yes
+30,Male,Medium,Electronics,No,17,2,No
+56,Male,Medium,Beauty Products,No,13,19,Yes
+46,Male,Medium,Car,Yes,29,16,Yes
+46,Male,Medium,Beauty Products,Yes,29,11,Yes
+33,Male,Medium,Beauty Products,Yes,23,11,Yes
+27,Female,Low,Groceries,No,29,6,No
+37,Male,High,Electronics,Yes,4,0,Yes
+47,Female,Medium,Electronics,No,16,2,Yes
+31,Male,High,Electronics,Yes,23,17,Yes
+21,Male,Medium,Groceries,Yes,17,4,Yes
+42,Female,Low,Electronics,Yes,15,0,Yes
+32,Female,Low,Beauty Products,Yes,8,14,Yes
+41,Male,High,Electronics,No,3,11,Yes
+54,Female,High,Designer items,No,28,4,Yes
+23,Female,Low,Car,No,6,13,Yes
+41,Female,High,Designer items,No,10,12,Yes
+51,Male,Medium,Beauty Products,No,24,6,No
+21,Female,Medium,Beauty Products,Yes,26,7,Yes
+37,Female,Low,Groceries,Yes,28,18,No
+27,Male,Medium,Car,No,10,1,No
+43,Male,High,Groceries,No,8,16,Yes
+20,Male,Low,Groceries,No,23,5,Yes
+22,Female,Low,Beauty Products,No,4,14,Yes
+40,Female,Low,Car,Yes,16,8,Yes
+52,Female,High,Groceries,No,19,16,Yes
+59,Female,Low,Car,No,2,17,No
+35,Female,High,Beauty Products,Yes,29,16,Yes
+41,Female,Medium,Groceries,No,2,2,Yes
+55,Female,Medium,Beauty Products,No,12,14,No
+42,Male,High,Car,No,8,3,No
+31,Female,Low,Designer items,Yes,4,1,No
+28,Female,Medium,Designer items,Yes,8,2,No
+45,Female,Medium,Groceries,Yes,28,8,Yes
+20,Female,Medium,Car,No,24,1,No
+29,Male,High,Electronics,No,9,8,Yes
+32,Male,Medium,Designer items,Yes,7,4,Yes
+28,Male,Low,Groceries,No,26,1,Yes
+41,Male,Low,Car,Yes,27,14,No
+55,Female,Low,Groceries,No,7,4,Yes
+43,Male,High,Designer items,Yes,17,5,Yes
+54,Female,High,Designer items,Yes,27,15,Yes
+30,Female,High,Electronics,No,27,4,Yes
+30,Female,Low,Car,Yes,16,17,No
+57,Female,High,Designer items,No,12,18,Yes
+20,Female,Medium,Beauty Products,No,23,7,Yes
+51,Male,High,Groceries,Yes,7,12,Yes
+50,Male,High,Groceries,No,5,18,Yes
+33,Male,Low,Electronics,Yes,7,0,No
+58,Female,Low,Car,No,12,10,Yes
+42,Female,High,Beauty Products,Yes,20,9,Yes
+53,Male,High,Car,Yes,30,5,Yes
+24,Female,Low,Car,Yes,4,10,No
+48,Female,Medium,Electronics,No,22,9,Yes
+27,Male,Medium,Beauty Products,Yes,10,6,Yes
+48,Male,Medium,Designer items,Yes,17,3,Yes
+19,Female,Medium,Car,No,13,12,No
+46,Male,High,Car,Yes,11,6,Yes
+19,Male,Low,Beauty Products,Yes,12,13,No
+44,Male,High,Car,No,16,8,No
+34,Female,Low,Groceries,Yes,7,1,Yes
+41,Male,High,Groceries,No,12,2,Yes
+23,Male,High,Groceries,Yes,18,6,No
+27,Female,Medium,Electronics,Yes,8,1,Yes
+45,Female,High,Designer items,Yes,27,14,Yes
+47,Male,High,Car,No,4,3,Yes
+37,Male,High,Car,Yes,3,17,No
+21,Male,High,Designer items,Yes,26,16,No
+29,Male,High,Electronics,Yes,21,16,Yes
+27,Male,High,Groceries,Yes,21,0,Yes
+39,Male,Medium,Car,Yes,25,17,Yes
+31,Male,Low,Electronics,No,14,11,No
+53,Female,High,Groceries,Yes,26,2,Yes
+29,Female,Medium,Groceries,No,6,10,Yes
+50,Male,Medium,Electronics,No,5,14,Yes
+32,Male,High,Designer items,No,18,10,Yes
+40,Female,Medium,Car,Yes,25,1,No
+51,Male,High,Groceries,Yes,28,3,No
+34,Male,Medium,Car,No,2,12,Yes
+58,Female,High,Beauty Products,No,6,14,Yes
+46,Male,High,Car,Yes,28,10,Yes
+49,Male,Medium,Beauty Products,Yes,1,14,No
+31,Female,Low,Groceries,No,19,10,Yes
+44,Female,High,Groceries,Yes,2,16,Yes
+45,Male,High,Designer items,Yes,28,14,Yes
+33,Male,Medium,Electronics,Yes,4,19,No
+23,Female,Low,Groceries,Yes,18,4,Yes
+20,Male,Low,Groceries,Yes,26,0,No
+55,Female,Low,Designer items,Yes,14,1,Yes
+52,Male,Medium,Designer items,No,16,11,No
+35,Male,Medium,Beauty Products,Yes,14,11,Yes
+33,Male,High,Car,Yes,26,7,No
+42,Female,Medium,Designer items,Yes,16,7,No
+32,Female,Medium,Beauty Products,No,26,13,Yes
+24,Female,High,Designer items,No,2,11,Yes
+41,Male,High,Groceries,Yes,27,2,Yes
+37,Female,Low,Beauty Products,No,13,14,Yes
+42,Male,Low,Electronics,Yes,29,13,No
+24,Male,Low,Electronics,Yes,16,11,No
+37,Female,Low,Groceries,Yes,3,8,Yes
+55,Female,Low,Groceries,Yes,15,1,Yes
+41,Male,High,Beauty Products,No,7,10,No
+30,Female,High,Electronics,Yes,16,7,Yes
+38,Female,Medium,Beauty Products,Yes,17,17,Yes
+48,Male,Medium,Designer items,No,5,10,No
+42,Female,Low,Electronics,No,0,5,No
+58,Male,High,Car,No,7,10,No
+39,Male,High,Car,Yes,18,8,No
+34,Male,Medium,Designer items,Yes,11,13,Yes
+49,Male,High,Groceries,No,14,15,Yes
+39,Male,Medium,Designer items,No,27,19,No
+50,Female,High,Beauty Products,Yes,9,7,Yes
+49,Male,Low,Beauty Products,Yes,17,0,Yes
+19,Male,Low,Beauty Products,No,0,0,Yes
+58,Male,Low,Groceries,Yes,12,0,Yes
+30,Female,High,Car,No,19,6,Yes
+19,Male,High,Electronics,Yes,5,6,Yes
+43,Female,High,Electronics,No,13,17,Yes
+32,Female,High,Beauty Products,Yes,1,9,Yes
+57,Female,Low,Groceries,Yes,10,2,No
+23,Female,High,Beauty Products,No,8,5,No
+26,Female,Medium,Designer items,No,6,8,No
+29,Male,Low,Beauty Products,No,7,7,Yes
+45,Female,High,Designer items,No,29,19,Yes
+24,Female,High,Car,Yes,10,19,Yes
+33,Female,Low,Car,Yes,3,5,Yes
+39,Female,Low,Electronics,No,25,2,No
+58,Female,High,Electronics,Yes,27,9,Yes
+31,Male,High,Beauty Products,Yes,10,17,Yes
+29,Male,High,Groceries,Yes,22,11,No
+30,Female,Low,Designer items,Yes,24,12,Yes
+36,Female,High,Car,Yes,22,13,Yes
+53,Female,Medium,Car,No,12,7,Yes
+46,Male,High,Designer items,Yes,22,18,Yes
+35,Female,Low,Beauty Products,No,5,17,Yes
+36,Female,Low,Electronics,Yes,21,4,Yes
+49,Female,Medium,Groceries,Yes,23,8,Yes
+20,Male,Low,Groceries,Yes,27,9,Yes
+52,Female,High,Electronics,No,28,14,Yes
+50,Male,High,Electronics,Yes,6,11,Yes
+47,Female,Low,Car,Yes,20,19,Yes
+54,Male,High,Beauty Products,Yes,3,11,No
+37,Female,Low,Groceries,No,27,17,Yes
+49,Female,Medium,Electronics,No,8,3,No
+51,Male,High,Beauty Products,Yes,3,1,Yes
+32,Male,High,Car,Yes,1,3,No
+23,Male,Low,Designer items,No,6,9,Yes
+29,Male,Medium,Electronics,No,2,12,No
+35,Female,High,Groceries,No,7,14,No
+50,Female,Low,Electronics,Yes,2,7,No
+53,Female,Medium,Car,Yes,15,9,Yes
+31,Male,Medium,Beauty Products,No,13,1,No
+54,Female,Low,Groceries,No,4,5,Yes
+58,Female,High,Beauty Products,Yes,29,14,Yes
+31,Female,Low,Beauty Products,Yes,23,6,No
+42,Male,Medium,Designer items,No,19,1,No
+56,Female,High,Car,No,5,16,No
+42,Male,Medium,Electronics,No,24,1,Yes
+52,Female,Medium,Electronics,Yes,4,4,Yes
+18,Female,Medium,Designer items,Yes,7,11,No
+53,Female,High,Beauty Products,No,12,14,Yes
+48,Female,Low,Groceries,Yes,10,9,No
+20,Male,Medium,Car,Yes,21,13,No
+33,Male,High,Designer items,Yes,9,9,No
+29,Female,High,Groceries,No,29,8,Yes
+18,Male,Medium,Car,Yes,4,19,No
+25,Female,Medium,Electronics,Yes,10,11,No
+18,Female,Low,Car,Yes,24,19,Yes
+45,Male,High,Designer items,No,24,10,Yes
+54,Male,Medium,Electronics,No,14,4,No
+29,Male,Medium,Electronics,No,4,16,No
+45,Female,Low,Groceries,No,14,14,Yes
+23,Female,Low,Electronics,Yes,11,19,Yes
+31,Female,Medium,Beauty Products,Yes,1,8,Yes
+54,Female,High,Groceries,Yes,19,0,Yes
+52,Female,Low,Groceries,No,5,4,Yes
+22,Male,Medium,Groceries,Yes,0,16,No
+31,Female,High,Beauty Products,No,11,9,Yes
+37,Female,High,Electronics,Yes,20,17,Yes
+41,Male,Medium,Car,Yes,26,10,No
+51,Female,High,Electronics,Yes,24,17,Yes
+46,Male,High,Beauty Products,Yes,24,6,Yes
+48,Male,High,Beauty Products,No,23,14,No
+40,Female,High,Designer items,Yes,11,5,Yes
+37,Female,Medium,Groceries,Yes,22,12,Yes
+33,Male,High,Electronics,No,17,9,Yes
+25,Female,High,Car,No,17,0,No
+25,Female,High,Electronics,Yes,28,5,Yes
+22,Female,Low,Designer items,Yes,14,14,No
+51,Male,High,Electronics,Yes,0,10,Yes
+27,Female,High,Electronics,No,29,17,Yes
+35,Female,Medium,Car,Yes,16,7,No
+57,Female,Low,Designer items,No,16,11,No
+44,Female,Low,Electronics,Yes,7,13,No
+21,Male,Low,Car,No,0,0,No
+36,Male,High,Beauty Products,Yes,30,15,Yes
+31,Female,High,Designer items,Yes,20,15,Yes
+22,Male,Low,Groceries,Yes,8,1,Yes
+23,Female,High,Electronics,Yes,30,8,Yes
+50,Female,Low,Electronics,No,8,15,Yes
+30,Male,High,Electronics,Yes,8,12,Yes
+48,Male,Low,Car,Yes,8,10,No
+21,Female,Medium,Electronics,No,1,5,No
+21,Male,Low,Car,No,5,18,Yes
+23,Female,Medium,Electronics,Yes,1,17,Yes
+30,Male,Medium,Designer items,No,8,18,No
+28,Female,Medium,Car,No,0,6,No
+42,Male,Medium,Car,Yes,20,14,No
+18,Male,Low,Beauty Products,No,11,6,No
+32,Female,High,Groceries,Yes,20,18,Yes
+46,Female,Medium,Designer items,Yes,24,0,Yes
+49,Female,High,Car,Yes,16,2,Yes
+55,Female,Medium,Car,No,25,10,Yes
+52,Female,High,Groceries,Yes,7,13,Yes
+31,Female,High,Groceries,No,9,1,Yes
+26,Male,High,Car,Yes,2,7,Yes
+19,Female,Medium,Groceries,No,5,11,No
+22,Female,Low,Car,No,1,15,No
+54,Female,Medium,Electronics,No,14,11,Yes
+53,Male,Medium,Electronics,Yes,14,10,Yes
+40,Male,Low,Designer items,Yes,5,13,No
+38,Male,High,Electronics,No,22,10,Yes
+33,Female,Medium,Designer items,No,14,14,Yes
+42,Male,Medium,Car,Yes,3,10,No
+32,Male,High,Beauty Products,No,3,12,No
+39,Male,Medium,Beauty Products,Yes,18,1,No
+31,Male,Medium,Electronics,No,28,3,Yes
+44,Male,High,Car,No,28,14,Yes
+45,Male,High,Electronics,Yes,2,7,Yes
+33,Male,Low,Groceries,Yes,9,3,Yes
+47,Male,Medium,Designer items,Yes,17,1,No
+30,Female,Medium,Electronics,Yes,3,10,No
+24,Male,High,Car,Yes,30,11,Yes
+27,Female,Medium,Car,No,6,12,No
+48,Female,High,Electronics,Yes,6,16,Yes
+59,Female,Medium,Electronics,Yes,28,9,Yes
+53,Female,Medium,Groceries,Yes,19,3,No
+24,Female,Low,Groceries,No,21,0,No
+59,Female,Medium,Beauty Products,No,14,12,Yes
+39,Female,Low,Designer items,Yes,21,8,No
+43,Male,Low,Electronics,Yes,8,14,No
+27,Female,High,Car,Yes,23,9,Yes
+25,Female,Medium,Car,Yes,23,15,No
+43,Male,Medium,Electronics,Yes,26,4,Yes
+21,Female,High,Beauty Products,No,17,18,No
+53,Male,High,Beauty Products,No,27,6,Yes
+27,Female,Medium,Beauty Products,Yes,24,17,Yes
+36,Female,High,Designer items,Yes,3,9,Yes
+50,Male,Medium,Designer items,Yes,22,17,No
+22,Female,Medium,Groceries,No,14,16,No
+52,Male,High,Designer items,No,11,1,Yes
+50,Male,Medium,Designer items,Yes,22,16,No
+39,Female,Medium,Car,Yes,15,4,No
+32,Female,High,Electronics,No,2,6,Yes
+49,Male,Low,Car,Yes,10,9,Yes
+26,Male,Low,Groceries,No,13,12,Yes
+42,Female,Low,Car,Yes,1,2,No
+24,Male,Medium,Electronics,No,20,17,Yes
+20,Female,Low,Designer items,Yes,9,6,No
+58,Male,High,Groceries,No,16,10,Yes
+56,Male,High,Groceries,Yes,23,13,Yes
+36,Male,Medium,Electronics,No,3,5,No
+59,Male,High,Beauty Products,No,6,12,No
+53,Male,Medium,Designer items,Yes,7,4,Yes
+50,Male,Medium,Electronics,Yes,3,2,No
+26,Female,Low,Beauty Products,Yes,7,0,Yes
+23,Male,High,Car,No,8,6,No
+21,Female,Medium,Beauty Products,Yes,12,16,Yes
+19,Male,Low,Groceries,No,27,4,Yes
+44,Female,High,Designer items,Yes,20,7,Yes
+55,Female,Medium,Designer items,Yes,7,17,Yes
+20,Female,High,Beauty Products,No,21,11,No
+20,Male,High,Car,No,21,5,No
+19,Male,High,Beauty Products,No,22,11,No
+19,Female,Low,Car,Yes,5,16,No
+52,Female,Low,Beauty Products,Yes,1,19,Yes
+25,Male,Medium,Groceries,Yes,21,11,Yes
+53,Male,Low,Beauty Products,No,4,12,Yes
+46,Female,High,Designer items,No,30,14,Yes
+33,Male,High,Electronics,No,9,15,Yes
+29,Male,Medium,Groceries,Yes,16,15,Yes
+29,Male,High,Beauty Products,Yes,7,19,Yes
+20,Female,Low,Electronics,No,15,12,Yes
+40,Male,Low,Car,No,27,18,No
+57,Male,High,Beauty Products,No,21,4,Yes
+37,Female,High,Car,No,7,11,No
+18,Female,Low,Electronics,Yes,24,19,No
+23,Male,Medium,Beauty Products,Yes,21,17,Yes
+25,Female,High,Beauty Products,No,6,0,Yes
+33,Male,Medium,Groceries,Yes,11,5,Yes
+51,Female,Low,Car,Yes,28,13,No
+53,Male,Medium,Groceries,Yes,0,17,Yes
+19,Male,Low,Designer items,Yes,8,1,No
+44,Male,Low,Designer items,No,24,8,No
+18,Male,High,Electronics,Yes,10,2,Yes
+40,Female,Low,Beauty Products,No,25,3,Yes
+35,Male,Medium,Designer items,Yes,22,5,Yes
+52,Female,Low,Electronics,Yes,21,10,No
+32,Female,Medium,Designer items,No,21,4,No
+59,Male,Low,Groceries,No,11,14,Yes
+59,Female,High,Groceries,Yes,5,17,Yes
+52,Female,High,Electronics,Yes,29,9,Yes
+47,Male,Medium,Designer items,No,13,5,No
+20,Male,Low,Beauty Products,Yes,15,6,No
+31,Male,Low,Car,No,8,14,No
+38,Female,High,Beauty Products,No,2,1,Yes
+44,Female,Low,Groceries,No,1,2,Yes
+35,Female,Medium,Beauty Products,Yes,13,19,Yes
+35,Male,Low,Groceries,No,9,1,No
+42,Male,High,Beauty Products,No,28,0,Yes
+53,Male,Low,Beauty Products,No,30,13,Yes
+18,Female,Low,Designer items,Yes,13,15,Yes
+20,Female,Low,Designer items,Yes,2,8,No
+23,Female,High,Car,Yes,24,12,No
+51,Female,High,Groceries,Yes,7,1,Yes
+21,Female,Low,Electronics,Yes,24,14,No
+21,Female,Low,Groceries,No,12,11,Yes
+49,Female,Medium,Groceries,No,27,12,No
+48,Female,Low,Designer items,Yes,13,19,Yes
+35,Male,Medium,Designer items,Yes,28,5,Yes
+49,Male,High,Car,Yes,28,10,Yes
+19,Female,Low,Electronics,Yes,27,18,Yes
+48,Male,High,Car,Yes,18,4,Yes
+36,Male,Low,Beauty Products,No,1,9,Yes
+42,Female,Low,Designer items,Yes,1,10,No
+48,Male,Low,Groceries,Yes,23,14,Yes
+26,Male,Medium,Electronics,Yes,22,18,Yes
+26,Male,Low,Beauty Products,No,2,8,Yes
+45,Female,Low,Groceries,Yes,29,13,Yes
+24,Male,Medium,Designer items,Yes,15,15,Yes
+50,Male,High,Electronics,No,3,3,Yes
+56,Male,High,Beauty Products,No,7,16,Yes
+54,Female,High,Car,No,6,19,No
+46,Female,Medium,Car,Yes,19,3,No
+55,Female,Low,Beauty Products,Yes,6,17,No
+54,Female,High,Electronics,Yes,19,2,Yes
+24,Male,High,Beauty Products,Yes,26,13,Yes
+24,Female,High,Car,Yes,4,4,No
+19,Male,Low,Car,Yes,29,5,Yes
+32,Female,Low,Designer items,Yes,20,9,Yes
+40,Female,Medium,Beauty Products,Yes,25,6,Yes
+22,Female,Low,Beauty Products,No,0,12,Yes
+38,Female,Low,Beauty Products,Yes,25,17,Yes
+38,Female,Medium,Groceries,No,20,17,Yes
+54,Male,Low,Car,Yes,12,3,No
+34,Female,Low,Designer items,No,2,16,No
+28,Male,Medium,Car,Yes,30,19,No
+43,Female,High,Designer items,No,29,3,Yes
+51,Female,Low,Designer items,Yes,19,15,Yes
+35,Female,Medium,Electronics,No,7,2,No
+58,Female,High,Designer items,Yes,28,19,Yes
+46,Female,High,Beauty Products,Yes,5,9,Yes
+38,Male,Medium,Designer items,No,9,12,Yes
+58,Male,High,Designer items,No,16,8,Yes
+58,Female,Medium,Electronics,Yes,0,1,No
+46,Male,High,Car,Yes,0,9,No
+57,Female,Medium,Beauty Products,Yes,20,10,No
+51,Female,Medium,Designer items,No,7,7,No
+32,Male,Low,Electronics,Yes,16,12,Yes
+36,Female,Medium,Car,No,4,11,No
+18,Female,Low,Electronics,Yes,22,4,No
+25,Female,High,Electronics,No,12,7,No
+40,Male,Medium,Groceries,Yes,10,0,No
+41,Female,Medium,Designer items,Yes,2,16,Yes
+22,Male,Low,Groceries,Yes,19,7,Yes
+48,Male,High,Groceries,Yes,13,3,Yes
+28,Female,Medium,Designer items,Yes,19,14,No
+36,Female,High,Designer items,No,6,18,Yes
+45,Male,Medium,Groceries,Yes,18,10,Yes
+22,Male,Medium,Groceries,No,4,7,Yes
+27,Male,Low,Electronics,No,5,14,No
+49,Female,Low,Electronics,No,15,16,Yes
+48,Female,High,Beauty Products,Yes,7,7,No
+42,Female,High,Groceries,Yes,8,1,Yes
+32,Female,Low,Electronics,No,17,2,Yes
+53,Female,Medium,Designer items,No,29,3,No
+31,Male,Medium,Car,No,8,8,Yes
+42,Female,Low,Groceries,Yes,25,17,Yes
+27,Female,Low,Beauty Products,Yes,20,3,Yes
+29,Female,Low,Groceries,No,26,7,Yes
+19,Male,Low,Designer items,No,21,12,No
+49,Female,High,Beauty Products,No,30,15,Yes
+49,Female,High,Designer items,No,27,1,Yes
+28,Female,Medium,Beauty Products,No,9,14,Yes
+34,Male,Medium,Beauty Products,Yes,7,17,No
+26,Female,Low,Groceries,No,24,7,Yes
+31,Female,High,Groceries,Yes,27,17,Yes
+39,Male,High,Groceries,Yes,19,19,Yes
+38,Male,Medium,Beauty Products,Yes,11,18,Yes
+38,Female,Medium,Groceries,Yes,2,6,Yes
+29,Male,High,Electronics,Yes,8,14,Yes
+35,Male,Medium,Designer items,No,20,12,No
+38,Female,Medium,Beauty Products,No,29,7,Yes
+57,Female,Low,Designer items,Yes,13,6,Yes
+40,Female,Medium,Electronics,No,11,10,No
+39,Female,High,Beauty Products,Yes,21,10,Yes
+42,Female,Low,Designer items,No,21,12,No
+35,Female,Low,Designer items,Yes,1,14,Yes
+44,Male,High,Beauty Products,Yes,17,14,Yes
+40,Male,High,Car,Yes,23,11,Yes
+30,Female,Medium,Electronics,Yes,21,10,Yes
+54,Male,Medium,Designer items,Yes,28,0,Yes
+20,Female,Low,Groceries,No,30,18,Yes
+40,Female,High,Groceries,Yes,28,6,No
+42,Female,Medium,Beauty Products,No,4,14,Yes
+25,Female,Medium,Beauty Products,No,9,15,Yes
+25,Female,Low,Car,Yes,0,11,No
+22,Male,Low,Car,Yes,2,0,No
+21,Female,Low,Groceries,Yes,7,2,No
+49,Female,Medium,Electronics,Yes,9,1,Yes
+42,Male,Medium,Designer items,Yes,9,13,Yes
+56,Female,High,Electronics,Yes,26,1,Yes
+58,Male,High,Electronics,Yes,15,12,Yes
+26,Female,Low,Beauty Products,Yes,19,3,No
+39,Male,High,Electronics,No,9,11,Yes
+34,Female,Low,Electronics,Yes,13,13,No
+51,Male,Low,Car,Yes,20,19,No
+28,Female,Low,Car,Yes,15,18,No
+48,Male,High,Designer items,Yes,22,5,Yes
+36,Female,Medium,Groceries,No,4,3,Yes
+21,Male,Medium,Groceries,No,19,9,No
+41,Male,Low,Electronics,Yes,21,2,Yes
+43,Female,High,Groceries,No,4,5,Yes
+38,Female,High,Designer items,No,21,7,Yes
+56,Male,High,Car,Yes,20,9,No
+55,Female,Medium,Designer items,Yes,13,3,No
+37,Male,High,Designer items,No,16,6,Yes
+21,Female,Low,Electronics,Yes,28,13,No
+20,Male,Medium,Designer items,Yes,23,4,Yes
+33,Male,Low,Groceries,Yes,25,19,Yes
+21,Female,High,Beauty Products,No,23,1,Yes
+47,Male,High,Designer items,Yes,17,18,Yes
+48,Male,Medium,Car,Yes,27,18,Yes
+36,Male,Medium,Car,Yes,21,12,Yes
+29,Female,Medium,Groceries,No,29,5,Yes
+48,Female,Medium,Designer items,No,3,18,Yes
+53,Female,Medium,Groceries,Yes,29,16,Yes
+50,Female,Medium,Electronics,No,17,19,Yes
+45,Male,High,Designer items,Yes,26,14,Yes
+28,Female,High,Beauty Products,Yes,24,12,Yes
+50,Male,Medium,Designer items,No,16,5,Yes
+21,Male,Medium,Groceries,No,19,15,Yes
+44,Female,Medium,Beauty Products,No,14,5,Yes
+31,Female,Low,Electronics,Yes,27,10,Yes
+56,Male,Low,Designer items,No,8,15,Yes
+22,Male,Low,Car,Yes,24,19,No
+27,Female,Medium,Beauty Products,Yes,17,2,Yes
+30,Male,High,Car,No,10,16,No
+47,Male,High,Electronics,Yes,29,12,Yes
+23,Male,High,Groceries,No,16,12,Yes
+36,Female,Low,Car,Yes,9,2,No
+43,Male,Medium,Car,Yes,18,4,Yes
+46,Male,Medium,Designer items,Yes,4,19,Yes
+38,Female,High,Beauty Products,No,9,4,No
+53,Male,Medium,Car,No,5,3,No
+56,Female,Medium,Designer items,No,6,17,No
+52,Female,Medium,Groceries,Yes,0,3,No
+23,Male,High,Groceries,Yes,8,13,Yes
+48,Female,High,Groceries,No,19,3,Yes
+38,Female,Medium,Car,Yes,29,11,Yes
+59,Male,High,Groceries,Yes,29,6,Yes
+52,Female,High,Car,No,22,13,Yes
+27,Male,Medium,Beauty Products,Yes,15,15,Yes
+48,Female,Low,Groceries,No,9,12,Yes
+23,Male,Low,Groceries,Yes,11,8,Yes
+53,Female,Medium,Car,No,23,10,Yes
+37,Male,High,Beauty Products,Yes,17,10,Yes
+38,Female,High,Beauty Products,Yes,3,17,Yes
+50,Female,High,Groceries,Yes,26,6,No
+23,Male,High,Designer items,No,30,14,Yes
+35,Male,Low,Beauty Products,Yes,23,10,Yes
+37,Male,Medium,Designer items,Yes,23,14,No
+24,Male,Medium,Electronics,Yes,20,9,Yes
+43,Female,Medium,Designer items,Yes,11,13,Yes
+54,Female,Low,Electronics,Yes,25,17,Yes
+22,Male,Medium,Designer items,Yes,2,4,Yes
+41,Male,Medium,Beauty Products,Yes,16,18,No
+42,Male,Medium,Designer items,Yes,20,11,Yes
+58,Male,High,Beauty Products,Yes,0,17,Yes
+21,Female,Low,Designer items,Yes,30,9,No
+24,Female,High,Designer items,No,21,0,No
+34,Female,Medium,Designer items,Yes,23,1,No
+45,Male,Low,Groceries,No,25,10,No
+58,Male,Low,Car,No,6,16,No
+34,Male,High,Groceries,Yes,1,5,No
+23,Male,Medium,Electronics,Yes,1,0,No
+27,Female,Low,Beauty Products,Yes,20,4,Yes
+19,Female,High,Car,Yes,21,15,Yes
+19,Male,Low,Designer items,Yes,9,1,No
+33,Female,Medium,Car,No,15,18,Yes
+56,Female,Medium,Groceries,No,21,11,Yes
+41,Male,High,Electronics,No,14,7,Yes
+55,Female,High,Groceries,No,27,9,Yes
+52,Female,Low,Beauty Products,Yes,18,16,Yes
+49,Female,Low,Beauty Products,Yes,6,19,Yes
+43,Female,Low,Groceries,Yes,30,3,Yes
+39,Female,High,Beauty Products,No,14,7,Yes
+38,Female,High,Car,Yes,14,19,Yes
+45,Male,Medium,Designer items,No,13,8,Yes
+57,Female,High,Designer items,Yes,25,16,Yes
+19,Female,High,Beauty Products,Yes,24,2,Yes
+25,Male,Medium,Beauty Products,No,11,0,Yes
+59,Male,High,Beauty Products,Yes,19,2,No
+23,Male,High,Beauty Products,Yes,6,19,Yes
+40,Male,High,Car,Yes,24,17,No
+36,Female,High,Groceries,No,4,18,Yes
+28,Male,High,Groceries,No,23,11,Yes
+27,Female,Low,Beauty Products,No,7,8,Yes
+53,Male,Medium,Designer items,Yes,4,7,No
+26,Female,Medium,Beauty Products,No,14,14,Yes
+57,Female,High,Electronics,Yes,17,9,Yes
+37,Female,Low,Car,No,5,11,Yes
+19,Male,Medium,Designer items,Yes,6,15,No
+20,Female,High,Beauty Products,No,12,2,No
+44,Female,High,Electronics,No,17,10,Yes
+57,Female,High,Groceries,No,5,0,No
+45,Male,Medium,Beauty Products,Yes,0,7,Yes
+54,Male,High,Car,Yes,27,15,Yes
+54,Female,High,Beauty Products,Yes,3,5,Yes
+36,Female,Low,Groceries,Yes,8,11,Yes
+28,Male,High,Electronics,Yes,13,15,Yes
+18,Male,Low,Beauty Products,Yes,30,12,Yes
+38,Male,Low,Beauty Products,Yes,29,12,Yes
+51,Male,High,Beauty Products,Yes,3,5,Yes
+48,Male,Low,Electronics,No,26,4,Yes
+42,Male,Medium,Designer items,Yes,2,0,No
+21,Female,Medium,Car,No,24,19,No
+51,Female,High,Designer items,Yes,25,4,Yes
+52,Male,Low,Groceries,Yes,28,8,Yes
+55,Female,High,Car,Yes,17,5,Yes
+36,Male,High,Groceries,Yes,27,11,Yes
+28,Female,Low,Beauty Products,Yes,1,14,Yes
+26,Female,Medium,Car,Yes,20,1,No
+39,Female,Medium,Electronics,Yes,2,11,Yes
+45,Female,Medium,Beauty Products,No,29,15,Yes
+38,Male,High,Car,Yes,27,0,No
+38,Female,Low,Car,Yes,2,19,Yes
+51,Male,Low,Designer items,No,8,18,No
+35,Male,Medium,Beauty Products,No,25,10,No
+40,Male,Medium,Car,No,15,16,Yes
+22,Female,Medium,Car,No,11,10,Yes
+47,Female,Medium,Car,Yes,14,2,No
+50,Male,Medium,Designer items,Yes,19,15,No
+51,Female,High,Car,No,1,2,No
+57,Female,High,Groceries,No,23,14,Yes
+56,Female,Medium,Beauty Products,No,5,8,Yes
+37,Female,Medium,Electronics,No,27,0,No
+25,Male,Low,Groceries,Yes,22,2,Yes
+21,Male,Medium,Car,No,25,14,No
+55,Female,Medium,Groceries,Yes,14,2,Yes
+31,Female,Low,Designer items,Yes,3,11,Yes
+34,Female,Medium,Beauty Products,No,6,8,Yes
+52,Male,Medium,Electronics,No,27,12,Yes
+32,Female,High,Electronics,No,17,18,Yes
+50,Female,Medium,Electronics,Yes,5,1,No
+55,Female,High,Car,Yes,13,3,Yes
+25,Male,Medium,Car,Yes,29,2,No
+36,Male,High,Groceries,No,29,13,Yes
+37,Male,Low,Electronics,Yes,16,7,Yes
+41,Female,Medium,Groceries,No,13,5,Yes
+40,Female,Low,Designer items,Yes,21,15,No
+36,Male,Low,Groceries,Yes,13,18,Yes
+20,Female,Medium,Car,Yes,9,18,No
+26,Male,High,Designer items,Yes,27,19,Yes
+24,Female,High,Groceries,Yes,13,8,No
+36,Male,High,Beauty Products,Yes,14,19,Yes
+31,Male,Medium,Beauty Products,Yes,23,5,No
+53,Male,High,Beauty Products,Yes,7,16,No
+47,Male,Low,Groceries,Yes,8,0,Yes
+42,Male,High,Groceries,Yes,13,10,Yes
+52,Male,Medium,Electronics,Yes,8,13,Yes
+47,Male,Low,Beauty Products,Yes,8,3,Yes
+21,Female,Low,Designer items,Yes,27,7,Yes
+19,Female,Low,Groceries,Yes,8,13,Yes
+39,Male,High,Car,Yes,8,15,Yes
+46,Female,Medium,Beauty Products,No,29,16,Yes
+47,Male,High,Beauty Products,No,11,2,No
+28,Male,Medium,Designer items,No,13,17,No
+38,Female,Medium,Electronics,No,30,4,No
+37,Male,Medium,Designer items,Yes,4,2,No
+50,Female,Medium,Groceries,Yes,20,8,No
+26,Female,Medium,Groceries,Yes,3,2,Yes
+34,Female,Low,Electronics,No,1,0,No
+25,Male,Medium,Beauty Products,Yes,12,14,Yes
+57,Female,High,Car,Yes,11,11,Yes
+32,Female,Medium,Electronics,Yes,8,18,Yes
+43,Female,Medium,Designer items,Yes,19,7,Yes
+38,Female,High,Beauty Products,No,18,5,Yes
+37,Male,High,Beauty Products,Yes,24,18,No
+21,Female,Medium,Beauty Products,Yes,22,6,Yes
+45,Female,Medium,Car,Yes,27,3,No
+39,Female,Low,Car,Yes,11,12,No
+20,Male,Low,Designer items,No,21,11,No
+19,Male,Medium,Car,No,23,1,No
+44,Female,Medium,Beauty Products,Yes,22,8,Yes
+18,Female,Low,Beauty Products,No,7,5,No
+23,Male,High,Groceries,Yes,21,17,Yes
+34,Female,Medium,Designer items,Yes,28,11,No
+23,Female,High,Car,Yes,25,7,Yes
+36,Female,Low,Electronics,No,27,9,No
+18,Male,Low,Electronics,No,24,12,Yes
+52,Female,Low,Electronics,No,7,13,Yes
+52,Male,High,Designer items,Yes,15,12,Yes
+37,Female,Low,Electronics,No,23,16,Yes
+30,Female,Low,Electronics,No,28,5,No
+25,Male,High,Beauty Products,Yes,10,19,Yes
+50,Female,High,Electronics,Yes,25,6,Yes
+38,Male,Low,Electronics,No,20,16,Yes
+59,Female,High,Beauty Products,Yes,10,8,Yes
+26,Male,Medium,Groceries,Yes,23,4,No
+58,Female,Low,Beauty Products,Yes,16,18,Yes
+56,Male,High,Car,Yes,22,8,Yes
+56,Female,High,Car,No,12,10,No
+36,Female,Medium,Car,Yes,10,12,No
+18,Female,Low,Groceries,Yes,7,11,No
+36,Male,Low,Designer items,No,11,7,No
+25,Female,Medium,Beauty Products,Yes,28,12,Yes
+29,Female,Low,Car,No,28,15,No
+50,Male,Medium,Car,Yes,12,6,No
+45,Female,Medium,Designer items,Yes,25,4,Yes
+25,Male,High,Beauty Products,No,24,13,No
+40,Male,High,Groceries,Yes,29,12,Yes
+40,Male,Medium,Beauty Products,Yes,16,14,Yes
+37,Female,Low,Designer items,No,17,17,No
+19,Male,Low,Electronics,Yes,3,0,No
+53,Male,Medium,Groceries,Yes,17,4,Yes
+36,Male,Medium,Electronics,Yes,14,7,Yes
+37,Female,Medium,Designer items,Yes,16,0,No
+29,Male,Medium,Groceries,Yes,25,18,Yes
+32,Female,Medium,Electronics,Yes,8,6,Yes
+19,Female,Low,Beauty Products,Yes,30,8,Yes
+27,Male,Low,Beauty Products,Yes,1,18,No
+28,Male,High,Groceries,No,12,9,No
+31,Male,Low,Car,No,17,18,No
+26,Male,High,Groceries,Yes,24,6,Yes
+45,Male,Low,Beauty Products,No,2,19,No
+23,Male,High,Car,No,26,1,No
+46,Male,High,Beauty Products,No,5,2,No
+33,Male,Low,Electronics,No,29,7,No
+19,Female,Low,Electronics,Yes,16,8,No
+29,Female,Low,Car,Yes,2,10,No
+18,Male,Low,Groceries,Yes,22,12,Yes
+32,Female,High,Beauty Products,Yes,25,4,Yes
+38,Male,Low,Electronics,No,29,16,Yes
+48,Male,Medium,Groceries,Yes,24,5,Yes
+45,Male,High,Electronics,No,20,10,Yes
+35,Female,Medium,Car,Yes,3,2,No
+26,Male,High,Beauty Products,Yes,20,5,No
+47,Female,Medium,Electronics,No,27,11,No
+51,Male,High,Beauty Products,Yes,2,2,No
+45,Male,High,Electronics,Yes,11,14,No
+58,Female,Medium,Groceries,Yes,30,7,No
+28,Female,Medium,Groceries,Yes,15,3,Yes
+50,Male,High,Designer items,Yes,23,6,No
+51,Female,High,Groceries,No,23,4,No
+24,Female,Medium,Car,No,3,4,No
+18,Male,Low,Beauty Products,Yes,0,14,Yes
+37,Female,Medium,Groceries,Yes,18,9,Yes
+35,Male,Medium,Car,Yes,27,2,No
+48,Male,High,Electronics,Yes,26,10,Yes
+55,Male,Medium,Beauty Products,No,4,7,Yes
+51,Female,Low,Designer items,No,15,19,No
+29,Male,High,Car,No,5,0,No
+48,Female,Low,Car,No,3,16,Yes
+22,Male,Medium,Beauty Products,No,29,2,Yes
+28,Male,Medium,Beauty Products,Yes,12,3,Yes
+43,Female,Medium,Electronics,Yes,26,13,Yes
+44,Male,Medium,Groceries,No,9,18,Yes
+23,Female,Medium,Car,Yes,26,14,Yes
+47,Male,High,Beauty Products,Yes,9,4,No
+54,Female,Low,Car,No,9,4,Yes
+52,Male,Medium,Car,Yes,22,5,Yes
+21,Female,Medium,Groceries,No,17,8,Yes
+46,Male,Medium,Designer items,Yes,12,14,Yes
+34,Male,Medium,Designer items,No,12,15,Yes
+39,Male,Low,Electronics,No,3,4,No
+54,Male,Medium,Car,Yes,8,16,No
+30,Female,High,Beauty Products,No,1,12,No
+39,Male,Medium,Electronics,Yes,20,18,Yes
+20,Female,Medium,Electronics,Yes,9,1,No
+49,Female,Low,Groceries,Yes,12,18,Yes
+38,Male,Medium,Electronics,Yes,13,11,Yes
+38,Male,Medium,Designer items,Yes,11,10,Yes
+56,Female,High,Electronics,Yes,3,18,Yes
+18,Male,Medium,Designer items,Yes,27,2,Yes
+30,Female,High,Designer items,No,14,1,Yes
+28,Female,Medium,Car,Yes,3,18,No
+34,Female,Medium,Electronics,Yes,2,17,No
+57,Male,High,Groceries,Yes,21,18,Yes
+54,Male,Medium,Groceries,Yes,6,7,Yes
+45,Male,Medium,Groceries,No,4,16,Yes
+54,Male,High,Beauty Products,Yes,3,18,Yes
+44,Female,Medium,Electronics,No,20,1,Yes
+28,Female,Medium,Electronics,Yes,21,12,Yes
+29,Female,High,Designer items,Yes,21,10,Yes
+56,Male,High,Designer items,Yes,27,4,Yes
+34,Male,High,Beauty Products,Yes,23,19,Yes
+58,Female,High,Car,Yes,13,11,Yes
+23,Male,High,Electronics,Yes,16,18,Yes
+36,Male,Medium,Car,Yes,25,15,Yes
+49,Male,High,Beauty Products,No,5,3,Yes
+55,Male,Low,Electronics,No,10,0,Yes
+41,Male,Medium,Car,Yes,22,14,No
+44,Female,Medium,Groceries,No,10,18,Yes
+34,Male,Medium,Beauty Products,No,18,13,Yes
+44,Female,High,Car,No,17,18,Yes
+21,Male,Low,Beauty Products,Yes,6,12,Yes
+52,Male,Medium,Car,Yes,15,8,Yes
+25,Male,Medium,Electronics,No,19,12,No
+34,Female,Medium,Groceries,Yes,16,16,Yes
+50,Male,Medium,Electronics,Yes,7,18,Yes
+55,Female,High,Groceries,No,2,4,No
+30,Male,High,Car,No,14,13,Yes
+48,Female,Low,Designer items,No,22,15,Yes
+49,Male,Low,Car,Yes,21,10,No
+20,Female,Low,Car,Yes,21,9,No
+59,Female,High,Electronics,Yes,29,15,Yes
+29,Male,Low,Designer items,Yes,1,8,No
+41,Female,High,Beauty Products,Yes,2,14,Yes
+52,Female,High,Groceries,Yes,18,17,Yes
+25,Female,High,Electronics,Yes,25,16,Yes
+57,Female,High,Designer items,Yes,6,6,Yes
+20,Male,Low,Car,Yes,0,3,No
+42,Female,Low,Designer items,Yes,4,0,Yes
+32,Male,High,Designer items,Yes,4,12,Yes
+57,Female,Medium,Designer items,Yes,7,4,Yes
+26,Female,Medium,Car,No,30,0,No
+53,Female,Medium,Designer items,Yes,2,1,Yes
+57,Female,High,Designer items,No,22,8,Yes
+51,Female,High,Beauty Products,No,13,13,Yes
+21,Male,Medium,Beauty Products,No,29,5,No
+28,Male,High,Groceries,No,2,7,No
+20,Male,Low,Beauty Products,Yes,13,12,Yes
+49,Female,High,Electronics,Yes,1,12,Yes
+36,Male,Medium,Beauty Products,No,26,5,No
+33,Female,Low,Car,No,1,7,No
+34,Male,High,Electronics,Yes,22,1,Yes
+59,Female,Medium,Car,Yes,27,15,No
+55,Female,Medium,Electronics,Yes,27,1,Yes
+19,Male,Low,Electronics,Yes,25,12,No
+48,Female,High,Electronics,Yes,27,1,Yes
+56,Female,High,Electronics,Yes,2,7,Yes
+40,Female,Low,Designer items,Yes,13,6,No
+56,Female,High,Car,Yes,0,16,No
+58,Male,High,Electronics,Yes,29,12,Yes
+38,Male,High,Designer items,Yes,18,18,Yes
+42,Female,Medium,Car,No,21,16,Yes
+40,Male,Medium,Electronics,Yes,29,9,Yes
+27,Male,Low,Electronics,No,3,7,No
+37,Male,Medium,Electronics,Yes,17,13,No
+45,Female,Medium,Car,Yes,13,19,Yes
+41,Male,High,Electronics,Yes,14,3,Yes
+30,Male,Low,Groceries,Yes,26,7,Yes
+35,Female,Medium,Designer items,Yes,11,13,Yes
+51,Male,Medium,Groceries,Yes,17,1,Yes
+28,Male,High,Beauty Products,No,8,11,Yes
+32,Female,Low,Designer items,No,24,16,No
+46,Female,High,Groceries,No,25,17,Yes
+49,Female,Low,Beauty Products,No,21,5,Yes
+34,Female,Medium,Groceries,Yes,22,17,No
+25,Male,Low,Designer items,Yes,8,5,No
+22,Male,Medium,Beauty Products,Yes,11,10,No
+18,Male,Low,Designer items,Yes,10,18,Yes
+26,Female,Medium,Electronics,Yes,26,1,Yes
+21,Male,Medium,Car,Yes,3,17,No
+32,Male,Medium,Groceries,Yes,18,12,No
+36,Male,Medium,Car,Yes,16,5,Yes
+29,Male,Medium,Designer items,Yes,18,4,No
+34,Male,Medium,Electronics,No,25,0,Yes
+44,Male,Medium,Car,No,24,9,No
+40,Male,Medium,Designer items,No,20,10,Yes
+30,Female,Low,Groceries,Yes,4,0,No
+41,Male,High,Beauty Products,Yes,11,10,Yes
+34,Male,High,Car,No,3,14,No
+42,Male,Low,Beauty Products,No,29,8,Yes
+38,Female,Low,Beauty Products,Yes,19,18,Yes
+36,Male,Medium,Car,No,11,4,No
+59,Male,Medium,Beauty Products,Yes,16,4,No
+56,Male,Medium,Electronics,Yes,27,8,Yes
+52,Male,Medium,Groceries,Yes,14,15,Yes
+35,Female,Medium,Electronics,No,13,2,No
+58,Female,Medium,Electronics,No,27,6,Yes
+58,Female,High,Electronics,Yes,12,17,No
+54,Female,Medium,Car,Yes,12,3,No
+48,Female,Low,Designer items,Yes,1,15,No
+26,Male,Low,Designer items,Yes,8,5,Yes
+28,Male,Low,Electronics,Yes,21,0,Yes
+53,Female,Medium,Beauty Products,No,12,12,No
+51,Female,High,Groceries,No,8,7,No
+24,Female,High,Beauty Products,Yes,3,17,Yes
+20,Female,Low,Electronics,Yes,27,5,No
+38,Male,Low,Car,Yes,27,7,Yes
+18,Female,Low,Beauty Products,Yes,3,10,Yes
+52,Female,Low,Car,No,12,16,Yes
+27,Female,Medium,Electronics,Yes,20,11,No
+27,Male,Medium,Car,No,13,12,No
+54,Female,Low,Electronics,No,5,1,No
+39,Female,Low,Designer items,No,16,3,Yes
+31,Female,Medium,Groceries,Yes,9,2,Yes
+42,Female,High,Beauty Products,Yes,2,14,No
+55,Female,Medium,Electronics,Yes,16,11,No
+41,Female,High,Groceries,Yes,28,10,Yes
+42,Female,Low,Groceries,No,3,5,Yes
+18,Female,Medium,Groceries,Yes,19,15,Yes
+34,Male,Medium,Groceries,No,7,11,Yes
+44,Male,High,Beauty Products,No,21,9,Yes
+47,Male,Medium,Groceries,Yes,8,1,Yes
+54,Female,Medium,Electronics,Yes,5,6,No
+49,Female,Medium,Groceries,Yes,20,0,Yes
+24,Male,Low,Electronics,No,19,11,Yes
+33,Male,Medium,Groceries,No,15,10,Yes
+53,Male,Medium,Electronics,No,12,6,Yes
+53,Female,Medium,Car,No,14,18,Yes
+26,Male,Low,Car,Yes,10,7,Yes
+50,Female,Medium,Beauty Products,Yes,22,7,Yes
+39,Female,Low,Groceries,Yes,26,3,Yes
+57,Female,Medium,Electronics,No,2,8,Yes
+46,Male,High,Designer items,No,1,1,Yes
+45,Male,Low,Electronics,No,12,14,No
+40,Female,High,Groceries,No,11,3,No
+43,Female,Low,Designer items,Yes,7,8,Yes
+22,Female,Medium,Groceries,Yes,23,19,No
+28,Female,High,Designer items,Yes,14,8,Yes
+34,Male,Low,Beauty Products,Yes,26,11,Yes
+24,Female,Low,Designer items,Yes,9,9,No
+36,Male,Medium,Car,Yes,10,12,Yes
+25,Male,Low,Groceries,No,7,3,Yes
+48,Male,High,Car,No,27,10,Yes
+18,Female,Medium,Car,No,16,14,No
+55,Male,High,Electronics,Yes,23,14,Yes
+48,Female,Medium,Car,Yes,8,13,Yes
+43,Female,Medium,Groceries,No,16,17,Yes
+22,Female,Medium,Designer items,Yes,19,19,Yes
+58,Female,Medium,Groceries,Yes,10,0,No
+55,Female,Low,Beauty Products,No,26,1,Yes
+32,Male,Medium,Electronics,No,28,13,No
+22,Female,High,Groceries,No,5,5,No
+39,Male,Low,Beauty Products,No,29,17,No
+31,Female,High,Designer items,Yes,9,13,Yes
+30,Male,High,Groceries,Yes,30,2,Yes
+47,Female,Medium,Car,No,5,7,No
+50,Female,Medium,Designer items,Yes,16,15,No
+28,Female,High,Groceries,No,12,17,Yes
+28,Female,Low,Electronics,No,30,11,No
+23,Male,Medium,Electronics,No,8,15,Yes
+21,Female,Low,Groceries,No,2,15,No
+43,Male,High,Electronics,No,29,11,Yes
+28,Male,Low,Electronics,Yes,4,17,Yes
+36,Male,Medium,Beauty Products,Yes,22,5,Yes
+35,Female,High,Designer items,No,25,5,Yes
+21,Female,Low,Designer items,Yes,11,18,No
+46,Male,Medium,Groceries,Yes,26,1,Yes
+34,Male,Medium,Electronics,Yes,10,10,Yes
+33,Male,Medium,Beauty Products,No,1,1,No
+25,Male,Low,Designer items,Yes,12,9,No
+25,Female,Low,Car,Yes,29,3,No
+47,Female,Low,Beauty Products,No,0,10,No
+56,Male,High,Electronics,Yes,16,19,Yes
+41,Female,High,Groceries,No,17,11,Yes
+26,Male,Medium,Designer items,No,4,9,Yes
+53,Male,High,Electronics,Yes,4,9,Yes
+38,Male,Low,Groceries,No,23,9,No
+57,Male,Medium,Electronics,Yes,1,7,Yes
+44,Male,Medium,Electronics,No,21,4,No
+44,Male,High,Groceries,Yes,24,2,Yes
+30,Female,Medium,Designer items,No,12,9,No
+53,Male,High,Beauty Products,Yes,8,1,Yes
+18,Female,Low,Electronics,Yes,24,6,No
+20,Female,Low,Designer items,Yes,19,19,No
+47,Male,Medium,Electronics,Yes,2,2,No
+56,Male,Medium,Groceries,Yes,26,13,No
+34,Female,Medium,Groceries,No,17,12,Yes
+46,Female,High,Beauty Products,Yes,19,17,Yes
+21,Male,Low,Electronics,Yes,0,17,No
+18,Male,Medium,Electronics,Yes,25,12,Yes
+37,Female,Low,Electronics,Yes,19,9,Yes
+28,Male,Low,Electronics,Yes,8,8,No
+22,Female,Low,Electronics,Yes,25,0,No
+34,Male,Low,Groceries,Yes,21,1,Yes
+58,Female,High,Beauty Products,Yes,28,3,Yes
+22,Male,Low,Car,Yes,10,18,Yes
+38,Female,High,Car,Yes,2,11,No
+43,Female,High,Electronics,Yes,18,18,No
+24,Male,High,Designer items,Yes,14,6,Yes
+43,Female,High,Electronics,Yes,7,4,Yes
+38,Female,High,Beauty Products,Yes,13,3,No
+40,Male,High,Beauty Products,Yes,9,19,Yes
+32,Male,Medium,Groceries,No,17,19,Yes
+46,Female,High,Car,Yes,7,8,No
+36,Male,High,Electronics,Yes,15,6,Yes
+45,Female,Medium,Electronics,No,13,3,No
+32,Female,Low,Groceries,No,2,4,No
+18,Male,High,Beauty Products,Yes,2,14,Yes
+41,Female,Medium,Designer items,Yes,26,7,Yes
+53,Female,Medium,Beauty Products,Yes,1,9,Yes
+21,Female,Low,Designer items,No,2,1,Yes
+40,Male,Medium,Electronics,No,20,19,No
+40,Male,High,Beauty Products,Yes,12,4,Yes
+48,Female,High,Electronics,Yes,29,8,Yes
+23,Female,High,Designer items,Yes,4,9,Yes
+57,Male,Low,Car,Yes,6,6,Yes
+55,Female,Medium,Beauty Products,Yes,20,19,Yes
+20,Male,Medium,Car,No,18,14,No
+21,Male,Medium,Electronics,Yes,27,11,No
+55,Female,Medium,Beauty Products,No,18,3,Yes
+58,Male,High,Groceries,Yes,4,12,Yes
+40,Male,High,Groceries,Yes,25,17,Yes
+47,Male,Medium,Car,No,29,4,Yes
+42,Female,Medium,Beauty Products,Yes,15,18,No
+31,Female,Medium,Electronics,Yes,24,15,Yes
+53,Male,Low,Car,No,6,15,Yes
+39,Female,Medium,Designer items,No,20,7,No
+33,Female,Medium,Car,No,26,9,Yes
+27,Male,Medium,Car,No,26,1,No
+26,Female,Medium,Electronics,Yes,16,10,Yes
+49,Female,Medium,Groceries,Yes,9,16,Yes
+21,Female,Medium,Electronics,No,15,19,No
+42,Female,Medium,Beauty Products,Yes,26,4,Yes
+55,Female,Medium,Beauty Products,Yes,16,0,Yes
+42,Female,Low,Beauty Products,Yes,18,3,Yes
+34,Male,Medium,Electronics,Yes,8,1,No
+57,Male,Medium,Electronics,Yes,14,6,Yes
+23,Male,Medium,Electronics,Yes,0,14,Yes
+40,Female,High,Beauty Products,Yes,25,6,Yes
+34,Female,High,Electronics,No,1,8,No
+46,Male,High,Beauty Products,Yes,8,12,No
+23,Male,Medium,Designer items,Yes,5,19,No
+20,Female,Low,Electronics,Yes,16,16,Yes
+29,Female,Low,Car,No,15,14,No
+18,Male,Low,Beauty Products,No,16,2,Yes
+43,Male,Low,Designer items,Yes,14,3,No
+49,Male,High,Groceries,No,3,17,Yes
+36,Male,High,Beauty Products,No,10,19,No
+52,Male,Medium,Electronics,No,7,13,No
+50,Male,High,Car,Yes,13,1,Yes
+21,Female,Low,Designer items,Yes,23,18,Yes
+23,Female,Medium,Beauty Products,No,24,0,Yes
+57,Male,High,Groceries,Yes,18,0,Yes
+22,Male,High,Car,No,26,15,Yes
+23,Male,Low,Designer items,Yes,7,12,No
+52,Male,Medium,Designer items,No,18,11,Yes
+33,Female,High,Designer items,Yes,26,10,Yes
+27,Female,Medium,Beauty Products,No,24,19,Yes
+48,Male,High,Beauty Products,Yes,3,11,Yes
+40,Female,High,Designer items,Yes,1,18,Yes
+54,Male,High,Designer items,No,7,6,No
+31,Female,High,Beauty Products,Yes,23,2,No
+33,Female,High,Groceries,No,22,18,Yes
+35,Male,Low,Beauty Products,No,19,15,Yes
+25,Female,Low,Beauty Products,No,27,0,No
+29,Male,High,Electronics,No,29,10,Yes
+22,Male,Low,Electronics,Yes,26,11,Yes
+34,Female,Low,Beauty Products,Yes,5,0,No
+22,Female,Low,Car,Yes,24,13,No
+22,Male,Medium,Beauty Products,No,21,0,No
+58,Female,Medium,Beauty Products,Yes,18,4,No
+19,Female,High,Electronics,Yes,29,14,Yes
+56,Male,Medium,Designer items,Yes,3,0,Yes
+30,Male,High,Beauty Products,No,19,6,Yes
+32,Male,Low,Groceries,No,22,13,Yes
+40,Female,Low,Electronics,Yes,18,19,Yes
+46,Male,High,Electronics,Yes,23,17,Yes
+27,Female,Medium,Beauty Products,No,8,7,Yes
+43,Female,High,Electronics,No,29,9,Yes
+34,Male,Low,Beauty Products,Yes,1,5,No
+22,Male,High,Beauty Products,No,27,8,Yes
+22,Female,Low,Designer items,No,17,19,Yes
+58,Male,High,Car,Yes,16,16,Yes
+29,Female,Medium,Car,Yes,6,2,No
+27,Male,Low,Car,Yes,1,2,No
+33,Female,Low,Groceries,Yes,1,9,No
+55,Female,Medium,Car,Yes,21,10,Yes
+56,Female,Medium,Groceries,No,26,14,Yes
+55,Male,Medium,Beauty Products,No,19,8,Yes
+37,Female,Medium,Electronics,Yes,11,18,Yes
+37,Female,Low,Beauty Products,Yes,2,14,No
+19,Female,Low,Car,No,29,1,No
+39,Female,High,Car,Yes,2,5,Yes
+32,Male,Medium,Designer items,No,26,9,Yes
+26,Male,High,Beauty Products,Yes,0,15,No
+23,Female,Low,Car,No,8,3,Yes
+19,Female,Medium,Beauty Products,Yes,28,3,Yes
+18,Male,Low,Beauty Products,Yes,18,9,No
+32,Female,Medium,Designer items,Yes,26,18,Yes
+38,Male,Medium,Car,No,26,3,No
+51,Female,Medium,Designer items,No,29,12,Yes
+45,Male,High,Designer items,No,0,16,Yes
+21,Female,Low,Car,Yes,6,16,No
+26,Female,Medium,Groceries,Yes,3,18,No
+18,Male,Low,Designer items,No,9,3,No
+26,Female,Medium,Beauty Products,No,12,13,Yes
+59,Female,Medium,Beauty Products,Yes,5,15,Yes
+55,Female,High,Car,Yes,16,9,Yes
+44,Male,Low,Beauty Products,Yes,21,17,Yes
+52,Male,Low,Beauty Products,No,19,14,Yes
+32,Male,Medium,Designer items,Yes,3,8,Yes
+44,Male,High,Electronics,Yes,25,18,Yes
+45,Male,High,Groceries,Yes,16,10,No
+58,Female,Medium,Beauty Products,No,9,17,Yes
+37,Female,Medium,Designer items,Yes,12,7,No
+56,Male,Medium,Groceries,Yes,16,14,Yes
+49,Female,Low,Beauty Products,No,19,14,Yes
+50,Female,Medium,Groceries,No,24,13,No
+22,Male,Medium,Groceries,No,10,15,Yes
+51,Female,Medium,Beauty Products,Yes,7,10,Yes
+20,Female,Medium,Car,Yes,29,0,Yes
+28,Female,Low,Beauty Products,No,15,17,Yes
+47,Male,High,Car,No,15,9,No
+35,Female,Medium,Car,No,5,18,No
+53,Male,High,Electronics,No,26,12,Yes
+20,Female,High,Car,Yes,9,5,Yes
+18,Female,Low,Car,No,22,13,No
+25,Female,Low,Beauty Products,No,18,13,Yes
+59,Male,High,Groceries,Yes,16,8,No
+23,Male,High,Designer items,Yes,10,6,Yes
+45,Female,Medium,Groceries,Yes,0,4,Yes
+26,Male,High,Beauty Products,Yes,17,1,Yes
+55,Male,Low,Groceries,No,25,7,Yes
+53,Female,Medium,Car,No,17,10,No
+54,Male,Low,Electronics,No,14,17,Yes
+51,Female,High,Electronics,Yes,30,10,Yes
+30,Male,Medium,Beauty Products,No,3,6,Yes
+41,Female,Medium,Electronics,Yes,3,14,Yes
+18,Male,Low,Beauty Products,No,22,2,Yes
+31,Male,Medium,Car,Yes,5,17,No
+18,Male,Low,Car,Yes,5,5,No
+38,Female,Medium,Groceries,Yes,15,4,Yes
+27,Female,High,Car,Yes,27,17,Yes
+24,Female,Low,Beauty Products,No,2,12,Yes
+37,Male,Medium,Car,No,18,2,No
+21,Male,Medium,Car,Yes,4,0,No
+21,Female,Low,Beauty Products,Yes,11,9,Yes
+40,Female,Medium,Groceries,Yes,24,19,Yes
+41,Male,Medium,Beauty Products,Yes,24,12,Yes
+49,Male,Medium,Beauty Products,Yes,22,4,No
+53,Female,High,Electronics,Yes,13,9,Yes
+59,Male,Low,Car,No,25,6,Yes
+33,Female,Medium,Groceries,Yes,0,16,Yes
+38,Male,Low,Designer items,Yes,28,8,Yes
+23,Female,Medium,Groceries,Yes,18,12,Yes
+52,Female,Low,Electronics,No,6,8,Yes
+22,Male,High,Beauty Products,Yes,9,16,Yes
+29,Female,High,Car,Yes,22,15,No
+20,Male,Medium,Designer items,Yes,29,8,No
+46,Female,High,Electronics,No,14,4,Yes
+40,Female,Medium,Groceries,Yes,12,13,Yes
+40,Female,High,Car,Yes,12,16,Yes
+57,Female,Medium,Designer items,No,20,1,Yes
+54,Female,High,Groceries,Yes,5,11,Yes
+35,Male,High,Groceries,Yes,29,0,Yes
+47,Female,Low,Groceries,Yes,16,10,Yes
+49,Male,High,Car,Yes,9,18,No
+31,Male,Low,Groceries,Yes,25,9,Yes
+53,Male,Low,Car,No,1,8,No
+59,Female,Low,Designer items,No,27,10,No
+31,Female,Medium,Designer items,Yes,6,14,Yes
+36,Female,Medium,Designer items,No,21,14,Yes
+45,Male,Low,Designer items,Yes,23,7,No
+26,Female,Medium,Beauty Products,No,14,0,Yes
+50,Male,Low,Beauty Products,No,18,2,Yes
+27,Male,Low,Designer items,No,7,14,Yes
+59,Female,Low,Beauty Products,Yes,0,17,Yes
+51,Male,Medium,Beauty Products,Yes,18,12,Yes
+18,Female,Medium,Beauty Products,Yes,1,15,Yes
+30,Female,Medium,Groceries,No,15,16,Yes
+46,Male,Medium,Electronics,Yes,6,16,No
+24,Female,Medium,Designer items,Yes,12,4,Yes
+43,Female,Medium,Designer items,Yes,16,2,Yes
+24,Female,High,Groceries,Yes,25,16,Yes
+56,Female,Low,Beauty Products,Yes,20,0,Yes
+34,Female,Medium,Electronics,Yes,10,2,Yes
+32,Male,Medium,Groceries,Yes,28,10,Yes
+49,Male,High,Beauty Products,No,25,15,No
+42,Female,Low,Car,Yes,21,8,Yes
+18,Female,Low,Groceries,Yes,28,15,Yes
+58,Male,High,Groceries,No,18,11,No
+58,Female,High,Beauty Products,Yes,6,13,Yes
+46,Female,High,Electronics,No,18,18,Yes
+19,Male,Low,Beauty Products,No,8,12,Yes
+32,Female,High,Designer items,Yes,2,10,Yes
+47,Female,Medium,Electronics,Yes,24,7,Yes
+35,Female,High,Electronics,Yes,18,15,Yes
+19,Male,Low,Groceries,Yes,7,5,Yes
+29,Female,High,Car,No,14,7,No
+53,Female,Medium,Electronics,No,14,19,Yes
+35,Female,High,Beauty Products,Yes,1,12,Yes
+32,Male,High,Designer items,No,19,9,No
+46,Female,Medium,Beauty Products,No,2,18,Yes
+20,Female,Low,Beauty Products,Yes,21,13,Yes
+57,Female,Medium,Electronics,Yes,26,3,Yes
+28,Female,Medium,Car,Yes,25,10,Yes
+49,Female,High,Electronics,Yes,26,10,Yes
+19,Male,Low,Electronics,Yes,29,16,Yes
+26,Female,Medium,Electronics,Yes,27,1,Yes
+32,Male,Medium,Electronics,Yes,15,3,No
+25,Female,Low,Designer items,Yes,8,4,No
+56,Female,Medium,Beauty Products,Yes,25,19,Yes
+34,Male,Medium,Groceries,Yes,2,4,Yes
+36,Male,Low,Electronics,Yes,11,6,No
+45,Female,High,Electronics,Yes,8,5,Yes
+46,Female,Medium,Electronics,No,25,16,No
+33,Male,Low,Beauty Products,Yes,22,2,Yes
+38,Female,Medium,Electronics,Yes,25,3,Yes
+59,Female,High,Car,No,4,9,Yes
+29,Female,High,Designer items,No,9,12,Yes
+28,Male,Medium,Car,No,21,15,Yes
+25,Female,High,Car,Yes,7,7,Yes
+19,Female,Medium,Groceries,Yes,29,11,Yes
+27,Male,Medium,Electronics,Yes,11,10,Yes
+32,Female,High,Electronics,No,15,16,No
+43,Female,Medium,Car,Yes,1,17,No
+29,Female,Medium,Electronics,Yes,18,17,Yes
+49,Male,High,Electronics,Yes,16,5,Yes
+20,Male,Low,Car,Yes,5,2,Yes
+47,Male,High,Designer items,No,28,0,Yes
+47,Female,Medium,Electronics,Yes,12,13,Yes
+30,Male,High,Beauty Products,Yes,26,3,Yes
+24,Male,Medium,Beauty Products,Yes,21,9,Yes
+56,Male,Low,Car,No,20,14,No
+32,Male,High,Groceries,Yes,3,5,Yes
+41,Female,Low,Car,No,19,4,No
+37,Male,Low,Car,No,11,0,Yes
+45,Female,Medium,Groceries,Yes,7,0,Yes
+54,Female,Medium,Beauty Products,No,30,5,Yes
+38,Female,Low,Groceries,Yes,2,14,Yes
+22,Male,Low,Electronics,Yes,27,13,Yes
+23,Female,High,Beauty Products,Yes,24,13,No
+57,Female,Medium,Beauty Products,No,30,6,Yes
+57,Male,Medium,Beauty Products,Yes,12,5,Yes
+35,Male,Medium,Electronics,Yes,1,7,No
+28,Female,High,Groceries,Yes,0,5,Yes
+44,Female,High,Electronics,Yes,19,11,Yes
+48,Male,Medium,Car,Yes,26,9,No
+20,Female,Low,Designer items,No,12,2,No
+48,Female,Low,Groceries,Yes,14,15,Yes
+30,Male,Low,Car,No,16,2,No
+28,Male,High,Groceries,Yes,26,18,Yes
+28,Female,High,Beauty Products,No,29,15,Yes
+52,Female,Low,Groceries,Yes,21,5,Yes
+48,Male,High,Designer items,No,13,17,Yes
+49,Male,Medium,Electronics,Yes,3,14,Yes
+52,Male,High,Car,No,2,15,No
+22,Male,Low,Beauty Products,Yes,20,9,Yes
+36,Male,High,Groceries,No,24,3,Yes
+46,Female,Low,Designer items,Yes,30,18,No
+19,Female,Medium,Groceries,Yes,9,10,No
+42,Female,Medium,Designer items,Yes,19,15,Yes
+36,Female,High,Designer items,Yes,22,10,Yes
+51,Male,High,Groceries,Yes,22,4,Yes
+22,Female,Low,Groceries,Yes,18,11,Yes
+21,Male,Low,Groceries,No,21,16,Yes
+59,Male,High,Car,No,19,5,No
+42,Female,Medium,Electronics,No,13,10,No
+49,Female,Medium,Electronics,No,10,17,Yes
+44,Male,Medium,Car,Yes,22,17,Yes
+40,Female,Low,Electronics,No,10,11,No
+22,Female,Low,Electronics,No,22,8,No
+42,Male,High,Designer items,Yes,8,9,No
+39,Male,Medium,Car,Yes,18,0,No
+24,Male,Medium,Groceries,No,3,0,No
+32,Male,High,Car,No,7,11,No
+39,Male,High,Electronics,Yes,21,17,Yes
+34,Female,Medium,Electronics,No,28,13,Yes
+31,Female,Medium,Electronics,No,17,19,No
+50,Male,High,Car,No,22,10,No
+32,Female,Medium,Designer items,No,11,7,No
+37,Male,Medium,Groceries,No,29,5,No
+20,Female,Low,Car,Yes,27,12,No
+30,Male,High,Designer items,Yes,1,4,Yes
+55,Male,Low,Designer items,Yes,1,3,No
+43,Male,Low,Car,No,10,7,Yes
+57,Female,High,Electronics,No,10,19,Yes
+25,Male,High,Designer items,Yes,28,7,Yes
+43,Male,Medium,Groceries,Yes,29,16,Yes
+37,Male,Medium,Car,Yes,19,15,No
+24,Male,Low,Beauty Products,Yes,15,12,Yes
+44,Female,Low,Beauty Products,No,20,8,Yes
+52,Female,Medium,Electronics,Yes,18,19,No
+54,Female,High,Designer items,No,9,16,Yes
+48,Female,Low,Groceries,No,22,7,Yes
+32,Male,High,Electronics,Yes,30,13,Yes
+37,Female,Medium,Designer items,Yes,27,6,No
+29,Female,High,Beauty Products,No,16,16,Yes
+59,Male,High,Groceries,No,29,18,No
+28,Female,High,Groceries,Yes,1,17,Yes
+24,Female,High,Car,Yes,11,1,No
+37,Female,High,Car,Yes,17,5,Yes
+41,Male,Low,Beauty Products,Yes,9,19,No
+32,Female,Medium,Beauty Products,Yes,4,19,Yes
+20,Male,Low,Beauty Products,Yes,4,7,Yes
+25,Male,High,Car,Yes,7,11,No
+40,Female,Low,Groceries,No,7,10,Yes
+25,Male,Low,Electronics,No,28,9,No
+56,Male,High,Electronics,No,27,16,Yes
+53,Male,Medium,Beauty Products,No,28,12,Yes
+49,Female,High,Electronics,No,3,4,Yes
+43,Male,Low,Car,Yes,21,3,No
+48,Female,High,Car,Yes,17,5,Yes
+41,Female,Medium,Car,Yes,30,1,No
+48,Female,High,Electronics,No,22,10,Yes
+45,Male,High,Designer items,Yes,13,4,Yes
+55,Male,High,Groceries,No,9,7,Yes
+41,Male,Medium,Electronics,No,2,11,Yes
+40,Female,High,Car,Yes,16,0,No
+48,Female,Low,Beauty Products,No,30,9,Yes
+59,Male,Medium,Electronics,No,20,1,Yes
+26,Male,High,Designer items,No,21,12,Yes
+42,Female,High,Designer items,No,15,17,Yes
+29,Male,High,Designer items,Yes,7,16,Yes
+32,Female,Medium,Groceries,Yes,9,14,Yes
+32,Female,Low,Designer items,Yes,30,6,Yes
+30,Female,High,Car,Yes,16,8,Yes
+57,Female,Low,Electronics,No,19,17,Yes
+30,Male,High,Designer items,Yes,15,8,Yes
+29,Female,Low,Designer items,No,11,5,No
+36,Male,High,Car,Yes,27,6,Yes
+52,Female,High,Car,Yes,15,17,No
+33,Male,Medium,Electronics,Yes,22,6,Yes
+21,Male,Low,Beauty Products,No,26,7,Yes
+30,Female,Medium,Car,No,12,16,No
+54,Female,Medium,Electronics,Yes,5,18,Yes
+30,Male,Low,Beauty Products,Yes,24,13,Yes
+48,Male,Medium,Groceries,No,21,3,Yes
+56,Female,Medium,Electronics,Yes,7,12,Yes
+49,Male,Low,Beauty Products,Yes,26,5,No
+55,Female,Medium,Beauty Products,Yes,23,2,No
+45,Male,Medium,Car,No,2,12,No
+51,Male,Low,Beauty Products,Yes,15,5,Yes
+25,Male,Medium,Car,Yes,22,7,No
+23,Male,Low,Groceries,Yes,13,2,Yes
+27,Male,Low,Beauty Products,Yes,2,11,No
+48,Male,Low,Groceries,No,28,4,Yes
+42,Female,High,Beauty Products,Yes,30,8,Yes
+48,Male,Medium,Groceries,No,29,19,Yes
+56,Male,Low,Car,Yes,30,3,No
+30,Male,Low,Designer items,Yes,12,9,Yes
+37,Male,High,Electronics,Yes,19,12,Yes
+34,Female,Medium,Designer items,Yes,21,3,No
+50,Male,High,Designer items,Yes,0,14,Yes
+30,Female,High,Designer items,Yes,16,7,Yes
+44,Female,Medium,Designer items,No,12,13,Yes
+25,Male,High,Electronics,No,7,14,Yes
+30,Male,Low,Beauty Products,No,6,4,Yes
+45,Female,Medium,Car,No,24,15,No
+19,Female,Low,Designer items,Yes,21,17,No
+34,Male,High,Electronics,No,29,6,Yes
+30,Female,Medium,Groceries,Yes,17,13,Yes
+47,Female,Medium,Groceries,No,17,12,No
+38,Male,Low,Electronics,Yes,29,15,No
+34,Female,High,Beauty Products,Yes,7,18,Yes
+32,Male,Low,Beauty Products,No,8,19,Yes
+27,Male,Medium,Groceries,No,11,19,Yes
+47,Female,Medium,Designer items,No,0,19,Yes
+26,Female,High,Electronics,Yes,21,14,Yes
+18,Female,High,Designer items,No,11,2,Yes
+28,Male,Medium,Groceries,No,1,15,Yes
+26,Male,Low,Car,Yes,14,11,Yes
+50,Male,Medium,Electronics,No,12,13,Yes
+25,Female,Medium,Designer items,Yes,7,11,No
+18,Male,Medium,Beauty Products,Yes,10,7,Yes
+59,Female,High,Car,No,29,18,No
+28,Male,Low,Beauty Products,No,6,10,No
+48,Male,High,Beauty Products,Yes,16,0,Yes
+49,Male,Low,Groceries,Yes,25,7,Yes
+40,Female,Medium,Car,No,23,5,Yes
+39,Female,Medium,Car,Yes,17,5,Yes
+54,Female,Medium,Beauty Products,Yes,12,18,Yes
+25,Male,High,Beauty Products,No,8,16,No
+52,Female,High,Car,Yes,18,10,Yes
+41,Male,Medium,Car,Yes,16,18,No
+19,Male,Low,Car,Yes,30,7,Yes
+36,Female,Medium,Designer items,Yes,6,16,Yes
+23,Male,Low,Groceries,Yes,18,5,Yes
+45,Female,Medium,Designer items,Yes,1,5,Yes
+54,Male,High,Designer items,Yes,18,19,Yes
+21,Male,Low,Designer items,Yes,21,16,Yes
+53,Male,Medium,Groceries,Yes,25,12,Yes
+49,Male,Medium,Groceries,Yes,16,8,Yes
+53,Female,High,Designer items,No,22,13,Yes
+36,Male,Medium,Electronics,Yes,25,2,Yes
+57,Female,Low,Designer items,Yes,23,0,No
+59,Female,Medium,Groceries,No,17,15,Yes
+57,Female,Medium,Groceries,Yes,0,11,No
+25,Male,Low,Designer items,Yes,23,15,No
+21,Female,Medium,Designer items,Yes,5,11,No
+44,Male,High,Beauty Products,Yes,8,14,No
+33,Male,Medium,Designer items,Yes,23,11,Yes
+48,Male,Medium,Designer items,Yes,23,13,No
+42,Female,Low,Car,Yes,30,1,No
+20,Male,Medium,Designer items,Yes,25,9,Yes
+26,Female,Medium,Car,Yes,25,19,Yes
+57,Male,High,Electronics,Yes,9,18,Yes
+20,Female,Low,Car,Yes,23,4,No
+20,Female,High,Car,Yes,25,15,No
+32,Male,Medium,Groceries,Yes,2,11,Yes
+58,Female,Medium,Designer items,Yes,20,11,No
+43,Female,High,Beauty Products,Yes,14,1,Yes
+40,Male,Medium,Car,Yes,30,17,No
+37,Male,Low,Beauty Products,Yes,11,3,Yes
+40,Female,Low,Beauty Products,Yes,15,15,Yes
+18,Male,Medium,Beauty Products,Yes,21,1,Yes
+47,Female,Medium,Groceries,No,2,19,Yes
+39,Male,High,Electronics,Yes,20,0,Yes
+55,Male,High,Car,Yes,28,14,Yes
+32,Male,Low,Car,No,13,4,No
+23,Female,High,Electronics,No,16,10,No
+40,Female,High,Designer items,No,3,17,Yes
+38,Female,High,Electronics,Yes,27,2,Yes
+39,Male,Medium,Beauty Products,No,7,2,No
+57,Female,Medium,Beauty Products,Yes,17,9,Yes
+42,Male,High,Beauty Products,Yes,19,16,Yes
+25,Male,Low,Car,No,22,10,Yes
+22,Male,Low,Car,No,25,12,Yes
+54,Female,Low,Groceries,Yes,23,12,No
+55,Male,High,Groceries,Yes,28,4,Yes
+26,Male,Medium,Car,No,26,15,Yes
+19,Female,High,Designer items,No,0,7,Yes
+47,Male,High,Beauty Products,No,10,11,No
+29,Male,High,Groceries,No,6,12,Yes
+25,Female,Low,Beauty Products,Yes,30,8,Yes
+56,Male,High,Groceries,No,30,14,Yes
+51,Male,Low,Designer items,Yes,22,19,No
+42,Male,High,Groceries,Yes,11,0,No
+39,Male,High,Beauty Products,Yes,7,4,Yes
+18,Male,Low,Electronics,No,0,9,Yes
+59,Male,High,Car,Yes,20,14,Yes
+34,Male,High,Car,Yes,21,5,Yes
+52,Male,Low,Beauty Products,No,12,15,Yes
+25,Female,High,Beauty Products,No,29,14,Yes
+34,Female,Low,Beauty Products,No,16,12,Yes
+34,Male,Medium,Designer items,Yes,5,16,Yes
+31,Male,Medium,Car,Yes,12,5,Yes
+52,Male,Medium,Electronics,Yes,13,13,Yes
+25,Male,Low,Electronics,Yes,28,14,Yes
+44,Male,High,Electronics,Yes,12,16,No
+48,Female,Medium,Groceries,Yes,20,2,Yes
+23,Male,Medium,Car,No,4,16,No
+40,Male,Medium,Beauty Products,No,24,1,Yes
+43,Female,High,Groceries,Yes,14,4,Yes
+43,Female,High,Groceries,No,19,5,Yes
+23,Male,Low,Car,No,26,17,Yes
+35,Female,Low,Electronics,No,3,16,Yes
+31,Male,Medium,Groceries,Yes,13,12,No
+24,Female,Low,Electronics,Yes,11,14,Yes
+36,Female,Medium,Electronics,Yes,30,10,No
+52,Female,High,Electronics,Yes,16,2,Yes
+36,Male,Medium,Beauty Products,Yes,19,3,No
+52,Male,Medium,Beauty Products,No,25,15,Yes
+57,Female,Low,Car,Yes,23,16,No
+24,Female,High,Car,Yes,10,17,No
+18,Female,Medium,Designer items,Yes,2,3,No
+30,Male,Medium,Electronics,Yes,5,13,Yes
+54,Male,High,Car,Yes,15,14,Yes
+21,Male,High,Groceries,No,7,15,Yes
+45,Male,Low,Beauty Products,Yes,15,3,Yes
+43,Male,Low,Car,Yes,27,12,No
+19,Female,Low,Designer items,No,30,2,No
+25,Female,Medium,Groceries,Yes,23,14,Yes
+48,Female,High,Car,Yes,8,6,Yes
+19,Male,Medium,Beauty Products,Yes,7,6,Yes
+56,Female,High,Electronics,No,9,15,Yes
+52,Male,High,Electronics,Yes,29,9,Yes
+55,Male,Medium,Designer items,Yes,17,17,Yes
+22,Male,Low,Beauty Products,No,20,6,Yes
+51,Female,Medium,Electronics,Yes,10,12,No
+40,Female,High,Designer items,Yes,4,5,Yes
+21,Male,Medium,Groceries,Yes,28,5,Yes
+49,Male,Low,Designer items,No,9,17,No
+32,Male,Medium,Car,Yes,7,8,No
+54,Female,Medium,Beauty Products,Yes,9,19,Yes
+23,Female,High,Car,No,15,2,No
+59,Female,Medium,Groceries,No,10,10,No
+34,Female,High,Car,Yes,3,3,No
+34,Male,Low,Designer items,Yes,8,18,No
+22,Female,Low,Car,Yes,21,5,No
+52,Male,Low,Car,No,21,0,No
+37,Female,Medium,Designer items,Yes,21,15,Yes
+28,Female,Low,Beauty Products,Yes,12,9,Yes
+20,Male,Medium,Designer items,No,8,11,No
+40,Female,High,Beauty Products,Yes,13,0,Yes
+35,Male,High,Groceries,Yes,16,8,Yes
+26,Male,Low,Groceries,Yes,22,9,Yes
+36,Male,Medium,Car,No,28,14,Yes
+22,Female,High,Groceries,No,14,19,Yes
+40,Female,Low,Beauty Products,Yes,29,1,No
+42,Male,Medium,Beauty Products,Yes,9,13,Yes
+59,Female,High,Groceries,Yes,24,13,Yes
+47,Male,Medium,Car,No,22,8,Yes
+42,Male,High,Car,No,13,2,No
+51,Male,Low,Electronics,Yes,9,2,No
+28,Female,Medium,Groceries,Yes,10,12,Yes
+24,Male,High,Car,Yes,22,16,Yes
+19,Female,High,Electronics,Yes,11,9,Yes
+35,Female,Medium,Beauty Products,Yes,21,10,Yes
+33,Male,Low,Electronics,Yes,16,18,No
+35,Female,Low,Designer items,Yes,2,15,No
+23,Female,High,Car,No,24,11,No
+59,Male,Medium,Designer items,No,11,12,No
+21,Male,Low,Designer items,Yes,6,1,No
+43,Female,Low,Electronics,Yes,26,14,No
+25,Male,Low,Car,No,6,14,No
+57,Male,High,Groceries,Yes,27,11,No
+30,Male,Medium,Beauty Products,No,29,10,Yes
+34,Female,High,Beauty Products,No,30,16,Yes
+53,Male,High,Designer items,No,20,7,Yes
+22,Male,Low,Groceries,Yes,25,15,Yes
+53,Male,Low,Groceries,No,27,14,Yes
+29,Female,Low,Car,No,4,15,No
+31,Male,Medium,Beauty Products,Yes,9,6,No
+54,Male,Low,Beauty Products,No,28,2,Yes
+32,Male,Low,Designer items,Yes,3,14,No
+36,Male,Medium,Groceries,No,12,9,Yes
+38,Female,Medium,Electronics,Yes,4,19,Yes
+46,Male,Medium,Groceries,No,19,5,Yes
+53,Male,Medium,Beauty Products,Yes,1,15,Yes
+35,Female,High,Electronics,No,4,3,No
+47,Male,High,Car,No,12,18,Yes
+40,Female,High,Beauty Products,Yes,1,12,No
+46,Male,High,Beauty Products,No,3,19,Yes
+53,Female,High,Groceries,Yes,8,6,Yes
+36,Male,Medium,Car,No,5,5,No
+32,Female,Medium,Electronics,No,24,19,Yes
+26,Male,High,Electronics,No,3,17,No
+35,Female,Medium,Groceries,Yes,4,19,No
+40,Male,High,Designer items,No,29,10,Yes
+54,Female,Low,Designer items,No,21,3,No
+46,Female,High,Groceries,Yes,11,1,Yes
+30,Female,Medium,Beauty Products,Yes,9,8,Yes
+59,Female,High,Beauty Products,Yes,30,6,Yes
+21,Female,High,Designer items,No,18,9,Yes
+47,Male,Medium,Car,Yes,30,2,No
+38,Male,High,Groceries,No,28,18,Yes
+48,Male,Low,Electronics,No,20,1,No
+27,Male,Low,Beauty Products,Yes,1,1,Yes
+41,Female,High,Electronics,Yes,16,15,Yes
+33,Male,Low,Designer items,No,13,6,No
+48,Male,Medium,Groceries,Yes,10,0,No
+28,Male,Medium,Beauty Products,Yes,22,3,No
+24,Female,Low,Designer items,Yes,25,14,Yes
+29,Male,Low,Groceries,Yes,30,16,Yes
+50,Female,Low,Car,No,10,0,Yes
+45,Female,High,Electronics,No,20,9,Yes
+24,Male,Low,Groceries,No,1,9,Yes
+41,Male,High,Car,No,3,11,No
+36,Male,Medium,Beauty Products,Yes,25,10,No
+57,Male,High,Designer items,Yes,17,10,Yes
+28,Female,High,Designer items,Yes,12,2,Yes
+29,Male,Medium,Designer items,No,2,9,No
+44,Male,Medium,Electronics,No,16,1,Yes
+33,Female,Medium,Groceries,No,1,19,Yes
+55,Male,Medium,Electronics,Yes,27,9,Yes
+59,Female,High,Groceries,Yes,7,0,No
+30,Male,Medium,Designer items,No,23,8,Yes
+59,Female,High,Electronics,No,14,4,Yes
+33,Male,Medium,Electronics,Yes,12,19,Yes
+44,Female,High,Car,Yes,8,15,Yes
+51,Female,Medium,Beauty Products,Yes,25,1,No
+29,Female,Medium,Beauty Products,Yes,7,8,Yes
+29,Male,High,Electronics,Yes,25,8,Yes
+27,Male,Medium,Groceries,No,24,1,Yes
+37,Female,Medium,Car,Yes,6,1,No
+18,Male,Low,Designer items,Yes,18,3,No
+41,Female,Medium,Car,No,21,1,No
+48,Female,High,Car,No,24,13,Yes
+19,Male,Medium,Designer items,Yes,28,14,Yes
+29,Female,Low,Groceries,Yes,4,19,Yes
+56,Female,High,Beauty Products,Yes,23,9,Yes
+31,Male,Low,Beauty Products,No,4,17,Yes
+41,Male,High,Electronics,No,13,1,No
+29,Male,Low,Car,Yes,21,5,No
+53,Female,Medium,Groceries,Yes,12,3,Yes
+39,Female,Low,Groceries,No,13,15,Yes
+53,Female,High,Electronics,No,23,0,No
+53,Male,Low,Groceries,Yes,19,17,Yes
+55,Female,Low,Car,No,2,12,No
+33,Male,Low,Car,No,26,4,No
+21,Male,Medium,Beauty Products,No,20,7,No
+31,Male,Low,Car,Yes,6,13,Yes
+23,Female,Low,Beauty Products,Yes,11,15,Yes
+34,Male,Low,Electronics,Yes,12,13,No
+24,Female,High,Electronics,No,13,14,Yes
+34,Female,Low,Electronics,No,8,14,Yes
+51,Male,High,Designer items,Yes,4,12,Yes
+44,Male,Low,Beauty Products,No,19,7,No
+31,Male,Low,Car,No,14,10,Yes
+50,Female,Low,Designer items,No,20,2,Yes
+34,Female,Low,Designer items,No,27,18,No
+40,Male,Medium,Designer items,No,7,12,Yes
+37,Male,Medium,Electronics,No,2,4,Yes
+26,Female,Low,Designer items,No,28,5,No
+42,Male,Low,Electronics,No,30,1,Yes
+22,Female,Medium,Designer items,Yes,27,7,No
+18,Male,Low,Groceries,No,19,11,Yes
+40,Female,Medium,Designer items,Yes,10,6,Yes
+41,Female,Low,Groceries,Yes,10,15,Yes
+52,Male,High,Electronics,Yes,19,13,Yes
+20,Female,Low,Beauty Products,Yes,0,14,Yes
+18,Male,Low,Designer items,Yes,16,1,Yes
+46,Male,Low,Groceries,Yes,19,5,Yes
+25,Female,Low,Beauty Products,Yes,28,15,Yes
+50,Female,High,Groceries,Yes,2,2,No
+22,Female,Low,Groceries,No,26,11,Yes
+29,Female,Medium,Beauty Products,No,19,12,No
+37,Female,Medium,Designer items,No,8,6,Yes
+21,Male,Low,Electronics,No,18,18,No
+55,Male,Medium,Car,No,26,12,No
+30,Female,Low,Car,No,12,19,No
+39,Female,Medium,Designer items,Yes,10,18,No
+25,Male,Medium,Groceries,Yes,19,7,Yes
+59,Male,Low,Car,Yes,25,15,No
+43,Female,Medium,Groceries,No,22,10,Yes
+30,Female,Medium,Groceries,No,27,8,No
+37,Female,High,Beauty Products,Yes,23,18,Yes
+56,Male,High,Car,No,18,11,No
+32,Female,Medium,Designer items,Yes,30,13,Yes
+28,Female,High,Electronics,Yes,25,9,Yes
+44,Male,High,Electronics,No,10,5,No
+51,Male,High,Electronics,Yes,10,18,Yes
+23,Female,High,Electronics,No,13,19,Yes
+55,Female,Low,Beauty Products,No,16,9,Yes
+45,Female,High,Beauty Products,Yes,0,2,No
+57,Female,Medium,Designer items,No,7,19,Yes
+24,Male,Low,Beauty Products,Yes,10,6,Yes
+21,Female,Medium,Car,Yes,24,11,Yes
+43,Female,Medium,Car,Yes,5,13,No
+29,Male,Medium,Car,Yes,10,18,Yes
+54,Male,Medium,Beauty Products,No,13,15,No
+30,Female,Low,Designer items,Yes,24,19,Yes
+21,Female,Low,Electronics,Yes,10,16,No
+24,Male,Medium,Electronics,No,13,10,No
+45,Female,Medium,Designer items,No,21,8,Yes
+40,Female,Medium,Designer items,Yes,12,17,Yes
+45,Female,Medium,Car,Yes,10,14,No
+43,Female,Medium,Electronics,Yes,24,18,Yes
+50,Female,High,Beauty Products,Yes,3,13,Yes
+31,Female,Medium,Electronics,Yes,2,16,Yes
+20,Male,High,Electronics,No,15,13,Yes
+47,Female,Medium,Designer items,Yes,19,12,Yes
+32,Male,Medium,Groceries,No,13,18,Yes
+55,Female,Medium,Car,No,9,14,No
+55,Male,Medium,Car,Yes,22,9,No
+24,Male,Medium,Groceries,No,21,16,Yes
+35,Male,Medium,Car,No,16,8,No
+27,Male,High,Car,Yes,9,6,No
+55,Male,High,Designer items,No,26,19,Yes
+50,Male,Low,Groceries,No,0,11,Yes
+51,Male,Medium,Car,Yes,3,16,No
+21,Male,Low,Designer items,Yes,10,3,Yes
+18,Male,Low,Electronics,No,6,17,Yes
+26,Male,Medium,Designer items,No,28,2,No
+25,Male,High,Electronics,Yes,28,18,Yes
+53,Male,Low,Designer items,Yes,17,19,No
+44,Female,Medium,Electronics,Yes,13,17,Yes
+45,Female,Medium,Groceries,Yes,27,15,Yes
+52,Female,Low,Electronics,Yes,14,3,Yes
+54,Male,Low,Electronics,Yes,16,6,Yes
+43,Female,High,Beauty Products,Yes,15,6,No
+58,Female,High,Electronics,Yes,3,10,No
+19,Male,Low,Beauty Products,Yes,11,11,No
+47,Male,Medium,Car,No,3,17,No
+43,Female,High,Groceries,No,20,6,Yes
+18,Female,Low,Groceries,Yes,30,12,Yes
+23,Male,Medium,Electronics,Yes,5,11,No
+25,Female,High,Beauty Products,Yes,23,18,Yes
+54,Female,High,Groceries,Yes,17,4,Yes
+47,Male,High,Designer items,No,24,9,Yes
+50,Male,High,Groceries,No,9,4,No
+29,Male,High,Designer items,No,21,6,Yes
+26,Male,High,Electronics,Yes,21,11,Yes
+46,Female,Low,Car,No,0,10,No
+32,Female,High,Designer items,Yes,1,19,Yes
+56,Male,Low,Beauty Products,Yes,20,11,Yes
+35,Male,Medium,Designer items,No,2,6,Yes
+35,Male,Medium,Designer items,Yes,11,5,No
+54,Male,High,Designer items,No,25,0,No
+48,Male,Medium,Electronics,Yes,25,10,Yes
+21,Female,High,Beauty Products,Yes,26,17,Yes
+21,Female,Medium,Beauty Products,Yes,16,1,No
+46,Female,High,Car,Yes,23,1,No
+23,Male,Low,Car,No,9,15,Yes
+48,Male,Low,Designer items,No,13,6,No
+45,Female,Medium,Groceries,Yes,27,18,Yes
+26,Female,High,Designer items,Yes,25,12,Yes
+39,Female,High,Beauty Products,Yes,4,4,Yes
+59,Female,High,Car,No,20,9,No
+56,Female,High,Car,Yes,25,14,Yes
+24,Male,High,Car,Yes,28,14,No
+20,Male,Low,Car,Yes,18,9,No
+45,Male,Medium,Beauty Products,Yes,28,14,Yes
+52,Male,Medium,Beauty Products,No,5,11,Yes
+55,Male,Low,Car,Yes,12,18,No
+20,Female,Medium,Electronics,Yes,7,7,No
+37,Male,High,Car,Yes,14,3,No
+38,Female,Low,Beauty Products,No,2,12,Yes
+25,Female,Medium,Car,No,22,15,No
+30,Male,Medium,Electronics,Yes,2,15,Yes
+26,Female,Medium,Groceries,Yes,27,13,Yes
+30,Male,Low,Designer items,Yes,20,6,Yes
+32,Male,High,Beauty Products,No,6,5,Yes
+51,Male,High,Car,Yes,8,16,No
+54,Female,Medium,Groceries,No,11,0,No
+27,Female,High,Designer items,Yes,10,15,Yes
+25,Male,Low,Groceries,Yes,23,16,Yes
+42,Female,Medium,Designer items,No,17,11,No
+42,Male,High,Groceries,Yes,16,13,Yes
+31,Male,Medium,Beauty Products,Yes,8,3,No
+40,Female,High,Beauty Products,Yes,10,5,Yes
+22,Male,Low,Beauty Products,Yes,10,17,Yes
+30,Male,Low,Designer items,No,10,13,No
+45,Male,High,Electronics,Yes,17,18,Yes
+44,Female,Medium,Beauty Products,Yes,14,8,No
+57,Female,Low,Beauty Products,Yes,19,0,No
+21,Male,Low,Car,Yes,13,1,Yes
+20,Female,Low,Car,Yes,25,7,No
+23,Female,High,Beauty Products,No,15,15,No
+56,Male,High,Beauty Products,No,29,12,Yes
+30,Female,High,Electronics,No,4,19,No
+35,Female,High,Car,No,14,17,No
+19,Female,Low,Beauty Products,Yes,9,12,Yes
+29,Male,High,Groceries,No,14,12,Yes
+28,Male,High,Designer items,No,18,2,Yes
+56,Male,High,Groceries,No,20,13,Yes
+31,Female,Low,Beauty Products,Yes,21,12,Yes
+41,Male,Medium,Groceries,Yes,8,0,Yes
+39,Male,Medium,Groceries,Yes,22,18,Yes
+35,Female,Low,Car,Yes,11,0,No
+36,Male,Low,Car,Yes,27,19,No
+54,Female,Medium,Car,Yes,25,2,No
+51,Male,Medium,Electronics,Yes,30,2,Yes
+57,Male,High,Car,Yes,15,5,Yes
+30,Female,Medium,Electronics,Yes,29,15,Yes
+45,Female,Low,Groceries,Yes,15,2,No
+25,Male,High,Beauty Products,No,11,7,Yes
+38,Male,Low,Electronics,Yes,24,8,Yes
+18,Female,Low,Groceries,Yes,5,18,Yes
+40,Female,Medium,Car,No,10,10,Yes
+40,Female,High,Groceries,No,29,12,Yes
+35,Male,Low,Groceries,Yes,22,14,Yes
+50,Male,Medium,Car,No,20,6,No
+40,Female,High,Beauty Products,No,26,12,Yes
+35,Female,Medium,Designer items,No,23,18,No
+57,Female,High,Designer items,Yes,18,9,Yes
+24,Female,High,Car,No,17,15,Yes
+37,Female,Medium,Designer items,No,26,5,Yes
+44,Male,High,Groceries,Yes,8,12,Yes
+48,Female,Low,Designer items,No,20,7,No
+30,Male,Medium,Groceries,No,16,19,Yes
+54,Female,High,Electronics,Yes,21,16,Yes
+45,Male,High,Beauty Products,No,8,1,Yes
+42,Female,Medium,Designer items,No,25,17,Yes
+58,Female,Low,Electronics,Yes,5,10,Yes
+55,Male,Medium,Designer items,No,5,12,Yes
+28,Female,Low,Groceries,No,13,1,Yes
+57,Male,Low,Electronics,No,2,2,No
+50,Female,Low,Beauty Products,No,23,18,Yes
+35,Male,Medium,Beauty Products,No,16,19,Yes
+41,Male,High,Groceries,No,12,2,Yes
+18,Female,Medium,Groceries,No,3,12,Yes
+51,Female,High,Electronics,No,24,15,Yes
+51,Male,High,Beauty Products,Yes,28,18,Yes
+40,Female,Medium,Electronics,Yes,18,15,Yes
+26,Male,High,Groceries,Yes,0,9,Yes
+36,Female,Low,Beauty Products,Yes,0,1,Yes
+33,Male,High,Designer items,No,11,7,Yes
+35,Female,High,Designer items,Yes,1,12,Yes
+23,Female,Medium,Car,Yes,20,5,Yes
+49,Male,Medium,Electronics,No,8,15,Yes
+56,Male,High,Beauty Products,No,30,9,No
+27,Male,Low,Designer items,Yes,29,19,No
+35,Male,High,Beauty Products,Yes,27,19,No
+26,Female,Low,Designer items,No,30,14,No
+21,Male,Medium,Beauty Products,No,30,7,Yes
+26,Female,Low,Car,No,12,8,No
+43,Female,Low,Designer items,No,3,16,Yes
+33,Male,Medium,Car,No,14,2,No
+22,Female,Low,Groceries,No,22,4,Yes
+37,Male,High,Groceries,Yes,14,17,No
+19,Male,Medium,Groceries,No,28,12,Yes
+21,Male,Medium,Car,Yes,9,12,No
+27,Male,High,Designer items,Yes,28,8,Yes
+25,Female,High,Electronics,Yes,2,15,Yes
+26,Male,Low,Beauty Products,Yes,29,10,Yes
+52,Male,Medium,Designer items,Yes,4,9,No
+30,Male,Medium,Beauty Products,No,3,12,Yes
+29,Female,Medium,Designer items,No,4,9,No
+26,Female,Medium,Electronics,Yes,19,6,Yes
+19,Male,Low,Designer items,No,21,6,No
+57,Female,High,Electronics,Yes,6,13,Yes
+43,Female,Low,Electronics,No,18,4,Yes
+48,Female,Medium,Designer items,No,24,17,No
+37,Male,Medium,Designer items,Yes,11,16,Yes
+19,Male,Medium,Electronics,Yes,24,12,Yes
+56,Female,High,Electronics,No,27,9,Yes
+23,Female,Low,Car,Yes,2,2,No
+35,Female,Medium,Car,Yes,10,19,Yes
+22,Male,Medium,Beauty Products,No,18,18,Yes
+33,Female,High,Beauty Products,Yes,23,8,Yes
+21,Female,High,Car,Yes,14,11,Yes
+52,Male,High,Beauty Products,No,22,13,Yes
+36,Male,Medium,Designer items,No,5,3,Yes
+24,Male,High,Groceries,No,29,18,Yes
+42,Male,Medium,Designer items,Yes,15,14,Yes
+57,Female,High,Car,No,18,7,Yes
+35,Male,Low,Car,No,27,15,No
+36,Female,Low,Car,No,9,16,Yes
+30,Male,High,Groceries,Yes,6,9,Yes
+51,Male,High,Electronics,Yes,3,5,No
+41,Male,High,Designer items,No,17,5,Yes
+46,Female,Low,Beauty Products,No,29,16,Yes
+41,Female,High,Groceries,Yes,10,18,Yes
+51,Female,High,Beauty Products,Yes,27,2,Yes
+28,Female,Low,Electronics,Yes,5,13,No
+43,Female,Medium,Designer items,Yes,15,6,Yes
+47,Male,Medium,Groceries,Yes,26,7,Yes
+37,Female,Low,Designer items,Yes,15,6,No
+26,Male,Medium,Groceries,No,12,0,No
+46,Male,Low,Designer items,No,30,7,No
+21,Female,Low,Designer items,No,2,2,No
+57,Male,High,Beauty Products,Yes,6,0,Yes
+44,Male,Medium,Groceries,Yes,15,5,Yes
+24,Female,Medium,Car,No,11,8,No
+28,Female,High,Beauty Products,Yes,9,0,Yes
+53,Male,Medium,Electronics,No,4,8,Yes
+34,Male,Low,Designer items,Yes,2,15,No
+22,Male,Low,Electronics,Yes,15,2,Yes
+52,Female,Low,Beauty Products,Yes,19,13,No
+48,Female,Medium,Car,Yes,30,16,No
+41,Female,High,Groceries,No,19,17,Yes
+31,Female,Medium,Designer items,Yes,17,14,Yes
+32,Female,Medium,Groceries,Yes,5,14,Yes
+53,Male,Medium,Designer items,Yes,22,7,No
+32,Male,Low,Electronics,Yes,2,14,Yes
+30,Male,High,Groceries,Yes,8,1,Yes
+41,Male,Medium,Car,No,7,19,No
+30,Male,Low,Beauty Products,Yes,0,1,Yes
+32,Female,Low,Groceries,Yes,11,13,Yes
+46,Female,High,Electronics,Yes,1,17,Yes
+24,Male,Low,Beauty Products,Yes,28,5,Yes
+31,Male,Low,Beauty Products,Yes,7,1,Yes
+34,Female,Medium,Electronics,Yes,4,13,No
+42,Female,High,Beauty Products,Yes,23,19,Yes
+38,Male,Low,Designer items,No,28,2,No
+54,Male,Low,Electronics,Yes,15,17,No
+34,Female,Low,Beauty Products,Yes,15,1,Yes
+21,Male,Low,Car,Yes,20,6,Yes
+51,Female,Medium,Electronics,Yes,29,5,Yes
+34,Male,Medium,Beauty Products,No,6,4,No
+22,Female,Medium,Designer items,Yes,19,15,Yes
+58,Female,High,Car,No,4,7,No
+26,Female,High,Electronics,No,4,9,Yes
+19,Female,Low,Designer items,Yes,8,10,No
+53,Female,High,Designer items,Yes,21,1,Yes
+46,Male,Medium,Groceries,No,5,13,No
+50,Female,Medium,Car,Yes,17,6,Yes
+18,Female,Low,Car,Yes,30,0,Yes
+18,Female,Low,Car,No,23,3,No
+21,Male,Low,Electronics,Yes,28,17,Yes
+44,Male,High,Designer items,No,10,0,Yes
+45,Male,Medium,Car,Yes,9,8,No
+53,Female,Medium,Beauty Products,No,27,5,Yes
+33,Female,Medium,Car,No,1,17,No
+59,Female,Medium,Designer items,Yes,23,16,No
+30,Male,Medium,Car,Yes,23,17,No
+30,Male,Low,Groceries,Yes,16,4,Yes
+56,Female,High,Beauty Products,Yes,28,9,Yes
+34,Female,High,Car,Yes,14,17,Yes
+40,Male,Medium,Beauty Products,Yes,21,18,Yes
+47,Male,Low,Car,No,25,1,No
+21,Male,Low,Car,No,2,6,No
+35,Male,Medium,Car,Yes,9,6,No
+57,Male,High,Designer items,Yes,5,0,Yes
+21,Male,Low,Groceries,Yes,13,16,Yes
+46,Male,High,Groceries,Yes,20,13,Yes
+26,Male,Medium,Groceries,Yes,26,14,Yes
+29,Female,Medium,Beauty Products,No,9,18,Yes
+23,Female,Low,Beauty Products,Yes,19,5,Yes
+25,Female,High,Electronics,No,0,16,Yes
+41,Female,Medium,Groceries,Yes,14,6,Yes
+36,Female,Low,Electronics,Yes,21,2,Yes
+47,Female,High,Designer items,Yes,28,10,Yes
+37,Male,Medium,Electronics,Yes,29,18,Yes
+58,Male,Medium,Car,Yes,9,1,No
+18,Male,Medium,Car,No,30,15,Yes
+35,Male,Medium,Designer items,Yes,22,16,No
+55,Female,Medium,Electronics,Yes,13,14,Yes
+39,Female,High,Beauty Products,Yes,2,18,Yes
+51,Male,Low,Designer items,Yes,2,17,No
+18,Male,High,Electronics,Yes,19,5,Yes
+54,Male,Medium,Beauty Products,No,0,18,No
+18,Male,Low,Groceries,No,26,15,Yes
+57,Female,High,Groceries,Yes,25,15,Yes
+45,Male,High,Designer items,Yes,0,3,Yes
+27,Female,Low,Designer items,Yes,10,16,Yes
+40,Male,High,Groceries,Yes,6,11,Yes
+24,Male,Medium,Electronics,No,11,14,Yes
+51,Male,High,Designer items,Yes,13,12,Yes
+21,Female,High,Electronics,No,13,13,Yes
+33,Female,High,Electronics,Yes,6,18,Yes
+19,Male,Medium,Beauty Products,Yes,9,17,Yes
+34,Female,High,Groceries,Yes,4,11,No
+23,Male,Medium,Electronics,No,21,8,Yes
+37,Female,Low,Designer items,Yes,0,14,Yes
+23,Male,Medium,Electronics,Yes,18,17,Yes
+23,Female,High,Car,No,12,0,No
+40,Male,Low,Beauty Products,Yes,22,12,Yes
+24,Female,Medium,Car,No,14,11,Yes
+44,Female,Medium,Beauty Products,No,25,0,Yes
+32,Female,Medium,Electronics,No,3,12,Yes
+44,Female,Medium,Car,Yes,24,4,No
+19,Female,Medium,Beauty Products,Yes,22,0,Yes
+33,Male,Medium,Electronics,Yes,22,5,Yes
+33,Female,High,Beauty Products,Yes,13,2,No
+32,Female,High,Electronics,Yes,2,1,Yes
+50,Female,Low,Electronics,Yes,8,8,No
+40,Female,High,Groceries,Yes,6,2,Yes
+49,Female,High,Beauty Products,Yes,30,17,Yes
+24,Female,Low,Groceries,No,8,0,Yes
+31,Female,Medium,Car,Yes,19,5,Yes
+56,Female,Low,Designer items,Yes,9,6,Yes
+43,Male,High,Beauty Products,No,1,3,No
+38,Female,High,Beauty Products,Yes,29,16,Yes
+50,Male,Low,Beauty Products,Yes,9,18,No
+59,Female,Low,Groceries,Yes,18,11,Yes
+33,Female,High,Car,No,8,14,No
+44,Male,Medium,Groceries,No,27,16,Yes
+19,Female,Low,Designer items,Yes,30,3,No
+24,Male,Low,Beauty Products,No,12,14,No
+42,Male,High,Groceries,Yes,22,0,Yes
+28,Female,Medium,Designer items,Yes,9,4,No
+55,Male,High,Groceries,Yes,8,12,Yes
+41,Female,Medium,Car,No,7,13,No
+50,Female,Medium,Electronics,Yes,16,4,Yes
+19,Female,Low,Groceries,Yes,24,8,Yes
+21,Male,Low,Electronics,Yes,16,16,Yes
+47,Male,Medium,Electronics,No,7,10,No
+38,Female,Low,Electronics,Yes,20,17,No
+46,Female,Medium,Groceries,No,23,9,Yes
+34,Male,Medium,Designer items,No,17,9,No
+37,Female,Medium,Car,Yes,4,12,No
+35,Male,Low,Beauty Products,Yes,16,8,No
+31,Male,Low,Electronics,Yes,16,3,Yes
+35,Female,Low,Designer items,Yes,26,19,No
+26,Female,Low,Beauty Products,Yes,12,14,Yes
+44,Female,Low,Groceries,Yes,14,4,Yes
+36,Female,High,Groceries,Yes,25,19,No
+43,Female,Medium,Car,No,24,13,No
+45,Female,High,Car,Yes,16,17,Yes
+49,Male,Medium,Designer items,No,20,2,Yes
+19,Female,Medium,Car,No,0,9,No
+36,Female,Low,Beauty Products,No,16,11,No
+50,Female,Low,Beauty Products,Yes,11,16,No
+20,Female,Medium,Designer items,Yes,10,16,No
+43,Female,Low,Designer items,Yes,2,7,Yes
+53,Female,Low,Beauty Products,Yes,20,6,Yes
+53,Male,Medium,Designer items,No,15,0,No
+42,Female,Low,Beauty Products,No,9,15,No
+33,Male,Low,Car,No,25,7,No
+46,Female,Medium,Beauty Products,No,6,5,Yes
+33,Male,Medium,Groceries,No,19,15,Yes
+24,Female,High,Car,Yes,8,13,No
+43,Male,Medium,Electronics,Yes,25,13,Yes
+24,Female,Medium,Electronics,No,0,12,Yes
+37,Male,High,Beauty Products,No,30,2,Yes
+21,Male,Medium,Designer items,No,28,10,Yes
+19,Female,Low,Car,No,13,11,No
+47,Female,Medium,Groceries,Yes,16,11,Yes
+43,Female,High,Groceries,Yes,11,0,No
+30,Male,Low,Groceries,Yes,13,1,Yes
+43,Female,Medium,Groceries,No,20,15,Yes
+53,Female,High,Electronics,No,7,1,Yes
+59,Male,High,Designer items,No,8,14,No
+30,Male,Low,Designer items,No,22,16,No
+19,Female,Low,Car,Yes,19,19,No
+20,Female,Medium,Beauty Products,Yes,22,11,No
+57,Female,High,Designer items,Yes,1,3,Yes
+31,Female,High,Designer items,Yes,15,18,Yes
+51,Female,Low,Car,Yes,11,13,Yes
+23,Male,Low,Beauty Products,No,12,3,Yes
+39,Male,Medium,Car,No,17,11,Yes
+47,Female,Low,Car,Yes,20,18,Yes
+57,Male,High,Beauty Products,No,6,15,Yes
+36,Male,Medium,Designer items,Yes,5,19,No
+44,Male,High,Designer items,No,20,10,Yes
+54,Female,Low,Beauty Products,Yes,15,6,Yes
+22,Male,Low,Car,Yes,10,14,Yes
+20,Female,Low,Beauty Products,Yes,25,4,Yes
+40,Male,High,Groceries,Yes,20,4,Yes
+26,Male,Low,Designer items,Yes,14,2,Yes
+46,Male,Medium,Beauty Products,Yes,5,16,No
+43,Male,Low,Electronics,Yes,20,7,No
+38,Female,High,Car,No,24,10,Yes
+55,Female,Medium,Designer items,Yes,7,9,Yes
+41,Female,High,Groceries,No,28,2,Yes
+31,Female,Low,Beauty Products,No,22,13,Yes
+27,Female,High,Designer items,Yes,11,5,Yes
+51,Male,Medium,Electronics,Yes,8,9,No
+34,Female,Medium,Car,Yes,16,2,No
+48,Male,High,Designer items,No,18,0,Yes
+29,Female,Medium,Groceries,Yes,6,3,Yes
+59,Male,High,Beauty Products,Yes,12,1,Yes
+59,Male,Medium,Designer items,No,20,3,Yes
+35,Female,High,Electronics,No,4,18,Yes
+19,Female,High,Electronics,Yes,11,16,Yes
+27,Female,High,Groceries,Yes,1,5,Yes
+25,Female,High,Car,Yes,28,18,Yes
+28,Female,Medium,Designer items,No,30,11,Yes
+26,Female,High,Designer items,Yes,1,7,Yes
+28,Female,Medium,Electronics,Yes,27,3,No
+27,Female,High,Beauty Products,No,20,19,Yes
+25,Female,Low,Groceries,No,3,9,Yes
+29,Female,High,Car,No,28,13,No
+38,Female,Medium,Groceries,Yes,21,11,Yes
+47,Female,Medium,Beauty Products,Yes,6,19,Yes
+41,Female,Medium,Car,No,22,6,No
+26,Female,High,Designer items,Yes,0,5,Yes
+55,Female,Medium,Groceries,Yes,21,11,Yes
+39,Male,Medium,Designer items,No,11,9,No
+23,Female,High,Groceries,No,16,18,Yes
+55,Female,Medium,Designer items,Yes,23,18,Yes
+27,Female,High,Groceries,No,23,7,No
+38,Female,Low,Electronics,Yes,23,5,Yes
+38,Male,Low,Beauty Products,No,24,6,Yes
+41,Male,Low,Electronics,No,0,17,No
+45,Female,Medium,Beauty Products,Yes,24,19,Yes
+49,Male,Low,Car,No,11,15,No
+59,Male,Medium,Beauty Products,Yes,26,9,Yes
+59,Male,High,Designer items,No,9,10,Yes
+40,Male,Medium,Electronics,No,1,19,Yes
+57,Female,High,Groceries,Yes,29,6,Yes
+57,Male,High,Electronics,Yes,0,1,Yes
+35,Male,Medium,Electronics,Yes,14,0,Yes
+54,Female,Low,Designer items,Yes,1,19,No
+52,Female,Medium,Beauty Products,No,18,17,Yes
+35,Male,Medium,Designer items,Yes,13,7,Yes
+47,Male,Low,Beauty Products,No,11,9,Yes
+40,Female,High,Groceries,No,19,16,Yes
+28,Female,Low,Designer items,No,1,3,No
+50,Male,High,Groceries,Yes,14,12,No
+57,Male,Medium,Electronics,Yes,24,3,No
+59,Male,High,Electronics,Yes,18,17,Yes
+54,Male,Medium,Electronics,Yes,29,18,Yes
+40,Male,High,Beauty Products,Yes,26,15,Yes
+18,Female,High,Beauty Products,No,11,1,Yes
+25,Female,Low,Car,Yes,17,15,No
+22,Male,High,Car,Yes,25,12,Yes
+36,Female,High,Car,Yes,28,2,No
+43,Male,Low,Groceries,No,7,11,Yes
+19,Female,Medium,Electronics,Yes,10,11,No
+45,Male,High,Groceries,Yes,17,12,Yes
+54,Male,Medium,Designer items,Yes,21,11,Yes
+19,Male,Low,Beauty Products,No,30,4,No
+24,Male,Medium,Electronics,Yes,25,11,Yes
+33,Male,Medium,Designer items,Yes,22,7,No
+26,Female,High,Car,Yes,14,4,Yes
+30,Female,Medium,Groceries,Yes,4,10,Yes
+27,Male,Low,Electronics,No,19,12,Yes
+58,Female,Medium,Beauty Products,No,20,13,Yes
+32,Male,Low,Car,Yes,9,6,Yes
+57,Male,Medium,Car,No,27,2,No
+32,Female,Medium,Beauty Products,Yes,15,3,Yes
+38,Female,Medium,Groceries,Yes,5,0,No
+21,Female,Low,Beauty Products,No,10,11,Yes
+43,Male,Low,Electronics,Yes,28,4,No
+40,Male,High,Designer items,No,28,15,Yes
+44,Male,High,Groceries,Yes,6,7,Yes
+30,Female,High,Groceries,No,22,15,Yes
+47,Female,Medium,Beauty Products,No,28,3,Yes
+57,Male,Medium,Designer items,No,15,9,No
+42,Male,High,Designer items,Yes,11,11,Yes
+43,Male,High,Designer items,Yes,4,15,Yes
+50,Male,Medium,Groceries,No,27,8,No
+29,Male,Medium,Electronics,Yes,4,19,Yes
+45,Female,Medium,Groceries,Yes,23,2,No
+22,Female,Low,Electronics,No,1,13,No
+51,Female,Medium,Beauty Products,Yes,12,6,Yes
+59,Male,High,Beauty Products,Yes,12,15,No
+31,Female,High,Car,Yes,10,9,Yes
+55,Male,Medium,Beauty Products,No,3,0,No
+24,Male,Low,Beauty Products,Yes,23,8,No
+25,Female,High,Designer items,Yes,4,18,Yes
+27,Male,Medium,Beauty Products,No,10,14,Yes
+55,Male,Medium,Beauty Products,Yes,14,4,Yes
+46,Male,Low,Beauty Products,No,18,18,No
+27,Female,Low,Beauty Products,No,11,3,Yes
+48,Female,High,Electronics,Yes,17,15,Yes
+57,Female,Medium,Electronics,Yes,3,11,No
+51,Female,Medium,Car,No,3,4,No
+20,Male,Low,Beauty Products,Yes,8,17,Yes
+52,Male,Low,Designer items,Yes,29,1,Yes
+58,Male,Medium,Beauty Products,Yes,13,3,Yes
+46,Male,Medium,Groceries,No,8,12,Yes
+32,Male,High,Designer items,Yes,27,9,Yes
+33,Male,High,Car,Yes,11,19,Yes
+22,Female,Medium,Beauty Products,Yes,1,9,Yes
+18,Female,Medium,Beauty Products,Yes,6,16,No
+44,Female,High,Groceries,No,23,2,Yes
+59,Male,High,Groceries,No,21,6,Yes
+43,Female,Low,Electronics,Yes,16,5,Yes
+40,Female,High,Beauty Products,Yes,21,3,No
+26,Female,Medium,Electronics,Yes,3,6,Yes
+40,Female,High,Groceries,No,1,16,Yes
+41,Female,High,Groceries,Yes,7,14,Yes
+48,Female,High,Designer items,Yes,14,7,Yes
+51,Female,Medium,Electronics,No,22,16,No
+43,Male,High,Car,Yes,15,14,No
+30,Male,High,Beauty Products,Yes,14,3,No
+33,Female,Medium,Beauty Products,No,29,11,Yes
+47,Female,Low,Electronics,Yes,3,2,No
+39,Male,High,Electronics,Yes,16,17,Yes
+29,Male,Medium,Groceries,Yes,22,3,Yes
+48,Female,Low,Electronics,Yes,11,19,No
+32,Female,Medium,Designer items,Yes,22,15,Yes
+54,Male,Medium,Groceries,Yes,20,14,Yes
+34,Female,Medium,Groceries,No,17,4,No
+30,Male,Low,Electronics,Yes,18,12,No
+35,Female,High,Designer items,No,13,3,Yes
+53,Female,High,Electronics,No,19,19,Yes
+36,Female,High,Designer items,No,12,11,Yes
+24,Female,Medium,Electronics,No,24,11,No
+21,Male,Low,Car,Yes,26,1,No
+19,Female,Medium,Beauty Products,No,4,9,Yes
+49,Male,Medium,Car,Yes,9,8,No
+30,Female,High,Electronics,Yes,6,4,Yes
+27,Female,Medium,Designer items,Yes,9,5,No
+44,Male,High,Groceries,Yes,27,18,Yes
+38,Male,High,Designer items,No,7,0,Yes
+45,Male,Medium,Designer items,No,16,6,Yes
+31,Male,High,Designer items,Yes,20,16,No
+26,Female,High,Electronics,Yes,16,4,Yes
+48,Male,Medium,Electronics,No,19,7,Yes
+55,Female,High,Electronics,No,10,18,No
+53,Female,High,Groceries,Yes,17,0,No
+30,Female,High,Groceries,Yes,13,0,No
+46,Male,Medium,Designer items,Yes,10,16,No
+53,Female,High,Electronics,Yes,25,11,Yes
+27,Male,Low,Groceries,Yes,30,5,Yes
+18,Female,Low,Beauty Products,Yes,6,15,Yes
+40,Male,High,Designer items,Yes,19,19,Yes
+55,Female,Low,Groceries,No,21,4,Yes
+38,Female,Medium,Car,Yes,17,14,No
+23,Female,High,Beauty Products,Yes,24,18,Yes
+50,Male,Low,Electronics,No,0,12,Yes
+20,Female,Medium,Groceries,Yes,9,2,No
+58,Male,Medium,Electronics,No,7,2,No
+42,Male,Medium,Car,No,30,12,Yes
+55,Male,Low,Car,Yes,12,19,No
+51,Male,High,Designer items,No,20,15,Yes
+40,Female,High,Car,Yes,5,18,No
+30,Female,Medium,Electronics,Yes,16,8,Yes
+34,Male,High,Designer items,Yes,28,1,Yes
+36,Female,Medium,Groceries,Yes,18,6,Yes
+59,Male,Medium,Groceries,Yes,9,19,Yes
+26,Male,Medium,Car,No,16,14,Yes
+19,Male,Low,Designer items,No,30,3,No
+36,Female,Low,Electronics,Yes,16,4,No
+56,Male,Medium,Car,Yes,17,6,No
+34,Female,Low,Designer items,Yes,6,3,No
+57,Male,Low,Groceries,No,12,3,No
+55,Male,High,Designer items,No,24,4,Yes
+47,Male,High,Beauty Products,No,11,3,Yes
+41,Male,Medium,Groceries,Yes,28,8,Yes
+21,Male,Low,Designer items,No,18,13,No
+22,Female,High,Beauty Products,No,17,9,No
+36,Female,Medium,Car,Yes,11,17,Yes
+34,Male,High,Electronics,No,29,10,Yes
+52,Male,Low,Electronics,No,22,16,Yes
+18,Female,Medium,Beauty Products,No,14,8,Yes
+32,Female,Low,Designer items,No,27,2,No
+39,Female,Medium,Electronics,Yes,26,18,Yes
+29,Female,Medium,Groceries,No,19,0,Yes
+38,Male,High,Groceries,Yes,16,12,Yes
+18,Male,High,Groceries,No,9,14,Yes
+49,Female,Medium,Car,Yes,29,6,Yes
+39,Male,Medium,Electronics,Yes,17,15,Yes
+49,Male,Low,Designer items,Yes,26,17,Yes
+56,Male,Medium,Groceries,No,16,17,Yes
+25,Male,Medium,Beauty Products,Yes,21,1,Yes
+24,Female,High,Car,Yes,3,17,No
+55,Male,High,Groceries,No,26,8,No
+26,Male,Medium,Electronics,Yes,13,7,Yes
+52,Female,High,Groceries,No,17,4,No
+31,Male,High,Groceries,No,27,3,No
+56,Male,High,Electronics,Yes,19,11,Yes
+19,Female,Low,Designer items,Yes,10,13,Yes
+39,Female,Medium,Car,Yes,30,15,No
+37,Male,Low,Car,Yes,28,5,No
+21,Female,Low,Beauty Products,Yes,14,0,No
+24,Female,High,Electronics,Yes,24,11,Yes
+59,Male,Medium,Car,Yes,4,11,No
+59,Female,Medium,Car,Yes,5,11,No
+56,Male,Low,Electronics,Yes,17,1,Yes
+27,Male,Medium,Car,Yes,14,11,No
+34,Female,Medium,Designer items,Yes,3,6,Yes
+58,Male,High,Designer items,No,30,18,Yes
+56,Female,Low,Designer items,No,22,1,No
+23,Male,Low,Electronics,No,17,5,Yes
+51,Male,Medium,Groceries,Yes,11,14,Yes
+31,Male,Medium,Electronics,No,5,17,Yes
+54,Female,Medium,Beauty Products,Yes,17,2,Yes
+20,Male,High,Car,No,21,9,Yes
+20,Male,Low,Beauty Products,No,28,11,Yes
+46,Male,Low,Car,Yes,15,16,Yes
+24,Male,Low,Electronics,No,12,1,No
+21,Male,Low,Beauty Products,Yes,9,6,No
+41,Female,Medium,Beauty Products,Yes,16,19,Yes
+23,Female,Medium,Designer items,No,18,4,Yes
+49,Female,High,Electronics,No,9,8,Yes
+44,Male,Medium,Groceries,Yes,12,18,Yes
+38,Female,Low,Electronics,No,23,5,Yes
+21,Male,Low,Groceries,Yes,23,2,Yes
+20,Female,Medium,Designer items,Yes,3,4,No
+57,Female,Medium,Electronics,No,15,2,Yes
+48,Female,Medium,Electronics,Yes,23,11,Yes
+42,Male,Medium,Beauty Products,Yes,7,12,No
+21,Female,Low,Beauty Products,No,13,13,Yes
+30,Female,High,Electronics,No,26,5,Yes
+34,Female,Low,Car,Yes,3,7,No
+52,Female,High,Beauty Products,Yes,16,8,Yes
+19,Female,Low,Designer items,No,24,12,No
+19,Male,High,Car,Yes,19,10,Yes
+43,Male,Medium,Beauty Products,No,21,14,Yes
+20,Female,Medium,Designer items,Yes,2,11,Yes
+41,Female,High,Electronics,No,4,19,No
+56,Male,Medium,Car,No,6,12,Yes
+58,Female,Low,Car,No,24,12,Yes
+29,Male,High,Designer items,No,12,9,Yes
+50,Female,Low,Beauty Products,Yes,24,7,No
+33,Female,Medium,Designer items,Yes,12,2,No
+20,Male,Low,Designer items,Yes,23,4,No
+43,Female,High,Designer items,No,10,6,Yes
+27,Male,High,Designer items,No,9,19,Yes
+51,Male,Medium,Car,No,2,7,No
+48,Female,Medium,Car,No,10,12,No
+24,Female,Low,Car,No,12,1,No
+23,Female,High,Car,Yes,8,19,Yes
+51,Male,Medium,Electronics,Yes,17,15,No
+42,Female,High,Designer items,Yes,11,6,Yes
+56,Female,High,Groceries,Yes,16,12,No
+28,Female,Medium,Designer items,No,5,13,Yes
+23,Male,Low,Beauty Products,Yes,5,1,No
+39,Female,Low,Designer items,Yes,19,14,No
+46,Female,Medium,Groceries,No,7,4,Yes
+50,Male,Low,Beauty Products,No,21,17,Yes
+22,Female,Low,Electronics,Yes,6,17,No
+55,Female,Medium,Electronics,Yes,21,4,Yes
+47,Female,High,Electronics,No,18,9,Yes
+32,Male,Medium,Groceries,Yes,9,15,Yes
+35,Female,High,Car,No,22,0,No
+33,Male,Low,Designer items,Yes,21,5,Yes
+52,Male,Low,Beauty Products,No,1,1,No
+47,Female,Low,Car,No,12,8,No
+33,Female,Low,Electronics,No,26,4,Yes
+45,Male,Low,Designer items,No,20,6,No
+37,Male,Low,Car,Yes,23,12,No
+44,Female,Medium,Car,Yes,25,6,Yes
+59,Female,Medium,Designer items,No,14,5,Yes
+22,Male,Low,Beauty Products,Yes,22,1,Yes
+32,Female,Low,Designer items,Yes,25,15,No
+48,Male,High,Car,Yes,18,8,No
+46,Male,High,Designer items,Yes,21,18,Yes
+56,Female,Medium,Electronics,Yes,3,2,Yes
+46,Male,Medium,Designer items,No,19,10,No
+50,Male,Medium,Designer items,Yes,5,10,Yes
+44,Female,High,Car,Yes,0,6,No
+48,Male,High,Car,Yes,5,13,No
+19,Male,High,Beauty Products,Yes,26,3,No
+28,Female,Medium,Groceries,Yes,14,17,Yes
+18,Male,Low,Beauty Products,Yes,30,2,Yes
+52,Female,High,Electronics,No,30,6,Yes
+18,Female,Medium,Electronics,No,24,10,Yes
+55,Female,Low,Electronics,No,19,2,No
+19,Male,Medium,Electronics,Yes,17,11,Yes
+27,Male,High,Designer items,Yes,4,8,Yes
+19,Female,Low,Electronics,Yes,1,5,Yes
+48,Male,Low,Electronics,Yes,9,17,No
+29,Male,Medium,Designer items,Yes,3,16,No
+23,Female,Medium,Designer items,No,15,16,Yes
+20,Female,High,Car,No,9,4,No
+43,Female,Low,Beauty Products,No,28,12,Yes
+43,Male,Low,Groceries,Yes,5,11,Yes
+43,Male,High,Beauty Products,Yes,7,4,Yes
+32,Male,Medium,Groceries,Yes,26,15,No
+18,Female,Low,Electronics,Yes,15,4,Yes
+20,Female,Low,Designer items,No,19,14,No
+48,Female,Medium,Groceries,Yes,12,15,Yes
+38,Female,Low,Designer items,No,1,5,No
+43,Male,High,Beauty Products,No,25,5,Yes
+42,Female,Medium,Car,Yes,10,7,Yes
+25,Female,High,Beauty Products,Yes,0,6,Yes
+55,Male,High,Groceries,Yes,20,7,Yes
+38,Male,High,Groceries,Yes,23,19,Yes
+25,Male,Medium,Designer items,Yes,25,13,No
+48,Female,Medium,Designer items,No,17,15,Yes
+26,Male,Medium,Beauty Products,No,14,9,No
+46,Male,High,Beauty Products,Yes,21,15,Yes
+53,Female,High,Beauty Products,Yes,19,12,Yes
+54,Female,High,Car,Yes,21,6,Yes
+40,Male,Low,Electronics,Yes,8,7,No
+46,Female,High,Electronics,Yes,15,5,Yes
+45,Female,High,Car,Yes,15,5,Yes
+48,Male,High,Groceries,Yes,13,0,Yes
+26,Female,Low,Car,Yes,24,12,Yes
+43,Male,Medium,Electronics,No,28,18,Yes
+45,Male,Medium,Groceries,No,27,7,Yes
+40,Male,High,Car,No,28,4,No
+59,Male,Medium,Car,Yes,6,9,No
+53,Male,High,Designer items,No,8,13,No
+19,Female,Low,Electronics,No,24,8,Yes
+44,Female,Medium,Beauty Products,No,0,9,Yes
+59,Male,Low,Car,Yes,19,2,Yes
+23,Male,High,Groceries,Yes,28,5,Yes
+19,Male,Low,Car,Yes,25,17,Yes
+40,Male,High,Designer items,Yes,1,11,Yes
+39,Male,High,Electronics,Yes,4,19,Yes
+56,Male,Low,Electronics,Yes,23,15,No
+37,Female,Low,Beauty Products,Yes,0,0,No
+34,Male,Medium,Groceries,Yes,26,0,Yes
+47,Female,Low,Beauty Products,Yes,8,14,Yes
+20,Female,Low,Designer items,Yes,13,10,Yes
+41,Female,Medium,Car,Yes,21,11,Yes
+43,Female,High,Beauty Products,Yes,12,0,Yes
+41,Male,Medium,Car,Yes,30,9,No
+52,Female,High,Designer items,Yes,23,3,Yes
+33,Female,Medium,Beauty Products,Yes,7,15,Yes
+34,Female,Low,Designer items,Yes,18,14,No
+33,Female,Medium,Groceries,No,14,1,No
+28,Female,Low,Electronics,Yes,0,14,Yes
+43,Male,High,Designer items,No,18,3,No
+22,Male,Medium,Beauty Products,No,2,12,No
+27,Female,High,Groceries,Yes,10,17,Yes
+51,Female,Low,Car,Yes,6,8,Yes
+59,Male,Medium,Groceries,Yes,17,6,Yes
+56,Male,Medium,Car,Yes,2,11,No
+24,Male,High,Designer items,No,16,0,Yes
+54,Female,High,Car,Yes,15,14,Yes
+19,Female,Medium,Electronics,Yes,8,6,Yes
+49,Male,Medium,Designer items,Yes,3,19,No
+53,Female,Low,Electronics,No,27,12,Yes
+18,Male,High,Beauty Products,No,27,2,No
+47,Female,High,Groceries,Yes,21,3,Yes
+42,Male,High,Designer items,No,15,18,Yes
+18,Female,High,Car,Yes,4,18,No
+39,Female,High,Car,Yes,23,10,Yes
+54,Male,Medium,Electronics,Yes,20,3,No
+53,Male,High,Beauty Products,Yes,3,3,No
+35,Female,Medium,Beauty Products,Yes,17,15,No
+58,Female,High,Designer items,No,17,1,Yes
+38,Female,High,Car,No,3,11,No
+56,Female,Medium,Electronics,No,14,6,No
+46,Female,Low,Car,Yes,21,16,No
+33,Female,Medium,Beauty Products,Yes,27,18,No
+26,Male,Low,Beauty Products,No,30,13,No
+54,Male,High,Electronics,No,1,19,No
+31,Male,High,Beauty Products,Yes,26,0,No
+52,Male,Medium,Beauty Products,No,25,6,No
+37,Male,High,Electronics,Yes,1,18,No
+58,Female,Medium,Electronics,Yes,18,4,Yes
+35,Male,Medium,Car,No,15,3,No
+29,Male,High,Designer items,No,28,6,No
+31,Male,High,Electronics,No,22,11,Yes
+52,Female,Medium,Electronics,No,4,16,Yes
+59,Male,Low,Designer items,Yes,9,10,Yes
+34,Male,Low,Car,Yes,4,12,No
+59,Female,Medium,Groceries,Yes,8,16,Yes
+50,Male,Medium,Groceries,Yes,3,3,No
+35,Male,High,Beauty Products,No,8,17,No
+31,Male,Medium,Groceries,Yes,24,14,Yes
+23,Male,High,Beauty Products,Yes,23,9,Yes
+46,Male,High,Electronics,Yes,14,3,No
+35,Female,High,Car,Yes,17,16,Yes
+56,Female,Medium,Car,Yes,15,10,Yes
+31,Male,Medium,Electronics,Yes,2,18,Yes
+59,Male,High,Electronics,No,5,12,Yes
+59,Male,High,Beauty Products,No,17,19,Yes
+42,Female,Medium,Electronics,No,24,5,Yes
+30,Female,High,Car,Yes,3,13,No
+50,Female,Medium,Electronics,No,27,19,Yes
+54,Male,High,Electronics,No,7,11,No
+51,Female,Low,Electronics,Yes,11,4,Yes
+22,Female,Medium,Designer items,Yes,30,12,Yes
+26,Female,Medium,Beauty Products,Yes,9,0,Yes
+20,Male,Medium,Car,Yes,29,17,Yes
+29,Male,High,Beauty Products,Yes,28,2,Yes
+43,Female,High,Car,No,24,8,Yes
+43,Female,Medium,Groceries,Yes,1,2,Yes
+21,Female,Low,Groceries,Yes,24,18,Yes
+30,Male,Low,Designer items,Yes,6,11,Yes
+52,Female,Low,Designer items,No,22,8,No
+19,Male,Low,Electronics,No,28,8,No
+48,Male,Medium,Car,Yes,11,14,Yes
+19,Male,Low,Electronics,Yes,17,12,Yes
+22,Female,Low,Beauty Products,Yes,25,9,Yes
+27,Female,High,Designer items,No,23,10,No
+42,Female,High,Designer items,Yes,1,4,Yes
+47,Male,Low,Beauty Products,Yes,6,5,Yes
+20,Female,Low,Car,Yes,12,2,No
+43,Female,Medium,Designer items,No,24,5,Yes
+59,Female,Medium,Groceries,Yes,11,16,Yes
+53,Male,High,Electronics,Yes,1,10,Yes
+56,Male,Medium,Electronics,No,1,17,Yes
+38,Female,Medium,Beauty Products,No,3,7,No
+39,Female,Low,Beauty Products,Yes,20,17,Yes
+47,Male,Medium,Electronics,Yes,7,1,No
+26,Female,High,Car,Yes,18,19,Yes
+57,Female,High,Groceries,No,24,18,Yes
+22,Female,High,Electronics,Yes,10,14,Yes
+25,Male,Medium,Beauty Products,Yes,18,7,Yes
+49,Male,Medium,Groceries,Yes,25,18,Yes
+59,Male,Medium,Groceries,Yes,28,6,No
+58,Male,High,Beauty Products,Yes,0,18,Yes
+54,Female,High,Beauty Products,Yes,18,0,Yes
+33,Male,Medium,Designer items,No,22,6,No
+43,Female,Low,Groceries,Yes,11,7,Yes
+22,Female,Low,Car,No,9,4,No
+43,Male,High,Groceries,No,4,14,No
+30,Female,Medium,Electronics,No,27,0,No
+40,Male,Medium,Groceries,Yes,0,10,Yes
+35,Female,Low,Electronics,Yes,17,15,Yes
+30,Female,High,Electronics,No,6,0,Yes
+43,Female,High,Beauty Products,Yes,15,0,Yes
+55,Male,Medium,Electronics,Yes,1,16,Yes
+23,Male,Low,Designer items,Yes,13,17,No
+55,Female,Low,Car,Yes,9,17,No
+44,Female,Low,Car,Yes,8,7,No
+45,Male,Medium,Car,Yes,9,16,No
+46,Male,Medium,Electronics,Yes,25,5,Yes
+31,Female,Medium,Groceries,No,21,5,Yes
+43,Male,Medium,Groceries,Yes,6,11,No
+52,Male,Medium,Beauty Products,No,13,18,Yes
+40,Female,High,Groceries,Yes,15,6,Yes
+57,Female,Medium,Designer items,No,17,12,No
+38,Male,High,Groceries,Yes,8,9,Yes
+26,Female,Medium,Beauty Products,Yes,14,19,Yes
+19,Female,Medium,Electronics,Yes,24,12,Yes
+51,Female,Medium,Beauty Products,Yes,18,1,No
+52,Female,Medium,Electronics,No,5,2,No
+59,Female,Medium,Electronics,No,23,5,Yes
+36,Female,Medium,Car,Yes,2,17,No
+56,Female,Medium,Groceries,Yes,8,19,Yes
+29,Female,High,Electronics,No,4,2,No
+28,Female,Medium,Car,No,24,3,Yes
+22,Female,Low,Groceries,Yes,0,17,Yes
+29,Male,Medium,Electronics,Yes,12,8,Yes
+19,Female,Low,Groceries,Yes,4,12,Yes
+33,Male,Medium,Beauty Products,No,15,2,No
+39,Male,Medium,Designer items,No,3,10,Yes
+46,Male,High,Beauty Products,Yes,2,15,Yes
+32,Female,Low,Designer items,Yes,27,9,No
+58,Male,High,Designer items,Yes,10,15,Yes
+27,Male,Low,Car,Yes,16,18,No
+19,Female,Medium,Designer items,Yes,23,1,No
+55,Male,High,Designer items,No,30,18,Yes
+57,Male,High,Car,Yes,25,2,No
+31,Female,Medium,Electronics,No,24,15,Yes
+18,Male,High,Designer items,Yes,20,2,Yes
+43,Male,Medium,Car,Yes,17,8,Yes
+55,Male,Medium,Designer items,No,22,0,No
+38,Female,Medium,Groceries,Yes,26,9,Yes
+23,Male,Low,Designer items,No,22,11,No
+53,Male,Low,Electronics,Yes,27,12,Yes
+34,Female,High,Electronics,No,30,7,Yes
+20,Female,Medium,Beauty Products,No,11,6,Yes
+29,Female,High,Electronics,Yes,1,13,Yes
+39,Male,Medium,Electronics,No,22,4,Yes
+26,Female,Medium,Groceries,Yes,20,10,No
+22,Female,Low,Groceries,Yes,2,16,Yes
+19,Female,Medium,Designer items,No,23,0,No
+56,Male,Medium,Beauty Products,No,29,13,Yes
+54,Male,Medium,Car,No,18,10,Yes
+40,Female,Medium,Electronics,No,24,1,Yes
+57,Male,Medium,Car,No,8,2,No
+19,Female,High,Groceries,Yes,6,4,Yes
+38,Male,Medium,Electronics,Yes,25,4,Yes
+38,Male,Medium,Electronics,No,28,19,No
+55,Female,Medium,Groceries,Yes,19,17,No
+42,Male,Low,Car,No,1,5,No
+58,Male,Low,Beauty Products,No,24,2,Yes
+50,Female,Medium,Groceries,Yes,0,18,Yes
+22,Male,Low,Beauty Products,No,12,18,No
+29,Male,Medium,Beauty Products,No,15,18,Yes
+52,Male,High,Beauty Products,No,11,4,Yes
+51,Female,High,Groceries,No,21,6,Yes
+30,Male,Low,Designer items,No,24,14,Yes
+20,Female,Low,Car,Yes,27,19,Yes
+48,Female,Medium,Designer items,No,4,7,No
+50,Female,Medium,Beauty Products,No,7,17,Yes
+37,Male,High,Designer items,Yes,27,15,Yes
+29,Male,Low,Electronics,No,12,12,Yes
+59,Female,Low,Electronics,No,6,13,No
+49,Female,High,Groceries,No,29,15,Yes
+26,Female,Low,Beauty Products,No,7,17,No
+40,Female,Medium,Car,Yes,17,12,Yes
+49,Female,Medium,Electronics,Yes,17,14,Yes
+53,Male,High,Groceries,No,16,4,Yes
+39,Male,High,Designer items,Yes,15,8,Yes
+27,Female,Low,Beauty Products,Yes,23,17,Yes
+35,Male,Medium,Groceries,Yes,6,3,Yes
+43,Female,High,Car,No,4,15,Yes
+52,Male,Medium,Electronics,Yes,25,17,No
+46,Male,Medium,Groceries,Yes,22,13,Yes
+32,Male,High,Electronics,Yes,16,0,No
+42,Male,Medium,Beauty Products,Yes,20,16,Yes
+40,Male,Medium,Car,Yes,24,10,No
+34,Female,Low,Beauty Products,Yes,25,13,Yes
+46,Male,High,Designer items,Yes,19,18,Yes
+56,Female,Low,Groceries,No,23,12,Yes
+35,Female,Low,Groceries,Yes,22,13,No
+50,Male,Low,Car,No,6,7,Yes
+35,Female,Low,Electronics,Yes,8,0,No
+49,Male,High,Beauty Products,No,28,16,Yes
+36,Female,Low,Beauty Products,Yes,26,5,No
+52,Male,Medium,Electronics,No,23,4,Yes
+51,Female,High,Designer items,No,19,3,Yes
+27,Female,Medium,Groceries,Yes,9,10,No
+44,Female,High,Groceries,Yes,15,16,Yes
+33,Male,High,Car,Yes,6,15,No
+52,Male,Low,Electronics,Yes,25,15,Yes
+57,Male,High,Groceries,No,29,11,Yes
+52,Female,Low,Beauty Products,No,16,17,Yes
+53,Female,Medium,Car,Yes,15,16,Yes
+49,Female,Low,Car,Yes,8,5,No
+41,Female,Medium,Electronics,Yes,26,19,No
+42,Female,High,Electronics,No,1,8,No
+45,Male,High,Designer items,No,20,5,Yes
+20,Female,Low,Car,No,19,5,No
+56,Male,Low,Designer items,Yes,0,0,No
+54,Male,Medium,Designer items,Yes,5,12,No
+51,Female,High,Groceries,Yes,14,14,Yes
+43,Male,High,Beauty Products,Yes,24,13,Yes
+24,Female,Medium,Beauty Products,Yes,13,9,No
+49,Male,High,Beauty Products,Yes,16,13,No
+57,Female,High,Electronics,Yes,3,15,Yes
+41,Male,Low,Groceries,Yes,12,19,Yes
+35,Female,High,Electronics,No,13,17,No
+54,Female,High,Designer items,No,25,8,Yes
+52,Male,Medium,Car,No,7,19,No
+59,Male,Medium,Car,Yes,21,18,No
+47,Male,Medium,Electronics,Yes,20,2,No
+28,Female,High,Groceries,Yes,30,16,No
+56,Male,High,Groceries,Yes,3,18,Yes
+29,Female,Medium,Beauty Products,No,14,10,No
+54,Female,High,Electronics,Yes,4,14,Yes
+46,Male,Low,Electronics,Yes,17,10,Yes
+43,Male,Medium,Car,No,11,1,No
+37,Female,Low,Groceries,Yes,14,19,No
+21,Female,Low,Designer items,Yes,21,17,No
+55,Male,Medium,Beauty Products,Yes,22,18,Yes
+28,Male,Low,Car,Yes,27,1,No
+25,Male,High,Groceries,Yes,28,10,Yes
+54,Female,Low,Beauty Products,Yes,17,17,Yes
+31,Female,Medium,Car,No,21,9,Yes
+52,Female,Medium,Designer items,No,8,2,No
+28,Male,Medium,Car,Yes,30,11,Yes
+29,Male,Medium,Beauty Products,Yes,2,6,No
+31,Female,Medium,Car,No,23,10,No
+56,Female,Medium,Beauty Products,Yes,24,9,Yes
+32,Male,Medium,Beauty Products,No,18,15,No
+39,Female,High,Electronics,Yes,20,19,Yes
+49,Male,Low,Car,Yes,17,12,Yes
+22,Female,Low,Groceries,Yes,3,13,No
+25,Male,High,Electronics,Yes,8,18,Yes
+52,Male,Medium,Car,Yes,4,17,No
+50,Male,Medium,Groceries,No,7,18,Yes
+34,Male,High,Groceries,Yes,10,1,No
+23,Male,Low,Car,No,21,13,No
+20,Female,High,Groceries,No,11,3,Yes
+29,Female,High,Car,Yes,12,1,No
+19,Male,Low,Car,No,14,16,Yes
+49,Male,High,Designer items,Yes,6,13,Yes
+47,Female,Medium,Groceries,No,16,13,Yes
+23,Male,Low,Car,Yes,18,5,Yes
+44,Male,High,Beauty Products,No,17,4,No
+41,Female,Medium,Beauty Products,No,5,1,No
+57,Male,Low,Electronics,Yes,14,14,No
+28,Female,Low,Groceries,No,21,0,Yes
+35,Male,Low,Beauty Products,Yes,11,11,Yes
+45,Female,Medium,Groceries,Yes,7,6,Yes
+40,Male,Medium,Beauty Products,Yes,20,1,Yes
+28,Male,Medium,Beauty Products,No,21,9,Yes
+52,Male,Medium,Designer items,No,19,9,No
+45,Female,High,Designer items,Yes,26,17,Yes
+31,Female,Low,Designer items,Yes,17,7,Yes
+59,Male,Medium,Electronics,No,21,12,Yes
+25,Female,Low,Beauty Products,No,3,3,Yes
+22,Female,Low,Car,Yes,0,16,No
+51,Female,Low,Car,Yes,29,7,No
+56,Male,High,Beauty Products,No,30,14,Yes
+43,Male,High,Designer items,No,24,4,Yes
+51,Male,Medium,Car,No,6,7,No
+45,Male,Medium,Car,No,6,6,No
+45,Female,High,Car,Yes,30,13,Yes
+55,Female,Low,Car,Yes,3,9,No
+35,Female,Medium,Groceries,No,11,15,No
+42,Female,Low,Electronics,Yes,6,5,No
+45,Female,High,Designer items,Yes,4,2,Yes
+48,Female,Low,Car,Yes,14,9,Yes
+37,Female,High,Car,Yes,18,15,Yes
+28,Male,Low,Groceries,Yes,7,2,Yes
+40,Male,High,Electronics,Yes,6,6,Yes
+51,Male,High,Electronics,No,9,18,Yes
+26,Female,Medium,Electronics,Yes,15,18,Yes
+35,Male,High,Car,No,8,15,No
+59,Male,High,Beauty Products,Yes,24,19,No
+31,Female,Medium,Car,No,11,18,No
+56,Male,Medium,Electronics,Yes,22,14,No
+33,Female,Low,Groceries,No,26,7,Yes
+27,Male,Medium,Beauty Products,No,30,3,No
+36,Female,Low,Car,No,30,14,No
+31,Male,Medium,Groceries,Yes,0,15,Yes
+27,Female,High,Electronics,No,18,2,Yes
+54,Female,Low,Electronics,Yes,8,17,Yes
+28,Female,Low,Designer items,Yes,15,1,No
+29,Female,Medium,Designer items,Yes,21,5,Yes
+57,Male,Medium,Car,Yes,11,1,Yes
+26,Male,Medium,Car,Yes,14,1,No
+46,Female,High,Car,No,0,9,No
+51,Male,Medium,Groceries,Yes,11,7,Yes
+54,Female,Medium,Car,No,21,0,No
+23,Female,High,Car,No,11,7,Yes
+36,Male,Low,Groceries,Yes,26,0,No
+50,Female,Medium,Car,No,29,7,Yes
+49,Male,Medium,Groceries,Yes,4,16,Yes
+25,Male,High,Groceries,Yes,24,9,Yes
+51,Male,Medium,Electronics,Yes,8,2,Yes
+24,Female,Medium,Car,Yes,14,19,No
+42,Male,Medium,Car,Yes,2,13,No
+41,Male,Low,Electronics,No,1,13,Yes
+39,Male,Low,Car,Yes,10,15,No
+25,Male,High,Electronics,No,6,10,No
+52,Male,Low,Electronics,Yes,16,13,Yes
+55,Male,Low,Electronics,Yes,7,4,Yes
+44,Male,Low,Electronics,Yes,27,7,No
+51,Female,Low,Beauty Products,No,14,11,Yes
+34,Male,High,Beauty Products,No,0,14,Yes
+33,Female,Medium,Electronics,Yes,28,8,Yes
+50,Male,High,Car,Yes,27,16,Yes
+46,Male,Medium,Car,No,12,4,Yes
+27,Male,Low,Beauty Products,Yes,5,18,Yes
+30,Male,Medium,Designer items,Yes,0,19,Yes
+25,Male,Low,Designer items,No,9,8,No
+58,Male,High,Car,Yes,2,10,Yes
+29,Female,Medium,Car,Yes,9,16,Yes
+42,Female,High,Car,Yes,10,3,No
+56,Male,Low,Designer items,Yes,20,13,No
+56,Male,Low,Beauty Products,No,23,7,Yes
+18,Female,Low,Groceries,Yes,23,3,No
+47,Male,High,Car,Yes,11,2,Yes
+30,Male,High,Beauty Products,Yes,19,5,Yes
+40,Female,High,Car,No,3,19,No
+33,Male,Medium,Beauty Products,No,6,10,No
+50,Female,Medium,Car,No,25,6,Yes
+29,Female,Low,Designer items,Yes,6,6,No
+59,Male,High,Designer items,No,29,15,Yes
+43,Female,High,Car,Yes,7,8,Yes
+58,Male,Medium,Car,Yes,1,12,Yes
+30,Female,Low,Designer items,Yes,22,3,No
+42,Female,Medium,Beauty Products,Yes,23,11,Yes
+34,Female,Medium,Designer items,Yes,1,12,Yes
+48,Female,Medium,Groceries,No,28,17,Yes
+45,Female,High,Beauty Products,No,27,14,Yes
+48,Male,Low,Electronics,Yes,7,14,Yes
+50,Female,High,Beauty Products,No,19,9,No
+29,Male,Low,Beauty Products,Yes,4,8,Yes
+40,Female,High,Car,Yes,7,15,No
+31,Male,High,Beauty Products,Yes,26,12,No
+38,Female,High,Designer items,Yes,12,4,No
+22,Male,Low,Electronics,Yes,12,10,Yes
+42,Male,Medium,Designer items,Yes,18,2,Yes
+56,Female,High,Designer items,Yes,6,5,Yes
+49,Male,Medium,Electronics,Yes,2,12,No
+56,Male,Medium,Designer items,Yes,4,17,No
+39,Female,Low,Car,Yes,29,7,No
+34,Female,Medium,Groceries,No,19,0,No
+34,Male,Low,Electronics,No,9,11,Yes
+44,Female,Medium,Designer items,Yes,15,7,No
+40,Female,High,Car,Yes,27,9,Yes
+46,Male,Medium,Groceries,No,17,19,Yes
+33,Male,Medium,Beauty Products,No,16,15,Yes
+36,Female,High,Designer items,No,23,7,Yes
+55,Male,High,Groceries,Yes,5,8,Yes
+53,Male,High,Groceries,Yes,25,11,Yes
+29,Male,High,Groceries,No,22,16,Yes
+32,Female,Medium,Car,No,8,6,No
+59,Male,High,Car,No,15,11,Yes
+49,Male,Medium,Car,No,24,6,Yes
+35,Female,Medium,Designer items,Yes,14,5,Yes
+52,Male,Medium,Designer items,No,1,5,No
+22,Female,Medium,Car,No,17,15,Yes
+25,Female,Medium,Electronics,No,24,19,No
+39,Male,Medium,Car,No,30,10,Yes
+27,Male,Low,Car,Yes,23,11,Yes
+45,Male,Medium,Beauty Products,Yes,5,19,Yes
+22,Female,Low,Electronics,No,22,8,No
+46,Male,Medium,Electronics,No,15,13,Yes
+39,Female,Medium,Beauty Products,Yes,7,19,Yes
+31,Male,Medium,Car,No,6,4,No
+51,Female,Medium,Car,Yes,10,7,Yes
+50,Male,Medium,Car,No,30,11,Yes
+51,Male,Low,Designer items,No,17,6,No
+40,Female,Low,Electronics,Yes,13,6,Yes
+42,Female,Low,Car,Yes,28,2,No
+55,Female,High,Car,No,19,1,No
+47,Female,Medium,Electronics,Yes,16,9,No
+52,Male,High,Beauty Products,Yes,19,17,Yes
+44,Male,High,Car,No,26,16,No
+53,Female,Low,Designer items,Yes,30,9,No
+28,Female,Low,Car,Yes,5,5,No
+58,Male,Medium,Designer items,No,29,14,No
+51,Female,Medium,Groceries,Yes,3,4,Yes
+34,Male,Medium,Electronics,Yes,7,7,No
+29,Male,Medium,Beauty Products,No,20,7,No
+36,Male,High,Groceries,Yes,2,17,Yes
+36,Female,Medium,Beauty Products,No,14,5,Yes
+33,Male,Low,Beauty Products,Yes,7,15,Yes
+35,Male,Medium,Beauty Products,Yes,19,15,No
+56,Male,Medium,Car,Yes,16,16,No
+29,Female,Medium,Car,Yes,12,9,Yes
+24,Female,Low,Electronics,Yes,13,0,Yes
+53,Female,High,Beauty Products,No,20,4,Yes
+41,Female,Medium,Groceries,Yes,22,6,Yes
+59,Female,Low,Groceries,No,16,6,Yes
+50,Male,Low,Beauty Products,Yes,6,10,No
+26,Male,High,Beauty Products,No,11,2,No
+21,Female,Low,Designer items,No,3,12,No
+40,Male,Medium,Beauty Products,Yes,18,9,No
+54,Male,High,Electronics,Yes,6,15,Yes
+50,Female,High,Car,Yes,11,1,No
+24,Male,Medium,Designer items,Yes,10,12,No
+48,Male,High,Designer items,No,1,6,Yes
+32,Male,Low,Groceries,No,24,10,No
+51,Male,High,Car,No,6,3,No
+28,Male,Medium,Car,Yes,28,1,No
+33,Female,Medium,Designer items,No,6,12,Yes
+54,Female,Medium,Beauty Products,Yes,16,11,Yes
+36,Male,High,Designer items,Yes,6,5,Yes
+25,Male,Low,Designer items,No,12,4,No
+19,Female,Low,Car,No,8,10,No
+41,Male,Medium,Designer items,Yes,5,6,No
+56,Male,High,Groceries,No,18,5,No
+46,Male,Low,Designer items,Yes,10,6,No
+19,Female,Low,Electronics,Yes,18,3,Yes
+23,Male,High,Electronics,Yes,16,4,Yes
+45,Male,High,Groceries,Yes,29,6,Yes
+26,Female,Medium,Beauty Products,Yes,24,0,Yes
+18,Male,Low,Groceries,Yes,18,5,Yes
+35,Male,High,Beauty Products,No,9,10,No
+50,Male,High,Designer items,No,0,12,Yes
+54,Female,Medium,Car,Yes,19,0,No
+20,Female,Low,Car,No,17,8,No
+31,Male,High,Electronics,Yes,30,16,Yes
+46,Female,Medium,Car,No,3,4,No
+43,Male,High,Car,Yes,20,16,No
+39,Male,Low,Groceries,Yes,28,1,Yes
+39,Male,Medium,Car,Yes,4,3,No
+53,Female,Low,Designer items,Yes,5,19,No
+38,Male,Low,Electronics,Yes,12,4,No
+42,Male,Medium,Designer items,No,25,6,Yes
+37,Male,Low,Electronics,Yes,0,13,No
+53,Male,High,Groceries,Yes,16,13,Yes
+33,Male,High,Electronics,Yes,13,15,Yes
+37,Female,High,Beauty Products,Yes,28,7,Yes
+41,Female,High,Designer items,Yes,2,18,Yes
+50,Male,Medium,Car,Yes,1,14,No
+39,Male,Low,Electronics,No,27,9,No
+35,Male,Medium,Beauty Products,No,21,13,No
+44,Male,High,Electronics,No,12,0,Yes
+22,Female,Medium,Car,No,25,12,No
+44,Male,High,Car,Yes,24,13,No
+41,Female,Medium,Beauty Products,No,2,14,Yes
+47,Female,High,Beauty Products,Yes,2,15,Yes
+31,Male,High,Beauty Products,No,11,11,No
+46,Female,Low,Groceries,Yes,10,16,Yes
+57,Female,High,Car,No,16,19,Yes
+28,Female,High,Electronics,No,24,1,No
+27,Female,Medium,Car,No,9,10,Yes
+23,Male,High,Beauty Products,No,3,11,Yes
+40,Male,High,Electronics,Yes,26,12,Yes
+54,Female,Low,Groceries,No,5,0,Yes
+23,Male,Medium,Groceries,No,17,8,Yes
+41,Female,Medium,Car,Yes,24,14,Yes
+43,Male,Low,Designer items,No,7,18,Yes
+41,Male,Medium,Electronics,Yes,15,5,Yes
+23,Female,Medium,Designer items,No,21,2,No
+59,Male,High,Car,Yes,0,13,No
+53,Male,High,Car,No,25,11,Yes
+55,Female,High,Beauty Products,Yes,10,11,Yes
+59,Female,Low,Beauty Products,No,17,6,Yes
+24,Male,Medium,Car,Yes,10,3,No
+48,Male,Medium,Electronics,No,0,12,Yes
+35,Male,Medium,Designer items,No,8,8,Yes
+48,Male,Medium,Designer items,Yes,22,8,No
+27,Male,Low,Car,No,27,1,No
+55,Female,Medium,Beauty Products,Yes,14,2,Yes
+48,Female,High,Electronics,No,5,2,Yes
+28,Male,High,Groceries,Yes,14,12,Yes
+45,Female,High,Beauty Products,No,9,5,Yes
+24,Female,Medium,Designer items,Yes,14,17,Yes
+35,Female,Low,Groceries,Yes,19,8,Yes
+41,Male,High,Beauty Products,Yes,1,7,Yes
+37,Male,Low,Beauty Products,No,1,10,Yes
+43,Male,Medium,Groceries,No,6,5,Yes
+47,Male,Medium,Designer items,Yes,9,4,No
+28,Male,Low,Designer items,No,0,1,No
+18,Male,Medium,Electronics,No,18,1,Yes
+38,Male,High,Beauty Products,Yes,19,3,Yes
+29,Male,Low,Groceries,Yes,21,19,Yes
+35,Male,High,Electronics,No,0,0,Yes
+41,Male,Low,Beauty Products,Yes,13,3,No
+22,Female,Medium,Designer items,Yes,10,12,No
+33,Male,Medium,Designer items,Yes,23,12,Yes
+41,Female,Medium,Electronics,No,21,1,No
+33,Female,Medium,Car,No,5,13,No
+18,Male,Low,Groceries,Yes,16,10,Yes
+52,Male,High,Beauty Products,No,10,4,Yes
+34,Male,Medium,Electronics,Yes,25,6,Yes
+59,Male,High,Beauty Products,Yes,27,10,Yes
+20,Female,Medium,Designer items,Yes,19,9,Yes
+59,Female,Medium,Groceries,Yes,13,11,Yes
+59,Male,Low,Beauty Products,No,29,9,Yes
+49,Male,High,Beauty Products,Yes,25,18,Yes
+18,Male,Medium,Car,No,23,9,Yes
+19,Female,Medium,Car,No,16,6,No
+24,Male,Low,Groceries,Yes,19,8,Yes
+39,Female,High,Car,Yes,1,13,No
+18,Male,Medium,Electronics,Yes,8,19,Yes
+36,Female,High,Beauty Products,Yes,3,7,No
+21,Female,High,Beauty Products,Yes,8,8,No
+39,Female,High,Beauty Products,No,17,11,Yes
+59,Male,Medium,Groceries,Yes,10,6,Yes
+26,Female,Medium,Groceries,No,5,18,Yes
+24,Female,Medium,Groceries,Yes,15,4,Yes
+33,Male,High,Car,No,0,18,No
+54,Male,Medium,Designer items,No,6,18,Yes
+54,Male,High,Groceries,Yes,28,16,No
+43,Male,Low,Designer items,No,21,7,No
+50,Female,High,Car,No,1,14,Yes
+37,Female,Low,Groceries,Yes,27,17,Yes
+27,Male,Medium,Beauty Products,No,23,3,Yes
+54,Female,Medium,Beauty Products,Yes,3,12,Yes
+42,Female,High,Designer items,No,12,17,Yes
+41,Female,High,Electronics,No,1,15,No
+50,Female,High,Groceries,Yes,25,18,Yes
+26,Male,Medium,Beauty Products,No,27,2,Yes
+56,Male,High,Car,No,28,9,Yes
+18,Male,Low,Car,Yes,9,8,Yes
+32,Male,Low,Designer items,No,2,4,No
+58,Male,Low,Car,Yes,25,8,Yes
+40,Female,Medium,Designer items,Yes,6,11,Yes
+42,Male,High,Electronics,No,26,8,Yes
+23,Female,Low,Groceries,Yes,22,1,Yes
+26,Female,High,Beauty Products,Yes,27,16,Yes
+50,Female,High,Car,Yes,18,5,Yes
+54,Female,High,Electronics,No,30,1,Yes
+58,Male,High,Electronics,Yes,29,13,Yes
+53,Female,Medium,Car,Yes,3,14,No
+25,Male,Low,Electronics,No,25,3,No
+38,Female,High,Car,Yes,27,3,Yes
+33,Male,High,Beauty Products,No,21,11,No
+33,Female,High,Electronics,No,18,7,Yes
+55,Male,High,Designer items,Yes,9,4,Yes
+46,Male,High,Designer items,Yes,30,17,No
+27,Female,Low,Car,No,9,6,No
+35,Male,High,Electronics,Yes,0,6,Yes
+38,Female,Low,Car,Yes,0,14,No
+21,Male,Medium,Electronics,Yes,27,19,Yes
+27,Female,High,Beauty Products,Yes,22,8,Yes
+51,Male,Medium,Designer items,Yes,27,13,No
+50,Female,Medium,Beauty Products,No,1,6,Yes
+27,Male,High,Groceries,Yes,21,19,Yes
+18,Male,High,Designer items,Yes,12,0,No
+22,Male,Medium,Car,No,15,14,Yes
+45,Male,High,Car,Yes,30,15,No
+34,Female,Low,Beauty Products,No,16,1,No
+30,Female,High,Beauty Products,Yes,13,10,Yes
+45,Female,High,Groceries,Yes,9,2,Yes
+48,Male,Medium,Car,Yes,16,14,Yes
+26,Male,Medium,Electronics,No,9,7,No
+38,Female,Medium,Car,Yes,12,17,No
+22,Male,Low,Designer items,Yes,5,16,Yes
+28,Female,Medium,Beauty Products,No,19,15,Yes
+26,Male,Low,Groceries,Yes,1,4,No
+18,Female,High,Beauty Products,No,3,3,Yes
+42,Male,High,Electronics,No,2,8,Yes
+39,Male,Medium,Designer items,Yes,22,11,Yes
+27,Female,High,Electronics,Yes,1,10,Yes
+27,Male,Low,Beauty Products,Yes,29,5,Yes
+19,Male,Low,Designer items,Yes,29,1,No
+49,Female,Medium,Groceries,No,9,15,Yes
+29,Male,Medium,Designer items,Yes,0,7,Yes
+30,Male,Medium,Designer items,No,14,11,Yes
+25,Male,High,Groceries,Yes,9,13,Yes
+22,Female,Low,Car,Yes,17,18,No
+55,Male,Medium,Beauty Products,No,26,10,No
+37,Male,Medium,Groceries,Yes,19,17,Yes
+27,Male,Low,Beauty Products,No,1,8,Yes
+48,Male,High,Electronics,No,9,3,Yes
+23,Female,Low,Designer items,Yes,13,3,No
+43,Male,Medium,Car,Yes,14,15,Yes
+56,Female,Low,Designer items,No,16,18,No
+23,Female,Medium,Electronics,No,30,10,Yes
+33,Male,High,Groceries,No,29,7,Yes
+28,Male,Low,Electronics,Yes,6,18,Yes
+48,Female,Low,Designer items,Yes,25,9,Yes
+58,Male,High,Electronics,Yes,3,14,No
+30,Male,Low,Designer items,Yes,24,1,No
+19,Female,Medium,Car,Yes,15,8,No
+45,Male,Low,Car,No,12,2,No
+58,Male,Low,Car,Yes,12,1,No
+25,Female,High,Electronics,Yes,26,8,Yes
+19,Female,Low,Car,Yes,5,7,No
+45,Female,High,Groceries,Yes,4,8,Yes
+18,Male,Low,Electronics,Yes,8,9,No
+21,Male,Low,Car,Yes,2,9,Yes
+28,Male,Low,Beauty Products,Yes,13,5,Yes
+29,Male,High,Electronics,Yes,12,16,Yes
+33,Female,High,Car,Yes,2,1,No
+28,Male,Medium,Beauty Products,No,28,8,No
+20,Male,Low,Designer items,No,28,17,Yes
+37,Female,Medium,Car,Yes,14,13,Yes
+51,Male,Medium,Car,Yes,16,7,No
+59,Female,Medium,Car,Yes,25,17,Yes
+47,Male,Medium,Groceries,No,24,18,Yes
+25,Male,High,Car,Yes,27,7,Yes
+48,Female,Medium,Beauty Products,Yes,2,2,No
+39,Male,Medium,Electronics,Yes,16,3,Yes
+34,Female,Medium,Designer items,Yes,13,18,No
+26,Female,High,Groceries,No,29,11,Yes
+54,Male,Low,Groceries,Yes,10,19,Yes
+52,Male,High,Electronics,Yes,20,14,No
+28,Male,Medium,Electronics,Yes,19,7,Yes
+21,Male,Low,Car,Yes,26,11,No
+57,Female,High,Car,Yes,5,14,No
+47,Male,Medium,Designer items,No,11,15,No
+44,Male,High,Groceries,Yes,20,19,Yes
+37,Male,High,Groceries,Yes,27,3,Yes
+28,Female,Medium,Beauty Products,No,12,8,Yes
+21,Female,Low,Electronics,No,11,8,No
+30,Female,Low,Beauty Products,No,15,5,No
+59,Female,Medium,Beauty Products,Yes,12,6,No
+45,Male,High,Designer items,Yes,25,18,No
+41,Female,Medium,Beauty Products,Yes,18,16,No
+30,Male,High,Electronics,Yes,12,1,Yes
+27,Female,Medium,Beauty Products,Yes,29,12,No
+26,Male,High,Electronics,Yes,0,13,No
+37,Male,Low,Electronics,Yes,14,0,No
+34,Male,Medium,Beauty Products,Yes,23,12,Yes
+33,Female,High,Car,Yes,1,16,No
+49,Male,High,Car,Yes,10,7,Yes
+20,Female,Medium,Beauty Products,No,28,11,No
+37,Male,Low,Electronics,No,15,13,No
+33,Male,Medium,Groceries,No,26,16,No
+50,Female,High,Electronics,Yes,29,11,Yes
+32,Female,High,Electronics,Yes,17,13,Yes
+47,Female,Medium,Electronics,Yes,0,12,Yes
+32,Female,Low,Car,Yes,6,14,Yes
+59,Male,Medium,Car,No,13,5,Yes
+28,Female,Low,Beauty Products,Yes,28,19,Yes
+41,Female,Low,Designer items,No,24,18,No
+19,Female,Medium,Beauty Products,Yes,21,19,Yes
+50,Female,Medium,Electronics,No,7,13,Yes
+26,Male,Low,Groceries,No,1,4,Yes
+42,Female,High,Beauty Products,Yes,7,15,Yes
+32,Male,Medium,Beauty Products,Yes,0,2,Yes
+55,Male,High,Beauty Products,Yes,21,13,Yes
+53,Female,Low,Electronics,Yes,17,14,No
+58,Female,High,Electronics,No,17,2,Yes
+27,Female,Medium,Groceries,Yes,16,6,Yes
+18,Female,Low,Car,Yes,26,10,No
+22,Male,Low,Designer items,No,6,18,No
+46,Female,High,Electronics,Yes,14,2,Yes
+54,Male,Medium,Beauty Products,Yes,22,11,Yes
+47,Male,High,Designer items,No,19,4,Yes
+20,Male,Low,Electronics,No,8,8,No
+56,Male,Medium,Beauty Products,Yes,25,1,No
+40,Male,Low,Groceries,Yes,22,15,Yes
+26,Female,Medium,Designer items,No,12,18,No
+34,Male,Medium,Designer items,No,5,3,Yes
+18,Male,Low,Electronics,Yes,17,18,No
+26,Female,Low,Groceries,Yes,12,7,Yes
+32,Male,Medium,Car,Yes,10,11,No
+21,Male,Medium,Electronics,Yes,0,3,No
+58,Male,Medium,Car,No,9,3,No
+37,Female,High,Electronics,No,29,8,Yes
+28,Male,High,Car,No,11,17,Yes
+47,Male,Medium,Beauty Products,Yes,11,15,No
+54,Female,High,Electronics,No,30,19,Yes
+42,Female,Medium,Electronics,Yes,11,10,No
+26,Female,Low,Designer items,No,29,17,No
+42,Female,High,Groceries,No,2,19,Yes
+49,Female,High,Designer items,No,16,13,Yes
+18,Female,Low,Beauty Products,Yes,16,7,Yes
+22,Female,Medium,Groceries,Yes,4,8,No
+52,Male,High,Car,Yes,18,8,Yes
+47,Male,Medium,Designer items,No,17,15,No
+50,Female,High,Designer items,No,1,13,Yes
+18,Male,Low,Electronics,Yes,25,15,No
+32,Female,Low,Beauty Products,Yes,25,14,Yes
+33,Male,Medium,Designer items,Yes,13,14,Yes
+32,Female,Medium,Car,Yes,18,7,Yes
+51,Female,Medium,Beauty Products,No,1,9,Yes
+52,Male,High,Groceries,Yes,22,16,No
+25,Female,High,Groceries,Yes,27,3,Yes
+31,Female,Medium,Electronics,Yes,30,9,No
+46,Female,High,Groceries,No,0,3,Yes
+49,Male,Medium,Beauty Products,Yes,0,16,No
+43,Male,Medium,Groceries,Yes,16,6,Yes
+40,Male,High,Electronics,Yes,19,14,Yes
+30,Female,Low,Electronics,No,27,1,No
+36,Female,Low,Electronics,No,23,12,Yes
+41,Female,Medium,Groceries,Yes,10,14,Yes
+27,Male,Medium,Electronics,No,8,8,Yes
+45,Female,Low,Designer items,Yes,0,16,No
+48,Female,High,Electronics,Yes,11,9,Yes
+54,Male,High,Electronics,Yes,29,17,Yes
+55,Male,High,Car,Yes,6,16,No
+23,Female,Medium,Groceries,No,7,11,Yes
+31,Male,High,Beauty Products,Yes,11,9,Yes
+37,Female,High,Electronics,No,14,6,Yes
+58,Female,High,Designer items,Yes,9,9,Yes
+56,Female,Low,Groceries,Yes,27,4,No
+20,Female,Medium,Designer items,Yes,17,10,No
+32,Male,High,Car,Yes,20,19,Yes
+54,Female,High,Electronics,Yes,23,11,Yes
+21,Male,Low,Electronics,Yes,14,8,Yes
+56,Female,High,Designer items,No,9,12,No
+57,Male,Low,Designer items,No,11,18,No
+43,Female,Medium,Groceries,Yes,29,0,No
+33,Male,High,Car,No,21,16,Yes
+35,Female,Medium,Groceries,No,6,17,Yes
+43,Male,Low,Designer items,Yes,7,5,No
+47,Female,Low,Electronics,No,6,9,No
+26,Male,High,Electronics,Yes,30,6,Yes
+26,Male,Medium,Designer items,No,12,2,No
+52,Female,High,Designer items,Yes,0,19,Yes
+51,Female,High,Beauty Products,No,24,2,No
+32,Male,High,Groceries,No,23,5,Yes
+38,Female,High,Beauty Products,No,0,19,No
+36,Male,Low,Designer items,Yes,0,1,No
+32,Male,High,Groceries,Yes,13,18,No
+32,Female,Medium,Designer items,Yes,5,19,No
+26,Male,High,Car,No,4,19,No
+51,Male,Medium,Groceries,No,5,17,Yes
+45,Female,Low,Groceries,No,28,18,No
+26,Male,Low,Electronics,No,26,5,Yes
+31,Male,Medium,Groceries,Yes,27,12,Yes
+29,Male,Medium,Beauty Products,Yes,18,18,No
+38,Male,High,Groceries,No,26,18,Yes
+41,Female,Medium,Beauty Products,No,25,12,Yes
+45,Female,High,Beauty Products,No,13,17,Yes
+53,Male,High,Beauty Products,Yes,9,16,No
+21,Female,Low,Designer items,Yes,11,12,No
+46,Female,High,Groceries,Yes,3,9,No
+42,Female,High,Beauty Products,No,30,2,Yes
+19,Male,Low,Designer items,Yes,24,16,Yes
+23,Male,Low,Beauty Products,Yes,25,7,Yes
+52,Female,High,Beauty Products,Yes,26,17,No
+18,Male,Low,Beauty Products,No,28,15,Yes
+56,Male,Medium,Car,Yes,2,3,Yes
+58,Male,High,Car,Yes,4,18,No
+32,Female,Low,Beauty Products,Yes,7,5,Yes
+36,Female,Low,Car,No,23,14,Yes
+43,Male,Medium,Groceries,Yes,6,9,Yes
+55,Female,Medium,Designer items,No,13,16,No
+58,Male,High,Car,No,18,4,Yes
+48,Male,High,Beauty Products,Yes,6,18,Yes
+48,Female,High,Beauty Products,No,19,6,No
+41,Male,Low,Designer items,Yes,1,15,No
+57,Female,High,Car,No,5,5,No
+58,Female,Medium,Beauty Products,Yes,3,10,Yes
+22,Female,Low,Car,Yes,24,16,No
+24,Male,Medium,Groceries,Yes,26,14,No
+32,Female,Medium,Groceries,No,13,12,Yes
+28,Female,High,Designer items,Yes,27,12,Yes
+43,Female,Medium,Electronics,No,21,8,Yes
+59,Female,Medium,Car,No,3,16,No
+35,Male,Medium,Beauty Products,Yes,10,15,Yes
+50,Female,Medium,Beauty Products,Yes,28,6,Yes
+27,Male,High,Beauty Products,Yes,8,2,No
+31,Male,Medium,Beauty Products,Yes,25,14,No
+19,Male,Medium,Electronics,Yes,23,13,Yes
+24,Female,Medium,Designer items,Yes,3,17,Yes
+41,Male,Medium,Electronics,No,26,4,Yes
+55,Male,Low,Car,Yes,29,6,No
+32,Male,High,Electronics,Yes,25,0,Yes
+21,Female,Low,Car,No,28,0,No
+39,Female,High,Groceries,Yes,10,9,No
+34,Female,Low,Electronics,Yes,3,14,Yes
+43,Female,High,Electronics,Yes,15,12,Yes
+26,Male,Low,Beauty Products,Yes,10,10,Yes
+23,Female,Medium,Designer items,Yes,0,5,Yes
+30,Female,Medium,Electronics,Yes,21,4,Yes
+44,Female,Low,Groceries,Yes,17,19,Yes
+31,Female,High,Groceries,Yes,14,4,No
+53,Male,Low,Electronics,Yes,1,6,No
+59,Female,Low,Groceries,No,15,9,Yes
+34,Male,Low,Car,No,29,12,Yes
+18,Female,Medium,Groceries,Yes,0,14,Yes
+50,Female,Low,Designer items,No,5,12,No
+45,Female,Low,Designer items,No,0,4,No
+58,Male,Medium,Car,Yes,29,16,No
+25,Male,High,Beauty Products,Yes,16,14,Yes
+18,Male,Low,Car,No,11,4,Yes
+41,Female,High,Beauty Products,Yes,5,0,Yes
+42,Male,High,Beauty Products,Yes,0,9,No
+59,Male,High,Beauty Products,No,2,16,No
+36,Female,Low,Car,Yes,27,10,Yes
+46,Male,High,Groceries,No,17,1,No
+26,Male,Medium,Beauty Products,Yes,23,16,Yes
+53,Female,Low,Electronics,No,28,16,Yes
+29,Female,Medium,Car,Yes,27,19,Yes
+20,Female,Low,Designer items,Yes,10,17,No
+21,Female,Low,Electronics,Yes,16,17,Yes
+54,Female,High,Car,No,13,9,Yes
+32,Male,Medium,Beauty Products,No,0,15,Yes
+28,Male,Medium,Beauty Products,Yes,22,19,No
+55,Female,High,Car,Yes,23,15,Yes
+47,Female,High,Beauty Products,Yes,1,0,Yes
+41,Male,Medium,Groceries,No,23,8,Yes
+39,Female,High,Electronics,Yes,11,16,Yes
+42,Female,Medium,Designer items,Yes,27,14,Yes
+47,Female,Medium,Beauty Products,Yes,18,9,Yes
+48,Male,Low,Beauty Products,No,26,11,No
+48,Male,High,Beauty Products,Yes,8,12,No
+52,Female,Medium,Designer items,No,20,13,No
+38,Female,Medium,Groceries,No,9,15,Yes
+24,Female,Medium,Car,No,3,19,No
+42,Female,High,Electronics,Yes,30,10,Yes
+37,Male,Low,Electronics,Yes,3,16,Yes
+28,Male,High,Beauty Products,Yes,29,2,Yes
+58,Male,High,Car,Yes,5,10,No
+44,Male,High,Beauty Products,No,4,13,Yes
+52,Female,Low,Car,No,3,15,No
+33,Male,Low,Car,Yes,20,3,Yes
+36,Male,High,Electronics,No,25,16,Yes
+43,Female,High,Electronics,No,21,0,Yes
+53,Male,High,Groceries,No,10,4,No
+19,Male,Medium,Designer items,Yes,16,7,Yes
+55,Female,High,Beauty Products,No,20,8,Yes
+30,Male,Low,Electronics,Yes,10,15,Yes
+33,Female,Low,Designer items,No,26,1,No
+59,Female,High,Groceries,No,11,7,Yes
+59,Male,Low,Groceries,No,12,16,Yes
+56,Male,High,Designer items,Yes,23,2,Yes
+47,Female,High,Beauty Products,No,19,12,No
+36,Male,Medium,Car,Yes,6,8,No
+36,Male,High,Beauty Products,No,12,7,No
+39,Male,Low,Beauty Products,Yes,17,1,Yes
+28,Female,High,Designer items,Yes,30,0,Yes
+31,Male,High,Groceries,Yes,15,10,Yes
+50,Male,High,Car,No,29,6,Yes
+48,Female,High,Designer items,Yes,28,15,Yes
+31,Female,High,Beauty Products,Yes,27,10,Yes
+33,Female,Low,Car,No,18,16,No
+43,Female,Medium,Car,Yes,5,10,No
+26,Male,High,Beauty Products,Yes,17,16,Yes
+48,Male,Medium,Groceries,No,11,4,No
+53,Female,High,Beauty Products,No,26,3,Yes
+20,Male,Medium,Designer items,Yes,25,16,Yes
+56,Male,Medium,Groceries,Yes,25,3,Yes
+29,Female,Medium,Designer items,Yes,0,18,Yes
+38,Male,Medium,Car,Yes,19,17,No
+20,Female,Low,Designer items,Yes,28,16,Yes
+49,Male,Medium,Designer items,No,9,7,No
+32,Male,Medium,Designer items,No,4,3,Yes
+45,Male,High,Car,No,20,19,Yes
+21,Male,Low,Electronics,Yes,14,16,Yes
+20,Female,Medium,Beauty Products,Yes,9,14,Yes
+59,Male,Low,Car,Yes,23,17,No
+18,Male,Medium,Beauty Products,Yes,2,11,No
+18,Female,High,Electronics,No,2,2,No
+54,Female,Medium,Beauty Products,Yes,18,0,Yes
+53,Female,Low,Designer items,Yes,28,3,No
+31,Female,Low,Designer items,No,17,0,No
+39,Female,High,Designer items,Yes,15,2,Yes
+40,Female,Low,Electronics,No,20,8,No
+40,Male,Low,Electronics,Yes,3,4,No
+48,Male,Low,Beauty Products,Yes,20,8,Yes
+52,Male,High,Car,Yes,5,10,No
+58,Female,Medium,Car,No,28,14,No
+20,Male,Low,Electronics,No,0,19,No
+36,Female,Low,Groceries,Yes,13,16,Yes
+39,Female,Medium,Groceries,No,13,16,Yes
+31,Female,High,Car,Yes,11,15,Yes
+50,Male,Low,Groceries,Yes,12,5,Yes
+29,Male,Medium,Designer items,Yes,22,18,Yes
+55,Female,High,Beauty Products,No,6,0,No
+50,Male,Medium,Groceries,No,28,4,No
+23,Male,Low,Electronics,Yes,30,15,Yes
+48,Male,Medium,Groceries,No,24,15,No
+50,Male,Medium,Designer items,Yes,12,19,Yes
+27,Male,Medium,Groceries,No,23,9,No
+58,Male,High,Car,Yes,30,12,No
+20,Male,Low,Beauty Products,No,26,17,No
+51,Male,High,Car,Yes,16,18,Yes
+40,Male,Low,Designer items,No,12,12,Yes
+50,Male,Medium,Groceries,No,1,0,Yes
+22,Male,Low,Designer items,No,23,2,No
+24,Female,Medium,Electronics,No,23,12,Yes
+40,Male,Medium,Car,Yes,29,17,No
+49,Female,Medium,Electronics,Yes,23,6,Yes
+50,Male,Medium,Beauty Products,Yes,4,16,Yes
+45,Male,Low,Designer items,Yes,28,7,No
+32,Female,Medium,Car,Yes,19,3,No
+51,Male,Low,Designer items,Yes,4,0,No
+22,Female,Low,Beauty Products,Yes,5,1,Yes
+43,Male,Low,Beauty Products,No,0,3,Yes
+56,Male,Low,Electronics,Yes,21,0,Yes
+50,Female,Medium,Groceries,No,7,19,No
+33,Female,Medium,Car,Yes,20,12,Yes
+43,Female,Low,Beauty Products,Yes,22,17,Yes
+48,Female,Medium,Groceries,No,19,9,Yes
+29,Female,Medium,Designer items,No,0,9,Yes
+26,Female,Low,Electronics,Yes,2,18,No
+43,Male,Medium,Electronics,Yes,8,9,Yes
+33,Male,Low,Car,Yes,23,17,Yes
+31,Male,Low,Electronics,No,28,2,No
+51,Female,High,Beauty Products,Yes,0,17,Yes
+41,Male,High,Beauty Products,Yes,8,12,Yes
+19,Male,High,Beauty Products,No,6,15,No
+38,Female,Low,Designer items,No,18,14,No
+39,Female,Medium,Beauty Products,Yes,10,0,Yes
+49,Male,Medium,Designer items,No,20,6,No
+37,Male,Low,Electronics,No,7,9,No
+54,Male,Medium,Designer items,Yes,8,0,No
+19,Male,High,Car,Yes,18,13,Yes
+37,Female,Medium,Beauty Products,Yes,9,8,Yes
+59,Female,High,Groceries,No,28,5,Yes
+34,Female,Medium,Groceries,Yes,27,5,Yes
+21,Female,Low,Groceries,No,29,19,Yes
+20,Female,Low,Groceries,No,22,18,Yes
+35,Female,Medium,Beauty Products,No,25,3,Yes
+25,Male,Low,Groceries,Yes,16,4,Yes
+50,Male,Medium,Beauty Products,Yes,26,12,No
+21,Male,High,Groceries,No,21,13,Yes
+52,Female,Medium,Designer items,No,4,6,Yes
+50,Female,Medium,Groceries,Yes,30,11,No
+28,Female,Low,Electronics,Yes,23,7,Yes
+49,Female,High,Car,Yes,24,5,Yes
+39,Female,High,Car,No,1,18,No
+37,Female,Low,Designer items,No,23,13,No
+50,Male,Medium,Groceries,No,9,15,Yes
+21,Female,Low,Designer items,Yes,26,10,No
+33,Male,Medium,Car,Yes,26,19,No
+50,Female,Low,Beauty Products,No,15,18,Yes
+38,Female,Low,Groceries,Yes,21,8,No
+26,Male,Low,Designer items,Yes,8,16,No
+25,Female,Low,Designer items,No,15,17,No
+50,Female,Medium,Groceries,Yes,0,11,Yes
+23,Male,Medium,Designer items,No,8,4,Yes
+33,Male,Medium,Designer items,No,17,16,Yes
+35,Female,Low,Electronics,No,0,18,No
+25,Male,Low,Car,Yes,2,4,Yes
+57,Male,High,Groceries,No,18,17,No
+48,Female,Low,Groceries,No,0,14,Yes
+35,Male,Low,Car,Yes,28,6,No
+33,Female,High,Car,Yes,30,15,Yes
+55,Male,High,Designer items,Yes,8,6,Yes
+31,Male,Low,Beauty Products,No,10,15,Yes
+42,Female,Medium,Car,No,5,15,No
+46,Female,Low,Designer items,No,15,11,No
+34,Male,Low,Electronics,No,4,12,Yes
+25,Female,Medium,Beauty Products,No,23,4,Yes
+29,Female,High,Beauty Products,No,8,2,No
+52,Male,High,Designer items,Yes,0,17,Yes
+26,Male,High,Electronics,No,8,17,Yes
+46,Male,Medium,Beauty Products,Yes,6,3,Yes
+34,Female,Medium,Designer items,Yes,23,1,Yes
+20,Female,Low,Beauty Products,No,4,13,Yes
+20,Female,Low,Car,Yes,22,6,Yes
+47,Male,High,Car,No,17,12,Yes
+40,Female,Low,Car,Yes,26,9,Yes
+42,Male,Medium,Beauty Products,No,12,15,Yes
+58,Male,Medium,Designer items,No,1,4,No
+39,Female,High,Electronics,Yes,16,3,Yes
+26,Female,Medium,Designer items,Yes,19,1,Yes
+49,Male,Low,Designer items,Yes,23,17,Yes
+39,Male,High,Car,No,10,12,Yes
+25,Male,High,Groceries,No,26,0,No
+34,Male,Medium,Designer items,No,11,3,Yes
+30,Female,Low,Designer items,Yes,30,8,No
+24,Female,High,Designer items,No,22,4,Yes
+22,Male,Medium,Car,Yes,16,8,No
+23,Male,Medium,Car,Yes,24,18,No
+33,Female,Low,Beauty Products,No,20,1,No
+27,Male,Medium,Car,Yes,15,4,Yes
+32,Female,Medium,Car,No,12,12,Yes
+49,Female,High,Electronics,Yes,12,14,Yes
+25,Male,Low,Electronics,Yes,10,17,Yes
+53,Male,Low,Designer items,Yes,25,9,No
+48,Male,High,Car,Yes,0,4,No
+30,Female,Medium,Electronics,Yes,0,7,No
+20,Male,Low,Electronics,Yes,2,6,No
+53,Male,Medium,Designer items,Yes,2,14,Yes
+57,Male,Low,Groceries,Yes,2,6,Yes
+35,Female,Low,Beauty Products,Yes,10,10,Yes
+55,Male,Low,Groceries,No,7,0,Yes
+46,Female,High,Electronics,Yes,9,18,Yes
+20,Female,Low,Car,Yes,3,10,Yes
+32,Male,Medium,Electronics,Yes,0,8,Yes
+43,Female,High,Designer items,No,15,3,Yes
+50,Female,Low,Groceries,No,19,12,Yes
+50,Female,Medium,Designer items,Yes,4,4,No
+31,Female,Medium,Electronics,Yes,26,13,Yes
+57,Female,Medium,Beauty Products,Yes,3,6,Yes
+36,Male,Low,Car,Yes,14,3,Yes
+47,Female,Medium,Electronics,No,18,8,Yes
+30,Female,Medium,Groceries,Yes,13,13,Yes
+27,Female,Low,Beauty Products,Yes,15,4,Yes
+40,Female,High,Electronics,Yes,26,5,Yes
+43,Male,Medium,Groceries,Yes,1,12,Yes
+30,Male,High,Electronics,Yes,18,17,Yes
+36,Female,Low,Designer items,Yes,0,7,Yes
+49,Female,Low,Beauty Products,No,21,15,Yes
+46,Female,High,Electronics,Yes,1,7,No
+55,Male,Medium,Groceries,Yes,15,10,Yes
+34,Female,Medium,Car,Yes,22,18,No
+25,Male,Low,Groceries,Yes,21,3,Yes
+28,Female,Medium,Designer items,Yes,7,8,No
+43,Female,High,Beauty Products,No,1,15,Yes
+48,Female,Medium,Beauty Products,No,5,18,Yes
+45,Male,Medium,Electronics,Yes,7,13,Yes
+41,Male,Medium,Groceries,Yes,15,11,Yes
+54,Male,Low,Groceries,Yes,23,18,No
+49,Male,Medium,Beauty Products,No,17,8,No
+19,Female,Low,Beauty Products,Yes,24,19,Yes
+19,Female,Low,Electronics,Yes,9,0,No
+53,Male,High,Beauty Products,Yes,24,11,Yes
+26,Male,Medium,Electronics,No,3,8,Yes
+45,Female,High,Beauty Products,Yes,5,0,Yes
+59,Female,High,Beauty Products,Yes,28,13,Yes
+39,Male,Low,Electronics,Yes,24,17,Yes
+23,Male,High,Groceries,Yes,17,19,Yes
+33,Female,Medium,Groceries,No,14,15,Yes
+25,Male,High,Car,Yes,12,10,Yes
+24,Female,Medium,Groceries,No,16,17,Yes
+49,Male,High,Beauty Products,No,21,18,Yes
+30,Male,High,Groceries,Yes,14,0,Yes
+46,Female,High,Electronics,No,15,4,No
+52,Female,Medium,Beauty Products,Yes,22,9,Yes
+36,Male,Medium,Electronics,Yes,4,6,Yes
+52,Male,High,Beauty Products,No,12,12,Yes
+27,Male,Medium,Groceries,Yes,1,5,Yes
+25,Male,Medium,Car,Yes,3,11,No
+57,Female,Medium,Designer items,No,6,13,Yes
+40,Male,Medium,Designer items,No,18,13,Yes
+39,Female,Medium,Designer items,Yes,12,0,No
+36,Female,Low,Designer items,No,28,0,No
+21,Male,Medium,Electronics,Yes,9,2,No
+44,Male,High,Groceries,Yes,19,8,Yes
+52,Male,High,Car,No,27,5,Yes
+23,Female,Medium,Electronics,No,22,11,Yes
+40,Female,Medium,Car,Yes,29,0,No
+33,Female,Low,Beauty Products,No,30,4,Yes
+58,Female,High,Beauty Products,Yes,9,12,Yes
+29,Male,Medium,Groceries,Yes,4,4,Yes
+48,Male,High,Beauty Products,Yes,27,17,Yes
+44,Male,Medium,Beauty Products,Yes,2,6,No
+35,Male,Low,Designer items,Yes,0,4,No
+19,Female,Low,Car,No,0,6,No
+49,Female,High,Electronics,Yes,17,16,Yes
+51,Male,High,Groceries,No,6,6,Yes
+59,Male,Medium,Groceries,Yes,21,2,No
+47,Female,Low,Designer items,No,11,2,Yes
+28,Male,Low,Groceries,Yes,28,11,Yes
+21,Male,Low,Beauty Products,Yes,24,15,No
+49,Female,High,Designer items,Yes,19,17,Yes
+48,Female,Medium,Electronics,No,3,5,Yes
+18,Female,Medium,Car,No,2,4,No
+39,Female,Medium,Groceries,Yes,29,16,Yes
+31,Female,Medium,Designer items,Yes,8,2,Yes
+30,Female,Medium,Beauty Products,Yes,2,10,Yes
+19,Male,Medium,Groceries,Yes,23,14,Yes
+30,Female,Low,Beauty Products,Yes,18,15,Yes
+35,Male,Low,Groceries,No,6,12,Yes
+53,Male,High,Electronics,No,8,9,Yes
+58,Male,Low,Car,Yes,6,14,No
+57,Female,Low,Groceries,No,18,10,Yes
+54,Female,Low,Car,No,1,9,No
+30,Male,Medium,Car,Yes,7,8,Yes
+48,Female,Medium,Beauty Products,No,15,9,Yes
+23,Female,Medium,Car,Yes,27,11,Yes
+27,Female,High,Electronics,Yes,17,17,Yes
+21,Female,Low,Car,No,30,8,Yes
+24,Female,Low,Designer items,No,17,7,No
+24,Male,Low,Electronics,No,8,7,No
+20,Male,Low,Beauty Products,Yes,16,1,Yes
+32,Female,Medium,Car,Yes,13,17,Yes
+39,Female,Medium,Beauty Products,Yes,3,19,Yes
+23,Female,High,Car,No,5,10,No
+43,Male,Medium,Groceries,No,16,2,No
+48,Female,Low,Electronics,Yes,12,2,No
+33,Male,Low,Electronics,Yes,14,10,No
+35,Male,High,Electronics,Yes,14,4,Yes
+58,Male,Medium,Groceries,Yes,26,2,Yes
+52,Male,Low,Electronics,No,27,6,Yes
+55,Male,Low,Beauty Products,Yes,8,11,Yes
+32,Male,High,Designer items,Yes,20,19,Yes
+52,Male,Medium,Electronics,Yes,9,0,Yes
+36,Female,Medium,Beauty Products,Yes,22,12,Yes
+18,Female,Medium,Designer items,Yes,18,15,No
+42,Male,Medium,Designer items,Yes,22,14,Yes
+33,Male,Medium,Beauty Products,No,10,5,No
+28,Male,Low,Designer items,Yes,2,14,No
+18,Female,Medium,Car,Yes,6,0,No
+49,Male,Medium,Designer items,No,8,12,Yes
+46,Male,High,Car,No,19,5,Yes
+50,Female,Medium,Car,Yes,6,11,No
+48,Female,Medium,Beauty Products,No,21,19,Yes
+34,Male,Low,Beauty Products,Yes,3,2,Yes
+18,Female,Low,Electronics,No,17,14,No
+57,Male,High,Car,No,0,19,No
+31,Female,High,Electronics,No,3,4,Yes
+40,Female,High,Beauty Products,No,12,14,No
+23,Female,Medium,Groceries,No,0,18,No
+30,Male,Low,Electronics,Yes,28,5,No
+32,Female,Low,Designer items,No,15,15,Yes
+27,Female,Low,Car,No,21,8,Yes
+58,Male,Low,Groceries,No,16,16,Yes
+47,Male,High,Beauty Products,Yes,11,13,No
+27,Female,Medium,Electronics,Yes,22,18,Yes
+46,Male,High,Beauty Products,Yes,1,3,No
+36,Female,Low,Electronics,Yes,6,14,No
+55,Male,High,Car,Yes,2,5,No
+33,Female,High,Beauty Products,Yes,1,6,Yes
+47,Female,High,Car,No,10,6,Yes
+53,Male,Low,Designer items,Yes,28,19,Yes
+56,Female,Medium,Designer items,No,3,11,No
+22,Male,Medium,Beauty Products,Yes,22,18,Yes
+43,Female,High,Designer items,No,4,18,No
+47,Male,High,Designer items,No,2,10,Yes
+24,Male,High,Designer items,No,28,16,Yes
+26,Female,High,Beauty Products,No,20,8,No
+59,Male,High,Electronics,Yes,12,14,Yes
+22,Male,Low,Groceries,Yes,28,2,Yes
+44,Male,Low,Beauty Products,Yes,26,7,Yes
+49,Male,High,Car,Yes,19,9,Yes
+30,Female,High,Car,Yes,30,2,No
+25,Female,High,Car,No,28,8,Yes
+47,Female,Medium,Car,No,21,11,No
+28,Male,High,Designer items,No,1,17,No
+58,Male,Medium,Groceries,No,1,1,No
+20,Female,Low,Electronics,Yes,15,18,No
+21,Female,Medium,Groceries,Yes,22,17,Yes
+37,Female,Low,Groceries,No,24,17,Yes
+59,Female,High,Designer items,Yes,10,16,Yes
+43,Female,High,Beauty Products,No,23,19,Yes
+37,Male,Medium,Car,Yes,12,1,No
+41,Male,High,Beauty Products,Yes,30,1,Yes
+31,Male,Low,Electronics,No,3,16,No
+30,Male,High,Beauty Products,Yes,3,2,No
+25,Female,Low,Beauty Products,Yes,1,5,No
+48,Female,Medium,Electronics,Yes,21,9,Yes
+38,Female,Medium,Beauty Products,Yes,9,9,Yes
+40,Female,Medium,Groceries,Yes,2,19,Yes
+27,Female,Medium,Beauty Products,Yes,28,8,Yes
+51,Female,Medium,Electronics,Yes,4,19,No
+25,Male,Medium,Beauty Products,No,6,5,Yes
+28,Female,Medium,Car,Yes,11,17,Yes
+59,Female,High,Beauty Products,No,24,13,Yes
+20,Male,Low,Car,Yes,17,14,No
+55,Female,Low,Electronics,Yes,9,11,No
+24,Male,Low,Beauty Products,Yes,16,0,No
+43,Male,Medium,Car,Yes,14,18,No
+50,Male,Medium,Designer items,Yes,29,4,Yes
+48,Male,High,Beauty Products,No,2,0,No
+25,Female,Low,Car,Yes,11,18,No
+42,Female,Low,Electronics,No,24,11,Yes
+30,Female,Low,Groceries,No,27,0,Yes
+23,Female,Medium,Beauty Products,No,7,3,Yes
+22,Female,High,Groceries,Yes,24,6,Yes
+40,Female,High,Designer items,No,3,19,Yes
+21,Female,Medium,Groceries,Yes,29,14,Yes
+38,Male,High,Car,Yes,4,8,Yes
+19,Male,Medium,Car,Yes,26,6,No
+33,Male,Medium,Car,Yes,16,19,No
+40,Male,Medium,Groceries,No,1,10,No
+51,Female,Medium,Groceries,No,0,1,No
+40,Male,High,Groceries,Yes,8,1,Yes
+32,Male,Low,Designer items,Yes,9,14,Yes
+59,Male,Medium,Electronics,Yes,28,16,Yes
+26,Male,Low,Designer items,No,17,3,No
+26,Female,Low,Groceries,No,15,3,Yes
+50,Female,Medium,Electronics,Yes,22,5,Yes
+27,Male,Medium,Beauty Products,No,15,3,Yes
+39,Male,Low,Designer items,Yes,12,15,No
+46,Female,Low,Designer items,Yes,5,10,Yes
+41,Male,Low,Beauty Products,Yes,28,2,Yes
+27,Male,Low,Designer items,No,28,0,Yes
+43,Male,High,Electronics,No,25,11,Yes
+31,Female,Medium,Electronics,Yes,24,7,No
+21,Male,Low,Beauty Products,No,27,6,Yes
+27,Female,High,Groceries,Yes,18,3,Yes
+19,Male,Low,Groceries,No,25,17,Yes
+31,Female,Medium,Beauty Products,Yes,25,15,Yes
+59,Female,Medium,Car,No,16,13,No
+39,Female,Medium,Groceries,Yes,3,18,Yes
+19,Female,Low,Groceries,Yes,6,8,Yes
+36,Female,Low,Designer items,Yes,15,15,No
+35,Male,High,Groceries,No,22,10,No
+56,Female,Low,Beauty Products,No,8,3,No
+42,Female,Medium,Groceries,No,30,12,Yes
+43,Female,Low,Designer items,Yes,24,3,Yes
+51,Male,Low,Beauty Products,Yes,8,11,No
+19,Male,Low,Designer items,No,5,4,No
+22,Female,Medium,Designer items,No,19,4,No
+21,Male,Low,Designer items,Yes,28,8,Yes
+46,Male,Medium,Designer items,Yes,21,9,Yes
+33,Female,Low,Car,Yes,9,9,No
+27,Male,Medium,Groceries,No,5,16,Yes
+22,Male,Low,Beauty Products,Yes,25,5,No
+42,Female,Low,Electronics,Yes,26,18,Yes
+21,Female,Low,Car,Yes,7,15,No
+49,Male,Low,Electronics,No,23,18,Yes
+52,Female,High,Designer items,No,9,1,Yes
+53,Male,Medium,Groceries,No,5,10,Yes
+33,Male,High,Car,Yes,26,18,Yes
+51,Male,Medium,Designer items,Yes,24,16,Yes
+58,Male,High,Groceries,Yes,16,14,Yes
+47,Female,Medium,Beauty Products,No,6,18,Yes
+52,Female,Medium,Groceries,No,28,0,No
+21,Female,Medium,Beauty Products,Yes,27,17,Yes
+43,Female,Medium,Groceries,Yes,7,18,Yes
+23,Male,Medium,Beauty Products,No,0,7,No
+50,Male,High,Car,Yes,18,10,Yes
+38,Male,Medium,Beauty Products,No,23,14,Yes
+36,Female,Medium,Beauty Products,No,28,9,Yes
+29,Female,High,Beauty Products,No,0,6,Yes
+34,Female,Medium,Car,No,28,9,Yes
+48,Female,Medium,Designer items,No,27,5,Yes
+34,Male,Low,Designer items,Yes,17,4,No
+35,Male,High,Beauty Products,No,29,16,Yes
+33,Male,Medium,Electronics,Yes,7,12,No
+46,Male,Medium,Car,No,23,15,Yes
+28,Female,Medium,Groceries,Yes,5,2,No
+50,Male,High,Beauty Products,Yes,17,4,No
+30,Male,Low,Groceries,No,9,4,Yes
+43,Male,High,Groceries,Yes,13,16,Yes
+18,Male,Medium,Car,Yes,30,1,No
+56,Male,Low,Designer items,No,9,19,No
+24,Female,Medium,Groceries,Yes,23,15,Yes
+54,Female,Low,Car,No,28,11,No
+34,Male,High,Car,Yes,15,19,Yes
+43,Female,Low,Designer items,Yes,15,18,Yes
+29,Female,Medium,Beauty Products,Yes,20,9,Yes
+51,Male,Low,Electronics,Yes,6,12,Yes
+52,Male,High,Electronics,Yes,14,0,Yes
+43,Female,High,Car,Yes,2,9,No
+32,Male,High,Electronics,Yes,21,5,No
+32,Male,Medium,Designer items,No,23,6,No
+46,Female,High,Designer items,Yes,29,4,Yes
+21,Male,Medium,Car,Yes,21,17,Yes
+52,Male,High,Beauty Products,No,16,17,No
+41,Female,High,Electronics,Yes,1,12,Yes
+32,Female,Low,Beauty Products,No,4,2,No
+54,Male,Medium,Groceries,Yes,4,4,Yes
+20,Female,Low,Groceries,Yes,30,2,No
+40,Male,Medium,Car,No,27,17,No
+53,Male,High,Groceries,Yes,0,15,No
+57,Female,High,Groceries,No,16,7,Yes
+24,Male,Medium,Car,Yes,24,7,Yes
+48,Male,Low,Electronics,Yes,26,11,Yes
+48,Male,Medium,Electronics,No,11,18,Yes
+27,Female,Low,Groceries,Yes,6,11,Yes
+37,Female,Medium,Beauty Products,No,4,15,No
+58,Male,Medium,Beauty Products,Yes,6,19,Yes
+31,Male,Medium,Beauty Products,Yes,10,6,Yes
+46,Female,Medium,Groceries,No,9,8,No
+53,Male,High,Groceries,No,15,9,Yes
+36,Female,High,Groceries,Yes,23,16,Yes
+26,Male,Medium,Designer items,No,12,0,Yes
+51,Male,Medium,Beauty Products,No,12,8,No
+24,Male,High,Groceries,Yes,15,18,No
+56,Male,Medium,Beauty Products,Yes,5,17,Yes
+28,Male,Medium,Groceries,No,28,11,Yes
+59,Female,Medium,Electronics,Yes,12,11,Yes
+38,Male,Low,Car,No,9,19,Yes
+53,Female,High,Designer items,No,27,4,Yes
+54,Female,Low,Designer items,Yes,28,11,Yes
+52,Male,Low,Groceries,No,28,7,Yes
+19,Male,Medium,Car,No,17,8,Yes
+56,Female,Medium,Car,No,9,8,Yes
+39,Female,Low,Electronics,Yes,14,4,Yes
+29,Male,Low,Designer items,Yes,0,11,No
+39,Male,Medium,Car,Yes,5,18,No
+36,Female,High,Car,Yes,15,18,Yes
+20,Female,Low,Beauty Products,Yes,22,9,Yes
+35,Female,Low,Electronics,No,25,12,Yes
+35,Male,Low,Designer items,Yes,2,2,Yes
+42,Male,High,Car,Yes,26,11,Yes
+44,Male,Medium,Electronics,Yes,19,6,Yes
+42,Male,Medium,Electronics,Yes,29,7,No
+26,Female,High,Car,No,13,4,Yes
+47,Male,High,Electronics,Yes,20,18,Yes
+33,Male,Medium,Beauty Products,Yes,23,11,Yes
+38,Male,Medium,Car,Yes,3,7,No
+56,Male,Medium,Beauty Products,Yes,14,5,Yes
+22,Male,Medium,Car,No,13,12,Yes
+59,Male,Medium,Designer items,Yes,17,3,No
+25,Female,Medium,Car,No,23,10,No
+34,Male,Medium,Designer items,Yes,17,10,No
+44,Female,Medium,Groceries,No,15,0,No
+48,Male,Low,Designer items,Yes,15,14,Yes
+23,Female,Low,Designer items,Yes,11,7,No
+24,Female,High,Groceries,No,1,11,No
+31,Male,Low,Groceries,Yes,15,10,Yes
+26,Male,Low,Designer items,No,9,16,Yes
+29,Female,Low,Car,Yes,5,18,No
+58,Male,High,Electronics,Yes,20,5,Yes
+42,Female,High,Electronics,Yes,24,15,Yes
+33,Male,Low,Electronics,No,5,4,No
+38,Male,Medium,Beauty Products,No,3,1,No
+45,Female,Medium,Groceries,Yes,5,8,Yes
+45,Male,Medium,Designer items,Yes,16,13,No
+24,Male,Medium,Beauty Products,Yes,21,18,Yes
+18,Female,Medium,Groceries,Yes,28,19,Yes
+48,Female,High,Beauty Products,Yes,29,14,Yes
+35,Female,High,Car,Yes,2,17,No
+47,Female,Medium,Designer items,No,1,9,No
+28,Male,Low,Beauty Products,Yes,26,2,Yes
+56,Male,High,Beauty Products,Yes,7,18,Yes
+35,Male,Low,Beauty Products,Yes,12,12,No
+41,Female,High,Designer items,No,18,11,Yes
+47,Female,Medium,Electronics,Yes,30,11,No
+45,Male,Medium,Car,Yes,12,11,Yes
+24,Male,Medium,Electronics,Yes,12,5,No
+41,Male,Low,Designer items,No,18,18,No
+53,Male,High,Designer items,Yes,18,8,Yes
+53,Male,High,Designer items,Yes,5,7,Yes
+46,Female,Medium,Designer items,No,23,15,No
+22,Male,Low,Beauty Products,No,20,9,Yes
+43,Male,Medium,Beauty Products,Yes,13,6,Yes
+46,Male,High,Car,Yes,19,5,Yes
+24,Male,Medium,Designer items,No,4,17,Yes
+40,Female,Medium,Beauty Products,No,11,5,Yes
+18,Female,Low,Beauty Products,Yes,3,18,No
+52,Female,High,Beauty Products,Yes,22,19,Yes
+25,Male,Low,Car,No,10,15,No
+58,Female,High,Beauty Products,No,2,4,Yes
+37,Male,Low,Car,No,13,14,Yes
+23,Female,Low,Car,Yes,26,3,No
+57,Female,High,Groceries,Yes,18,4,No
+30,Male,High,Groceries,No,15,0,Yes
+30,Male,Low,Car,Yes,30,10,Yes
+25,Female,Low,Electronics,Yes,24,7,Yes
+49,Female,High,Beauty Products,Yes,23,13,No
+20,Female,Low,Electronics,Yes,3,19,No
+32,Male,Low,Beauty Products,Yes,29,12,Yes
+58,Male,Low,Designer items,No,27,9,Yes
+50,Female,Low,Designer items,Yes,13,13,No
+25,Female,High,Designer items,Yes,15,13,Yes
+18,Female,Low,Car,Yes,15,17,Yes
+24,Female,Low,Designer items,No,14,16,Yes
+30,Female,Medium,Designer items,No,8,14,Yes
+52,Male,Medium,Designer items,No,23,0,No
+33,Male,Low,Groceries,Yes,7,12,Yes
+48,Female,High,Designer items,Yes,7,16,Yes
+31,Male,Medium,Electronics,No,26,6,Yes
+44,Male,High,Designer items,Yes,14,15,Yes
+23,Male,Low,Designer items,Yes,22,0,No
+35,Male,Low,Designer items,No,15,11,Yes
+37,Male,High,Electronics,Yes,12,7,Yes
+46,Female,High,Groceries,Yes,29,0,No
+56,Male,Medium,Groceries,No,14,12,Yes
+30,Female,High,Groceries,Yes,27,8,Yes
+41,Male,High,Designer items,No,14,3,Yes
+30,Female,Low,Groceries,No,26,11,Yes
+54,Male,High,Groceries,Yes,6,7,Yes
+54,Female,High,Designer items,Yes,8,13,Yes
+29,Female,Low,Beauty Products,Yes,3,19,No
+57,Female,Medium,Designer items,No,16,7,No
+46,Male,Low,Electronics,Yes,29,0,No
+51,Female,Medium,Electronics,No,3,0,No
+24,Male,High,Designer items,Yes,0,8,Yes
+20,Female,High,Electronics,No,11,18,Yes
+32,Female,High,Groceries,Yes,30,15,Yes
+27,Male,Medium,Beauty Products,No,21,5,Yes
+46,Female,Low,Car,Yes,16,16,No
+38,Male,Medium,Designer items,Yes,18,17,No
+28,Male,High,Groceries,Yes,23,6,Yes
+59,Male,High,Electronics,No,6,4,Yes
+38,Female,Medium,Electronics,No,17,2,No
+37,Male,Low,Groceries,Yes,14,4,Yes
+30,Male,Medium,Groceries,No,18,11,Yes
+38,Male,High,Electronics,Yes,4,5,Yes
+24,Male,Low,Designer items,No,25,9,No
+25,Female,Medium,Groceries,Yes,8,3,No
+38,Female,High,Car,Yes,30,7,Yes
+42,Female,Low,Electronics,Yes,6,14,No
+52,Male,Medium,Car,No,16,10,Yes
+58,Female,Low,Groceries,Yes,4,9,No
+45,Male,Low,Designer items,No,28,13,Yes
+21,Female,Low,Groceries,Yes,20,19,No
+51,Female,Medium,Car,Yes,11,0,Yes
+41,Male,Low,Designer items,Yes,19,4,No
+55,Male,Medium,Beauty Products,Yes,29,10,No
+57,Male,Low,Car,Yes,6,3,No
+55,Male,High,Designer items,No,15,19,Yes
+32,Female,Low,Electronics,Yes,13,11,No
+46,Male,High,Electronics,No,11,15,No
+32,Male,Medium,Beauty Products,No,28,12,Yes
+38,Female,Medium,Groceries,No,14,13,Yes
+59,Male,Medium,Car,Yes,11,15,No
+32,Male,Medium,Groceries,No,9,3,Yes
+44,Female,High,Beauty Products,Yes,22,8,Yes
+26,Male,Low,Electronics,No,20,19,Yes
+24,Female,High,Car,Yes,20,9,Yes
+21,Female,Low,Beauty Products,No,4,4,Yes
+28,Female,High,Beauty Products,Yes,30,8,Yes
+45,Female,Low,Designer items,Yes,15,8,Yes
+47,Male,Medium,Electronics,No,3,1,Yes
+20,Male,Medium,Beauty Products,No,17,5,No
+35,Female,Medium,Groceries,No,11,4,Yes
+26,Female,Low,Groceries,Yes,19,17,Yes
+36,Male,Low,Electronics,Yes,2,8,No
+53,Female,Medium,Car,No,30,16,No
+34,Female,Medium,Electronics,Yes,30,1,Yes
+58,Female,Medium,Electronics,Yes,8,4,Yes
+32,Female,Low,Beauty Products,No,14,2,No
+36,Female,High,Car,Yes,27,2,Yes
+55,Male,Medium,Groceries,Yes,3,12,Yes
+28,Male,High,Designer items,Yes,4,0,No
+26,Female,High,Beauty Products,No,16,0,Yes
+20,Male,Medium,Car,Yes,14,9,Yes
+25,Male,High,Beauty Products,Yes,11,14,Yes
+58,Male,High,Electronics,No,23,9,Yes
+37,Male,Low,Designer items,Yes,8,14,Yes
+40,Female,Medium,Groceries,No,20,0,Yes
+19,Female,Medium,Designer items,Yes,25,18,Yes
+31,Male,Low,Groceries,No,7,5,No
+29,Female,Low,Electronics,Yes,25,14,No
+18,Female,Low,Beauty Products,No,27,10,Yes
+45,Female,Medium,Beauty Products,Yes,24,2,No
+35,Male,High,Designer items,No,19,1,No
+49,Male,Medium,Car,Yes,28,6,Yes
+25,Male,Medium,Beauty Products,Yes,18,14,Yes
+59,Female,Medium,Car,Yes,21,0,No
+55,Female,Low,Groceries,Yes,12,13,Yes
+52,Female,High,Groceries,No,10,2,Yes
+36,Female,Low,Car,Yes,9,14,No
+28,Female,Low,Beauty Products,Yes,14,12,Yes
+49,Male,Medium,Electronics,Yes,4,3,No
+30,Female,Low,Electronics,Yes,8,16,Yes
+51,Female,Low,Designer items,Yes,23,4,Yes
+24,Female,Medium,Groceries,No,0,11,Yes
+38,Female,Low,Designer items,Yes,10,11,No
+31,Male,Medium,Electronics,No,1,1,Yes
+42,Male,Medium,Groceries,Yes,28,3,Yes
+43,Female,Low,Electronics,No,15,9,Yes
+19,Female,High,Designer items,Yes,2,18,Yes
+23,Female,High,Electronics,No,18,19,Yes
+25,Female,Low,Beauty Products,No,13,9,No
+20,Male,Medium,Electronics,No,5,14,Yes
+40,Male,High,Electronics,Yes,22,17,Yes
+36,Female,High,Designer items,Yes,27,9,Yes
+21,Male,Medium,Beauty Products,Yes,22,1,No
+20,Female,Medium,Groceries,Yes,6,15,Yes
+48,Female,Low,Designer items,Yes,9,18,Yes
+45,Female,Medium,Beauty Products,Yes,16,18,Yes
+54,Male,Medium,Electronics,Yes,22,19,No
+30,Female,Low,Beauty Products,Yes,12,10,Yes
+28,Male,Low,Electronics,Yes,15,14,Yes
+34,Male,Low,Designer items,No,21,17,Yes
+45,Female,Low,Car,No,18,3,No
+39,Male,Medium,Beauty Products,No,21,4,Yes
+56,Male,Low,Groceries,No,1,0,No
+59,Female,Low,Groceries,Yes,7,0,Yes
+29,Female,Medium,Car,No,1,9,Yes
+39,Male,Medium,Designer items,Yes,16,2,Yes
+24,Male,Medium,Beauty Products,Yes,11,7,No
+37,Female,Low,Electronics,Yes,11,2,Yes
+34,Male,Medium,Car,Yes,27,8,No
+27,Male,High,Designer items,Yes,21,5,Yes
+50,Female,High,Car,No,21,11,No
+54,Male,Medium,Designer items,Yes,12,14,No
+39,Female,Low,Groceries,Yes,29,10,No
+57,Male,High,Electronics,Yes,4,1,No
+51,Male,Medium,Designer items,Yes,25,15,No
+52,Female,Low,Electronics,Yes,9,18,Yes
+25,Female,Medium,Beauty Products,Yes,6,0,Yes
+45,Male,High,Designer items,Yes,4,15,Yes
+42,Male,High,Designer items,Yes,3,16,Yes
+41,Female,High,Designer items,No,20,1,Yes
+48,Male,High,Electronics,Yes,11,0,Yes
+47,Female,Medium,Electronics,No,11,11,Yes
+29,Female,Low,Groceries,No,18,16,Yes
+41,Female,Medium,Beauty Products,Yes,23,10,Yes
+30,Female,Medium,Beauty Products,Yes,26,7,Yes
+27,Female,High,Groceries,No,7,19,Yes
+25,Male,Low,Car,Yes,8,6,No
+31,Male,Low,Car,Yes,27,1,Yes
+25,Male,Medium,Groceries,No,12,14,Yes
+45,Male,Medium,Car,Yes,2,13,Yes
+32,Male,High,Designer items,Yes,1,18,No
+29,Male,Low,Car,Yes,24,19,Yes
+53,Female,High,Groceries,No,2,4,Yes
+20,Female,Medium,Designer items,Yes,24,14,No
+36,Male,Medium,Car,No,1,11,No
+54,Female,High,Beauty Products,No,21,16,Yes
+31,Male,Low,Designer items,No,27,9,Yes
+20,Female,Low,Designer items,Yes,3,5,No
+42,Male,Low,Beauty Products,Yes,21,15,No
+56,Male,High,Groceries,Yes,14,19,Yes
+43,Female,Medium,Groceries,Yes,10,0,No
+54,Male,High,Designer items,Yes,12,13,Yes
+26,Male,Medium,Designer items,Yes,16,14,Yes
+38,Male,Medium,Designer items,No,30,6,Yes
+39,Male,Medium,Groceries,Yes,11,5,No
+33,Male,Medium,Car,Yes,25,4,Yes
+26,Female,High,Car,Yes,13,7,Yes
+31,Female,Low,Electronics,Yes,11,9,Yes
+47,Female,High,Electronics,Yes,19,19,Yes
+43,Female,Low,Car,Yes,20,12,No
+46,Male,Medium,Car,No,18,14,No
+25,Male,High,Groceries,Yes,22,9,Yes
+52,Female,High,Car,No,30,2,No
+49,Male,Medium,Groceries,Yes,25,4,No
+33,Male,Low,Beauty Products,Yes,16,5,No
+49,Female,Low,Electronics,No,19,19,Yes
+19,Male,Low,Electronics,Yes,19,14,No
+35,Male,High,Designer items,Yes,0,18,Yes
+57,Male,High,Groceries,Yes,5,11,Yes
+56,Female,High,Groceries,Yes,17,13,Yes
+25,Male,Medium,Beauty Products,No,23,19,No
+31,Female,High,Beauty Products,Yes,4,8,Yes
+57,Male,High,Car,Yes,1,15,No
+24,Female,Medium,Electronics,Yes,15,6,Yes
+44,Male,High,Groceries,No,13,13,Yes
+50,Female,High,Groceries,No,0,11,Yes
+37,Male,Medium,Designer items,No,20,14,Yes
+53,Male,Medium,Beauty Products,Yes,6,15,No
+20,Female,Medium,Groceries,Yes,6,5,Yes
+41,Male,Low,Designer items,Yes,7,5,No
+27,Male,High,Beauty Products,Yes,15,10,No
+49,Male,High,Electronics,No,12,5,No
+41,Female,Medium,Beauty Products,Yes,0,18,No
+29,Male,High,Car,No,23,5,Yes
+35,Male,Low,Groceries,Yes,30,12,Yes
+56,Female,Medium,Car,Yes,22,12,No
+57,Female,Medium,Designer items,Yes,29,16,Yes
+58,Male,High,Groceries,No,19,12,Yes
+51,Female,Low,Car,No,3,1,No
+53,Male,Low,Designer items,Yes,17,4,No
+36,Female,Medium,Designer items,No,9,17,Yes
+49,Female,Low,Designer items,No,20,9,Yes
+54,Female,High,Designer items,No,16,12,Yes
+34,Male,Medium,Car,Yes,8,11,No
+31,Female,Medium,Groceries,Yes,13,7,Yes
+54,Female,Medium,Car,No,18,13,No
+58,Female,Medium,Designer items,Yes,29,6,Yes
+43,Male,Medium,Designer items,Yes,7,13,Yes
+28,Male,High,Designer items,No,13,7,Yes
+20,Female,Medium,Designer items,Yes,27,17,No
+52,Female,High,Groceries,No,30,12,No
+29,Male,Low,Designer items,Yes,14,17,Yes
+22,Male,Medium,Car,Yes,6,10,No
+28,Female,Medium,Electronics,Yes,26,14,Yes
+59,Female,High,Car,No,14,12,Yes
+31,Male,Low,Groceries,No,16,12,Yes
+59,Male,Medium,Electronics,Yes,24,0,No
+50,Female,Low,Beauty Products,Yes,29,14,Yes
+33,Male,High,Beauty Products,Yes,11,5,No
+23,Female,Low,Designer items,Yes,11,14,No
+21,Male,Low,Groceries,No,23,3,Yes
+47,Female,Medium,Electronics,No,1,11,Yes
+56,Female,Medium,Groceries,Yes,19,8,No
+58,Female,Low,Groceries,No,7,13,Yes
+50,Male,High,Electronics,Yes,22,11,Yes
+19,Female,Low,Electronics,Yes,12,3,Yes
+37,Female,High,Beauty Products,Yes,17,18,No
+31,Female,Medium,Groceries,No,29,7,Yes
+29,Male,Low,Groceries,Yes,8,5,Yes
+43,Male,Low,Car,Yes,17,1,Yes
+57,Female,High,Car,Yes,23,13,Yes
+23,Female,Medium,Car,Yes,9,7,Yes
+48,Female,High,Groceries,Yes,16,11,Yes
+30,Female,High,Car,No,18,11,No
+42,Female,Medium,Electronics,No,30,4,No
+42,Male,Low,Electronics,Yes,15,5,No
+40,Female,High,Car,No,13,5,No
+42,Male,Low,Groceries,No,22,10,Yes
+29,Male,Medium,Designer items,Yes,12,3,No
+56,Female,Medium,Electronics,Yes,1,5,No
+55,Male,Medium,Electronics,Yes,17,19,Yes
+57,Female,High,Electronics,No,7,7,Yes
+57,Female,Medium,Car,Yes,0,1,No
+32,Female,Low,Electronics,No,3,2,No
+39,Male,Low,Designer items,No,22,7,No
+39,Female,High,Electronics,No,4,12,Yes
+45,Female,High,Electronics,Yes,25,19,Yes
+50,Male,Medium,Beauty Products,Yes,15,1,No
+24,Female,Medium,Designer items,No,5,4,Yes
+21,Female,Low,Beauty Products,No,1,9,Yes
+39,Male,High,Groceries,No,4,17,Yes
+59,Male,Medium,Designer items,No,22,14,Yes
+48,Female,High,Beauty Products,No,26,8,No
+42,Female,Medium,Electronics,Yes,24,16,Yes
+38,Male,Low,Car,Yes,8,15,Yes
+55,Female,High,Car,Yes,21,10,No
+40,Male,Medium,Beauty Products,No,16,3,No
+46,Female,Medium,Designer items,Yes,14,0,Yes
+47,Male,High,Designer items,Yes,28,19,Yes
+50,Female,High,Car,No,8,11,No
+53,Female,Medium,Electronics,Yes,27,12,Yes
+24,Male,Medium,Beauty Products,No,7,12,Yes
+26,Female,High,Groceries,No,24,15,Yes
+27,Female,Medium,Car,Yes,10,11,Yes
+48,Male,High,Electronics,No,13,18,Yes
+49,Female,Low,Groceries,Yes,17,16,Yes
+52,Male,High,Beauty Products,No,0,18,Yes
+21,Female,Low,Beauty Products,No,22,15,Yes
+29,Male,Low,Designer items,Yes,20,12,No
+34,Male,Medium,Beauty Products,Yes,7,12,Yes
+49,Male,High,Designer items,Yes,4,17,Yes
+32,Male,Medium,Car,Yes,11,16,No
+32,Male,High,Beauty Products,No,1,5,No
+34,Male,Low,Car,No,15,16,No
+37,Male,Low,Car,Yes,8,4,Yes
+40,Male,Medium,Car,Yes,0,5,No
+31,Female,Low,Car,Yes,16,18,Yes
+50,Male,Low,Electronics,No,0,12,No
+44,Female,High,Beauty Products,No,5,5,Yes
+50,Male,High,Electronics,Yes,29,13,Yes
+52,Male,High,Beauty Products,No,22,9,Yes
+36,Female,Low,Car,Yes,18,3,No
+37,Female,Medium,Car,No,18,9,Yes
+44,Male,Medium,Electronics,Yes,24,1,Yes
+21,Male,Low,Car,No,23,5,No
+24,Female,Medium,Designer items,Yes,15,6,No
+43,Male,Medium,Groceries,Yes,25,18,Yes
+26,Female,Medium,Designer items,Yes,28,19,Yes
+59,Male,High,Electronics,Yes,12,17,Yes
+33,Female,High,Designer items,Yes,21,16,Yes
+39,Male,Low,Beauty Products,Yes,12,11,No
+27,Female,Low,Designer items,Yes,0,7,Yes
+38,Female,Medium,Groceries,Yes,21,17,Yes
+19,Female,Medium,Designer items,No,15,11,Yes
+26,Male,Low,Groceries,Yes,2,3,Yes
+43,Male,High,Groceries,Yes,1,7,Yes
+27,Male,High,Groceries,No,15,10,No
+31,Male,High,Groceries,No,7,14,No
+34,Male,High,Groceries,Yes,20,17,No
+49,Male,Medium,Electronics,Yes,5,13,Yes
+40,Male,High,Electronics,No,2,6,No
+32,Female,Low,Car,Yes,20,15,No
+33,Female,High,Beauty Products,Yes,7,6,Yes
+23,Female,Medium,Groceries,No,1,12,No
+26,Male,Medium,Designer items,No,30,1,No
+34,Female,Low,Beauty Products,Yes,26,4,No
+39,Male,Medium,Designer items,Yes,18,6,Yes
+51,Female,High,Beauty Products,Yes,15,11,No
+40,Male,Medium,Beauty Products,Yes,14,0,No
+30,Male,High,Beauty Products,Yes,22,5,No
+49,Female,High,Electronics,No,12,17,Yes
+52,Male,Low,Electronics,Yes,0,14,Yes
+22,Female,Low,Car,No,24,12,No
+22,Male,Low,Designer items,No,27,18,No
+38,Female,Low,Designer items,Yes,23,17,Yes
+38,Male,Low,Groceries,No,21,9,Yes
+41,Male,Medium,Electronics,No,7,14,No
+38,Male,High,Groceries,No,24,19,No
+40,Male,High,Beauty Products,Yes,21,3,Yes
+51,Female,Medium,Beauty Products,Yes,23,5,No
+45,Male,High,Electronics,Yes,30,2,Yes
+56,Female,Medium,Groceries,Yes,9,5,Yes
+33,Female,Medium,Designer items,No,1,16,Yes
+18,Male,High,Designer items,Yes,5,4,Yes
+46,Female,High,Car,No,11,6,Yes
+20,Female,High,Car,Yes,15,0,No
+44,Male,Low,Beauty Products,No,15,11,No
+36,Male,Medium,Designer items,Yes,26,7,No
+19,Female,Low,Car,No,28,16,No
+56,Female,High,Electronics,No,12,0,Yes
+55,Male,High,Groceries,Yes,12,10,Yes
+27,Male,Medium,Groceries,No,15,19,Yes
+34,Female,High,Designer items,No,16,3,Yes
+22,Male,Low,Car,Yes,27,13,No
+27,Female,Medium,Car,No,13,0,No
+43,Male,Medium,Car,No,22,17,Yes
+46,Male,Medium,Beauty Products,Yes,26,17,Yes
+57,Male,Low,Electronics,Yes,27,9,No
+59,Female,High,Groceries,No,4,9,Yes
+38,Female,Medium,Groceries,Yes,23,5,Yes
+20,Male,High,Electronics,No,7,8,Yes
+54,Female,Low,Car,Yes,28,1,Yes
+19,Female,Medium,Car,No,6,16,No
+59,Male,High,Groceries,Yes,11,1,Yes
+59,Female,High,Beauty Products,Yes,19,0,Yes
+21,Male,Low,Groceries,No,12,11,Yes
+28,Male,High,Beauty Products,Yes,28,9,Yes
+22,Female,Low,Car,No,24,16,No
+54,Female,Medium,Beauty Products,No,1,8,Yes
+23,Male,Medium,Electronics,No,17,13,No
+36,Male,Low,Groceries,Yes,13,7,No
+34,Female,High,Groceries,No,27,2,Yes
+46,Male,Medium,Car,No,9,16,No
+25,Male,Medium,Designer items,No,0,12,Yes
+53,Female,Medium,Electronics,No,6,13,No
+22,Male,Medium,Car,Yes,23,10,No
+34,Female,Medium,Electronics,No,4,19,No
+20,Male,Low,Electronics,Yes,4,14,Yes
+25,Male,Medium,Groceries,No,12,15,Yes
+20,Male,Medium,Beauty Products,No,0,8,No
+48,Male,Medium,Electronics,Yes,8,16,No
+51,Female,High,Electronics,Yes,8,18,Yes
+30,Female,High,Car,Yes,4,8,No
+30,Female,High,Beauty Products,No,0,14,Yes
+21,Male,Low,Car,Yes,3,19,No
+27,Male,Medium,Groceries,Yes,27,5,Yes
+44,Female,High,Designer items,Yes,23,11,Yes
+20,Female,Low,Beauty Products,Yes,13,0,Yes
+27,Male,High,Designer items,No,30,14,Yes
+24,Female,Medium,Car,No,3,13,No
+31,Male,Medium,Designer items,Yes,2,16,Yes
+20,Female,High,Car,Yes,29,18,Yes
+52,Female,High,Groceries,No,11,4,No
+27,Male,Low,Beauty Products,No,8,0,No
+30,Female,Low,Car,Yes,2,18,Yes
+49,Male,High,Groceries,Yes,10,15,Yes
+55,Female,High,Electronics,Yes,23,2,Yes
+36,Female,Low,Beauty Products,No,5,7,Yes
+59,Female,High,Designer items,Yes,2,3,Yes
+50,Female,Low,Groceries,No,12,3,No
+36,Female,Low,Electronics,Yes,10,11,No
+28,Male,Low,Designer items,Yes,5,11,Yes
+44,Male,High,Groceries,Yes,8,9,Yes
+20,Female,Medium,Electronics,No,2,19,No
+45,Male,Medium,Car,Yes,22,15,No
+20,Male,High,Car,No,9,10,Yes
+57,Female,Low,Beauty Products,Yes,5,19,Yes
+28,Female,High,Electronics,Yes,27,11,Yes
+30,Male,Medium,Car,No,21,2,Yes
+39,Female,Medium,Beauty Products,Yes,27,13,No
+35,Female,Medium,Electronics,No,30,13,Yes
+54,Male,Medium,Beauty Products,Yes,20,13,Yes
+42,Female,Medium,Beauty Products,No,26,7,No
+40,Male,Medium,Car,Yes,30,14,No
+46,Female,Low,Beauty Products,Yes,14,18,Yes
+43,Female,Medium,Groceries,Yes,19,5,Yes
+36,Female,High,Beauty Products,Yes,26,7,Yes
+55,Female,Medium,Groceries,Yes,19,14,Yes
+20,Female,Medium,Car,No,9,14,No
+33,Male,Medium,Electronics,Yes,16,18,No
+28,Female,Low,Electronics,Yes,15,4,Yes
+22,Female,Medium,Car,Yes,25,13,Yes
+43,Male,Medium,Designer items,Yes,7,4,Yes
+24,Female,High,Car,Yes,30,15,Yes
+31,Female,Medium,Groceries,Yes,4,8,Yes
+21,Male,Low,Groceries,Yes,3,15,Yes
+34,Female,Medium,Beauty Products,Yes,14,3,Yes
+23,Male,Low,Groceries,Yes,15,3,No
+55,Male,High,Electronics,Yes,4,15,Yes
+27,Female,Medium,Car,Yes,8,3,No
+46,Male,Medium,Electronics,Yes,13,3,Yes
+59,Male,Low,Designer items,No,30,3,No
+30,Female,Medium,Beauty Products,Yes,13,17,No
+50,Male,Medium,Electronics,No,20,15,No
+32,Female,High,Electronics,No,21,4,Yes
+23,Male,Low,Car,Yes,5,2,Yes
+29,Female,Medium,Electronics,Yes,3,0,Yes
+53,Female,High,Beauty Products,Yes,0,7,Yes
+54,Female,Medium,Electronics,Yes,29,1,Yes
+29,Female,Medium,Designer items,Yes,21,16,Yes
+24,Female,Medium,Electronics,No,10,3,Yes
+54,Female,Low,Designer items,Yes,5,10,Yes
+18,Male,High,Designer items,No,24,9,No
+41,Male,High,Car,Yes,20,10,Yes
+34,Male,Medium,Groceries,Yes,7,12,Yes
+44,Female,Medium,Designer items,Yes,19,17,Yes
+44,Male,Medium,Car,No,21,15,Yes
+19,Female,Medium,Groceries,No,4,17,Yes
+20,Male,Low,Groceries,No,26,16,Yes
+33,Female,High,Groceries,Yes,5,18,Yes
+24,Male,Low,Beauty Products,Yes,17,13,Yes
+55,Male,High,Groceries,Yes,7,14,Yes
+50,Male,High,Electronics,No,10,4,Yes
+22,Male,Low,Designer items,No,28,5,No
+19,Female,Medium,Car,Yes,5,13,No
+21,Male,Low,Electronics,Yes,23,8,Yes
+20,Female,Low,Car,No,25,15,Yes
+44,Male,Medium,Groceries,No,3,0,Yes
+33,Female,High,Electronics,No,18,15,Yes
+28,Female,Medium,Car,Yes,25,7,No
+18,Female,Low,Electronics,Yes,25,8,Yes
+39,Male,High,Electronics,Yes,7,16,Yes
+59,Female,High,Designer items,No,26,6,Yes
+36,Female,High,Groceries,No,24,5,Yes
+38,Female,Medium,Groceries,No,23,18,Yes
+19,Female,Low,Designer items,No,13,9,No
+49,Male,High,Beauty Products,Yes,27,15,No
+56,Female,Medium,Car,No,7,9,Yes
+57,Male,Medium,Designer items,No,12,11,No
+25,Male,Medium,Designer items,Yes,14,11,Yes
+44,Male,Medium,Electronics,Yes,17,12,Yes
+53,Male,Medium,Beauty Products,No,30,16,No
+44,Female,Medium,Groceries,Yes,8,6,Yes
+18,Female,Medium,Designer items,Yes,6,6,No
+24,Male,High,Designer items,No,7,15,Yes
+20,Female,High,Groceries,Yes,12,9,Yes
+24,Female,High,Designer items,Yes,20,4,Yes
+48,Male,Medium,Electronics,No,22,6,No
+44,Male,Medium,Designer items,Yes,21,16,No
+21,Female,Medium,Car,No,23,15,No
+36,Male,Low,Electronics,Yes,9,2,Yes
+44,Female,High,Groceries,Yes,2,16,Yes
+48,Female,High,Beauty Products,Yes,9,16,Yes
+39,Female,Medium,Electronics,No,29,16,Yes
+38,Male,High,Designer items,No,3,5,No
+29,Male,High,Electronics,Yes,24,19,Yes
+59,Male,Low,Beauty Products,Yes,6,15,Yes
+46,Male,Low,Electronics,Yes,12,2,Yes
+19,Female,Low,Groceries,No,15,5,Yes
+23,Female,Low,Electronics,Yes,12,6,No
+22,Female,Low,Electronics,Yes,23,6,No
+51,Female,Medium,Electronics,Yes,30,16,Yes
+30,Female,Medium,Groceries,No,29,15,No
+37,Female,Low,Car,Yes,1,4,No
+35,Male,Low,Car,Yes,27,6,Yes
+28,Female,Medium,Car,No,21,16,Yes
+39,Male,High,Designer items,Yes,4,19,No
+23,Male,High,Car,No,1,13,No
+40,Female,High,Car,Yes,29,19,Yes
+30,Female,Low,Beauty Products,No,14,11,Yes
+58,Female,High,Beauty Products,Yes,25,17,Yes
+31,Male,Medium,Car,Yes,19,3,No
+25,Male,High,Car,Yes,7,15,No
+44,Male,Medium,Electronics,No,23,9,Yes
+42,Female,Medium,Beauty Products,Yes,30,16,Yes
+50,Female,High,Beauty Products,Yes,30,17,Yes
+59,Male,High,Beauty Products,Yes,25,3,No
+18,Female,Low,Groceries,No,3,3,Yes
+43,Female,High,Car,Yes,3,16,No
+26,Male,Low,Groceries,No,29,18,Yes
+21,Male,Medium,Beauty Products,Yes,4,12,No
+40,Female,Low,Beauty Products,Yes,15,4,Yes
+25,Male,High,Car,No,15,0,No
+55,Female,Medium,Designer items,Yes,10,15,No
+22,Male,Medium,Electronics,No,15,6,Yes
+18,Female,Low,Beauty Products,No,8,17,Yes
+20,Female,Low,Electronics,No,23,9,No
+26,Male,Low,Groceries,Yes,12,15,Yes
+52,Male,Medium,Beauty Products,Yes,21,14,Yes
+34,Female,High,Designer items,No,13,6,Yes
+33,Female,Medium,Beauty Products,Yes,20,7,Yes
+53,Male,Medium,Designer items,No,30,19,Yes
+41,Female,High,Groceries,No,14,4,No
+23,Female,Low,Electronics,Yes,27,4,No
+56,Male,Low,Electronics,No,5,1,No
+56,Male,Low,Beauty Products,No,21,7,No
+54,Male,High,Groceries,No,26,17,Yes
+29,Female,High,Car,Yes,16,4,Yes
+55,Female,High,Electronics,No,14,6,Yes
+31,Male,Medium,Beauty Products,No,17,0,No
+55,Male,Medium,Electronics,Yes,2,4,Yes
+48,Male,Medium,Beauty Products,No,10,12,No
+35,Male,Low,Beauty Products,Yes,30,16,No
+34,Female,High,Electronics,No,28,10,No
+37,Male,High,Electronics,No,9,15,Yes
+51,Female,High,Electronics,No,16,19,Yes
+59,Female,High,Electronics,Yes,12,11,Yes
+56,Male,Medium,Beauty Products,No,26,12,No
+29,Female,Medium,Car,Yes,11,1,No
+54,Female,High,Beauty Products,Yes,24,1,No
+40,Male,High,Electronics,Yes,25,19,Yes
+46,Female,Medium,Beauty Products,Yes,2,10,Yes
+50,Female,High,Car,Yes,18,10,Yes
+26,Male,Medium,Car,Yes,13,8,No
+56,Female,High,Car,No,15,2,No
+46,Male,High,Car,No,18,3,Yes
+49,Male,Medium,Electronics,Yes,6,11,Yes
+35,Male,High,Electronics,No,27,4,Yes
+40,Male,High,Beauty Products,No,22,9,Yes
+29,Female,Medium,Designer items,No,7,18,No
+18,Male,Low,Beauty Products,Yes,2,17,No
+47,Female,Medium,Electronics,No,29,1,Yes
+22,Male,Low,Groceries,Yes,28,0,Yes
+59,Male,Medium,Electronics,No,19,9,Yes
+22,Male,Low,Electronics,No,17,14,Yes
+37,Male,High,Designer items,Yes,7,16,Yes
+48,Female,High,Groceries,No,11,11,Yes
+43,Female,Low,Car,No,0,3,No
+57,Female,High,Beauty Products,No,0,14,Yes
+18,Male,Low,Groceries,Yes,10,1,Yes
+18,Male,Low,Electronics,No,30,11,No
+33,Female,High,Designer items,No,21,9,Yes
+35,Male,Medium,Electronics,Yes,14,16,Yes
+47,Male,High,Beauty Products,No,9,2,No
+38,Female,Medium,Electronics,Yes,15,5,No
+20,Female,Low,Groceries,Yes,8,10,Yes
+38,Female,Low,Electronics,Yes,12,17,No
+41,Female,Medium,Electronics,No,26,3,No
+39,Male,Low,Designer items,No,23,7,No
+27,Male,High,Beauty Products,No,1,7,Yes
+23,Female,High,Groceries,No,15,17,Yes
+34,Female,High,Designer items,Yes,5,12,Yes
+40,Male,High,Designer items,Yes,13,9,Yes
+30,Female,Medium,Groceries,No,11,8,No
+21,Female,Low,Designer items,Yes,6,1,No
+56,Female,High,Car,No,28,8,Yes
+22,Female,Low,Electronics,Yes,14,17,Yes
+21,Female,Low,Groceries,No,18,19,Yes
+56,Female,Medium,Car,No,25,7,No
+41,Female,Medium,Car,Yes,20,10,No
+44,Female,High,Car,Yes,0,1,Yes
+34,Male,Low,Designer items,Yes,4,5,No
+43,Male,Medium,Beauty Products,No,24,6,No
+38,Male,High,Car,No,29,14,Yes
+30,Female,Low,Electronics,No,4,2,Yes
+49,Male,Medium,Beauty Products,No,2,18,No
+31,Male,Low,Designer items,Yes,15,16,Yes
+21,Male,Medium,Designer items,No,12,7,Yes
+36,Male,Low,Groceries,Yes,4,1,No
+32,Male,Medium,Designer items,Yes,1,10,Yes
+40,Male,Medium,Electronics,Yes,9,2,Yes
+22,Male,Low,Electronics,Yes,2,5,No
+30,Female,High,Designer items,Yes,9,18,No
+57,Male,Low,Designer items,No,17,2,No
+41,Male,Medium,Beauty Products,Yes,23,16,No
+57,Male,High,Electronics,No,9,1,Yes
+40,Male,High,Car,Yes,5,1,No
+38,Female,Low,Designer items,Yes,22,2,No
+46,Male,Medium,Car,Yes,6,4,No
+40,Female,Medium,Electronics,No,0,7,No
+29,Male,Medium,Groceries,No,13,15,Yes
+27,Female,Low,Beauty Products,Yes,14,14,Yes
+59,Female,Medium,Car,No,20,6,No
+20,Female,Medium,Groceries,Yes,1,5,Yes
+38,Female,Low,Electronics,No,8,9,Yes
+53,Male,Low,Beauty Products,Yes,26,2,No
+58,Female,High,Beauty Products,Yes,23,16,Yes
+31,Male,High,Groceries,No,9,12,No
+44,Female,High,Groceries,No,0,18,Yes
+36,Male,Medium,Electronics,Yes,5,12,No
+36,Female,Low,Car,Yes,12,3,Yes
+19,Female,Low,Groceries,Yes,14,11,Yes
+47,Female,High,Groceries,Yes,26,6,Yes
+37,Male,Low,Car,Yes,17,12,No
+34,Female,Medium,Beauty Products,Yes,3,13,Yes
+37,Female,Low,Car,Yes,27,12,Yes
+20,Female,Low,Electronics,Yes,25,17,Yes
+49,Female,Low,Beauty Products,Yes,13,14,Yes
+20,Female,Medium,Beauty Products,No,0,16,Yes
+52,Female,Medium,Car,Yes,13,2,Yes
+30,Female,Low,Electronics,Yes,14,17,Yes
+31,Male,High,Electronics,Yes,20,2,Yes
+57,Female,High,Electronics,Yes,3,3,Yes
+18,Female,Medium,Car,No,7,14,No
+50,Male,Low,Electronics,Yes,6,19,No
+28,Male,Low,Groceries,No,26,13,Yes
+39,Male,Medium,Car,Yes,15,13,Yes
+29,Female,Medium,Groceries,No,16,13,Yes
+27,Male,Medium,Designer items,Yes,23,13,Yes
+35,Male,Low,Designer items,Yes,21,8,No
+34,Female,Low,Car,Yes,5,7,No
+30,Female,Low,Car,Yes,17,4,Yes
+23,Male,High,Beauty Products,Yes,20,18,No
+53,Female,Medium,Car,Yes,6,3,No
+42,Male,Low,Designer items,Yes,10,11,Yes
+31,Male,Low,Beauty Products,No,12,9,Yes
+22,Female,Low,Beauty Products,Yes,7,13,Yes
+22,Female,Low,Designer items,Yes,25,7,No
+43,Male,High,Designer items,Yes,5,15,Yes
+53,Female,Medium,Electronics,Yes,11,10,Yes
+20,Female,Low,Electronics,No,30,11,Yes
+54,Male,Medium,Car,Yes,5,18,No
+35,Male,Medium,Groceries,No,15,10,Yes
+54,Male,Medium,Groceries,Yes,8,2,Yes
+25,Female,Medium,Designer items,No,5,3,No
+29,Female,Medium,Designer items,No,11,15,Yes
+59,Female,High,Car,No,21,13,No
+30,Female,High,Electronics,No,8,6,Yes
+29,Female,Low,Electronics,No,4,17,No
+21,Male,Low,Beauty Products,No,1,2,No
+20,Female,Low,Groceries,No,3,5,Yes
+29,Female,Low,Beauty Products,Yes,18,9,No
+18,Female,Medium,Groceries,Yes,16,15,Yes
+26,Female,Low,Designer items,Yes,24,8,No
+26,Female,High,Beauty Products,No,11,8,Yes
+32,Female,Low,Electronics,No,1,10,Yes
+28,Male,Low,Electronics,Yes,7,5,No
+37,Male,Medium,Electronics,No,6,2,No
+25,Male,Low,Groceries,No,17,16,Yes
+51,Female,Medium,Beauty Products,Yes,24,18,Yes
+24,Female,Medium,Car,No,30,17,Yes
+57,Male,Medium,Beauty Products,No,13,6,No
+53,Female,High,Car,Yes,16,4,No
+26,Male,Medium,Beauty Products,Yes,25,19,No
+45,Female,Medium,Designer items,Yes,17,19,Yes
+58,Female,Medium,Designer items,Yes,3,7,Yes
+49,Male,High,Car,Yes,0,16,No
+26,Male,High,Beauty Products,Yes,19,12,Yes
+49,Male,High,Beauty Products,Yes,1,12,No
+26,Male,High,Electronics,Yes,29,19,Yes
+55,Male,High,Electronics,Yes,27,0,Yes
+22,Male,Low,Beauty Products,Yes,30,2,No
+53,Male,Medium,Electronics,No,0,13,Yes
+26,Female,Low,Designer items,Yes,29,3,No
+31,Male,Medium,Beauty Products,No,24,3,Yes
+42,Female,High,Electronics,Yes,9,2,Yes
+24,Female,Medium,Car,No,9,12,No
+21,Male,Low,Designer items,Yes,17,10,No
+53,Male,Low,Groceries,Yes,23,13,Yes
+35,Female,Low,Beauty Products,No,7,9,Yes
+54,Male,High,Designer items,Yes,22,6,No
+29,Female,Low,Electronics,No,24,2,Yes
+43,Male,High,Beauty Products,Yes,3,9,No
+53,Male,Medium,Groceries,No,14,9,No
+38,Male,High,Electronics,Yes,29,15,No
+36,Male,High,Car,Yes,28,19,No
+35,Male,Medium,Beauty Products,No,25,11,Yes
+33,Male,Medium,Designer items,Yes,0,15,Yes
+19,Male,Medium,Electronics,Yes,23,14,Yes
+56,Male,Low,Car,Yes,27,0,Yes
+22,Female,High,Designer items,Yes,9,3,Yes
+30,Female,Medium,Beauty Products,No,0,15,No
+58,Male,Medium,Designer items,Yes,21,15,No
+32,Female,Medium,Car,No,25,13,No
+59,Female,Low,Beauty Products,Yes,20,11,Yes
+18,Female,Low,Car,Yes,20,16,No
+58,Female,High,Car,No,22,18,No
+45,Female,High,Groceries,No,6,8,Yes
+39,Male,High,Beauty Products,Yes,25,11,Yes
+24,Female,High,Electronics,Yes,13,14,Yes
+32,Male,High,Car,No,5,13,No
+19,Female,Low,Electronics,Yes,7,12,No
+23,Male,Medium,Designer items,Yes,4,4,No
+50,Female,Medium,Car,Yes,8,5,No
+43,Male,Medium,Designer items,Yes,29,6,Yes
+58,Male,Low,Designer items,No,4,13,Yes
+54,Female,Low,Beauty Products,No,7,6,Yes
+30,Female,Low,Beauty Products,No,12,7,Yes
+45,Female,High,Designer items,No,25,17,No
+36,Female,Low,Groceries,Yes,5,1,No
+30,Female,High,Electronics,Yes,22,10,No
+50,Female,Medium,Electronics,Yes,23,1,No
+47,Male,Medium,Car,Yes,16,7,No
+51,Female,High,Groceries,Yes,5,4,No
+57,Female,High,Designer items,Yes,18,15,Yes
+30,Female,High,Designer items,No,25,19,Yes
+56,Male,Low,Electronics,No,30,15,Yes
+40,Female,Medium,Groceries,No,15,11,Yes
+31,Female,Medium,Car,No,23,17,No
+44,Male,Medium,Designer items,No,27,17,Yes
+33,Male,Medium,Electronics,Yes,19,15,No
+30,Male,Medium,Car,Yes,25,8,No
+43,Male,High,Electronics,No,27,8,No
+30,Female,High,Car,Yes,28,3,Yes
+26,Male,Medium,Designer items,Yes,14,13,Yes
+29,Male,Medium,Designer items,Yes,20,5,Yes
+20,Male,Low,Beauty Products,Yes,25,19,Yes
+33,Male,Medium,Designer items,Yes,29,19,No
+49,Male,Medium,Car,Yes,23,16,Yes
+33,Female,High,Groceries,No,5,7,Yes
+36,Male,Medium,Car,No,29,1,No
+31,Male,Low,Groceries,Yes,21,11,Yes
+34,Male,Medium,Designer items,No,27,14,Yes
+49,Female,Low,Car,Yes,12,16,No
+57,Female,High,Groceries,Yes,0,2,Yes
+33,Male,High,Beauty Products,Yes,27,1,No
+18,Male,Low,Car,No,8,15,Yes
+48,Male,Medium,Groceries,Yes,3,11,Yes
+50,Male,High,Designer items,No,0,6,Yes
+35,Female,Medium,Electronics,Yes,22,14,No
+43,Male,Low,Car,Yes,29,12,No
+33,Male,Medium,Beauty Products,Yes,6,15,Yes
+31,Male,Medium,Beauty Products,No,16,11,Yes
+46,Male,Medium,Car,Yes,23,19,No
+30,Female,Medium,Electronics,No,23,19,No
+32,Male,High,Electronics,Yes,23,3,Yes
+51,Female,Medium,Groceries,No,27,17,Yes
+19,Female,Low,Car,Yes,24,14,No
+47,Female,Low,Electronics,Yes,25,18,Yes
+43,Female,Medium,Designer items,Yes,19,9,Yes
+45,Female,Low,Groceries,Yes,23,19,Yes
+28,Female,High,Groceries,No,25,9,Yes
+40,Female,Medium,Electronics,Yes,4,8,Yes
+36,Female,Medium,Car,Yes,12,17,Yes
+44,Male,Low,Designer items,Yes,5,9,Yes
+19,Male,Medium,Beauty Products,No,23,5,No
+45,Female,Medium,Groceries,No,27,12,Yes
+56,Male,High,Groceries,Yes,1,13,Yes
+22,Female,Low,Designer items,Yes,17,10,Yes
+27,Female,Low,Car,Yes,10,1,No
+32,Female,Medium,Groceries,Yes,6,8,No
+54,Female,High,Groceries,Yes,6,19,Yes
+51,Female,High,Car,Yes,2,1,No
+39,Male,High,Car,Yes,30,18,Yes
+21,Male,Low,Designer items,No,23,19,No
+56,Female,Medium,Beauty Products,Yes,27,6,No
+34,Male,High,Groceries,Yes,18,15,Yes
+52,Female,Medium,Designer items,Yes,14,13,No
+56,Male,High,Beauty Products,Yes,24,2,Yes
+47,Male,Medium,Designer items,No,16,9,Yes
+46,Male,Low,Electronics,No,5,16,No
+34,Female,Low,Designer items,Yes,13,17,Yes
+54,Female,High,Car,Yes,28,7,Yes
+56,Male,Medium,Car,Yes,22,3,No
+54,Female,Low,Car,Yes,15,13,No
+44,Male,Medium,Designer items,Yes,26,18,Yes
+48,Male,Medium,Car,No,13,8,Yes
+55,Female,High,Electronics,Yes,16,18,Yes
+21,Male,Low,Car,No,15,10,No
+39,Male,Medium,Electronics,Yes,3,16,Yes
+25,Female,High,Groceries,Yes,13,1,No
+28,Female,Medium,Beauty Products,Yes,30,10,Yes
+55,Male,High,Designer items,Yes,20,13,Yes
+47,Male,Medium,Designer items,No,9,7,Yes
+56,Female,Medium,Electronics,No,7,7,Yes
+51,Female,Low,Groceries,Yes,26,15,Yes
+58,Male,High,Electronics,No,12,11,Yes
+44,Male,Medium,Groceries,No,30,16,Yes
+44,Female,Low,Car,No,1,12,No
+50,Female,Medium,Electronics,Yes,25,18,Yes
+22,Male,Low,Electronics,Yes,0,19,No
+47,Female,Low,Car,Yes,12,7,Yes
+55,Male,High,Beauty Products,Yes,28,16,Yes
+18,Female,Medium,Electronics,No,2,13,No
+43,Female,Medium,Electronics,No,30,7,Yes
+25,Male,Low,Designer items,No,28,2,Yes
+56,Male,Medium,Designer items,No,27,18,Yes
+21,Female,Medium,Groceries,Yes,24,15,No
+30,Male,Low,Groceries,No,19,18,Yes
+22,Female,Low,Designer items,No,22,4,No
+37,Male,Low,Beauty Products,No,23,3,No
+51,Female,Low,Designer items,Yes,25,12,No
+51,Female,High,Electronics,No,18,16,Yes
+22,Female,Low,Beauty Products,Yes,24,17,Yes
+25,Female,Low,Electronics,Yes,26,14,Yes
+30,Male,High,Designer items,Yes,15,19,Yes
+30,Female,Low,Car,No,19,1,No
+52,Male,Medium,Groceries,Yes,14,18,No
+54,Male,High,Groceries,No,25,5,Yes
+31,Female,High,Groceries,Yes,3,18,No
+56,Female,Medium,Groceries,Yes,3,1,No
+44,Female,High,Electronics,Yes,6,2,Yes
+50,Male,Medium,Designer items,Yes,1,9,No
+33,Male,Low,Groceries,Yes,24,14,Yes
+41,Female,Low,Car,Yes,14,13,No
+31,Female,Medium,Electronics,No,5,13,Yes
+34,Male,Medium,Electronics,No,17,19,No
+34,Male,High,Designer items,No,15,7,Yes
+56,Male,High,Beauty Products,Yes,19,11,No
+26,Male,High,Car,Yes,26,13,Yes
+50,Male,High,Groceries,Yes,30,9,Yes
+34,Female,Low,Electronics,Yes,16,16,No
+53,Female,High,Car,No,16,17,No
+40,Male,High,Electronics,Yes,1,7,No
+30,Female,Low,Car,Yes,22,19,Yes
+39,Male,Medium,Designer items,Yes,14,19,Yes
+40,Male,High,Designer items,Yes,8,2,Yes
+20,Female,Medium,Car,Yes,1,0,No
+34,Female,Medium,Electronics,Yes,12,18,Yes
+47,Female,High,Designer items,Yes,22,14,Yes
+31,Male,High,Designer items,No,1,6,Yes
+35,Female,High,Beauty Products,Yes,5,7,Yes
+45,Male,Medium,Groceries,Yes,26,1,No
+50,Female,Medium,Electronics,Yes,15,6,No
+39,Female,Low,Beauty Products,Yes,23,10,Yes
+30,Female,Low,Designer items,Yes,29,1,No
+31,Female,Medium,Beauty Products,No,23,5,No
+58,Female,Medium,Car,No,27,6,Yes
+35,Male,High,Car,No,23,8,Yes
+53,Male,High,Car,Yes,8,3,No
+21,Male,High,Car,Yes,24,19,Yes
+48,Female,Medium,Electronics,No,23,6,Yes
+43,Male,High,Car,Yes,12,7,Yes
+22,Female,Low,Car,Yes,11,12,Yes
+46,Male,Medium,Groceries,Yes,19,13,Yes
+49,Male,High,Groceries,No,27,17,No
+44,Female,Low,Car,Yes,23,19,Yes
+21,Female,Low,Groceries,Yes,20,17,Yes
+56,Male,High,Car,No,14,5,Yes
+41,Female,Medium,Groceries,Yes,7,15,No
+33,Male,Medium,Groceries,Yes,2,16,No
+26,Male,Low,Electronics,Yes,24,2,No
+46,Female,High,Designer items,No,6,17,Yes
+29,Female,Low,Beauty Products,Yes,18,15,Yes
+39,Male,High,Car,Yes,26,16,Yes
+32,Female,High,Electronics,Yes,0,1,No
+25,Male,Low,Designer items,Yes,21,1,No
+26,Male,Low,Groceries,Yes,8,12,No
+23,Female,Low,Designer items,Yes,29,14,No
+32,Female,Medium,Electronics,Yes,17,6,Yes
+28,Male,Medium,Groceries,No,7,5,Yes
+57,Male,Medium,Beauty Products,Yes,1,18,Yes
+56,Female,High,Car,No,9,11,No
+34,Male,Medium,Car,No,6,7,No
+56,Female,Medium,Electronics,Yes,3,2,No
+53,Male,Medium,Designer items,Yes,30,8,Yes
+30,Male,Low,Electronics,Yes,17,15,Yes
+18,Female,Low,Designer items,Yes,3,17,No
+25,Male,High,Car,Yes,19,15,No
+38,Female,Medium,Groceries,Yes,10,19,Yes
+38,Male,High,Electronics,No,26,18,Yes
+40,Male,High,Electronics,No,18,17,Yes
+52,Male,High,Designer items,No,7,19,Yes
+59,Male,Medium,Car,No,15,4,No
+58,Female,Low,Designer items,No,7,10,No
+33,Male,Low,Beauty Products,Yes,6,14,No
+41,Male,Low,Car,No,28,19,Yes
+40,Female,Low,Groceries,Yes,16,5,Yes
+25,Female,Low,Electronics,No,6,1,Yes
+47,Male,High,Electronics,No,12,5,Yes
+54,Female,Medium,Electronics,No,19,0,Yes
+46,Female,High,Electronics,Yes,17,14,Yes
+40,Male,High,Electronics,Yes,9,2,Yes
+54,Female,Low,Beauty Products,Yes,23,12,No
+25,Female,High,Designer items,No,21,1,Yes
+58,Male,High,Beauty Products,No,16,17,Yes
+18,Male,Medium,Beauty Products,No,11,19,Yes
+38,Female,Medium,Car,Yes,4,7,No
+44,Female,Medium,Designer items,Yes,14,2,Yes
+23,Male,Medium,Beauty Products,Yes,27,12,No
+36,Male,Low,Car,Yes,28,17,No
+18,Male,High,Electronics,Yes,24,6,Yes
+59,Male,Medium,Beauty Products,No,28,11,No
+53,Female,High,Beauty Products,No,18,5,No
+42,Female,Medium,Groceries,Yes,30,8,Yes
+37,Male,Medium,Car,Yes,9,4,No
+44,Female,Medium,Car,Yes,12,8,No
+19,Female,Medium,Electronics,No,17,0,No
+41,Male,Medium,Designer items,No,20,11,Yes
+59,Male,High,Electronics,No,1,8,Yes
+19,Male,Low,Beauty Products,Yes,22,13,Yes
+28,Male,Low,Beauty Products,No,22,10,Yes
+34,Male,Low,Car,No,3,12,No
+24,Male,High,Designer items,Yes,15,0,Yes
+18,Male,Low,Electronics,Yes,10,5,No
+37,Female,Medium,Groceries,Yes,2,11,Yes
+54,Male,High,Electronics,No,8,11,No
+47,Male,High,Designer items,Yes,27,9,Yes
+36,Female,Medium,Designer items,Yes,4,4,No
+58,Male,High,Car,No,26,19,Yes
+59,Male,Low,Car,Yes,20,0,No
+45,Female,Low,Car,No,15,14,No
+34,Male,Low,Beauty Products,Yes,25,19,No
+42,Male,Low,Beauty Products,No,12,0,Yes
+42,Female,High,Car,No,7,4,No
+23,Male,Medium,Car,No,22,19,Yes
+47,Male,Medium,Car,Yes,13,10,Yes
+48,Male,High,Beauty Products,Yes,5,10,No
+30,Female,High,Groceries,No,30,11,No
+19,Female,Medium,Car,No,20,2,No
+53,Male,High,Car,No,16,5,Yes
+24,Male,High,Designer items,No,14,10,Yes
+41,Female,High,Beauty Products,No,30,2,Yes
+47,Male,Low,Beauty Products,No,5,1,Yes
+31,Female,Medium,Designer items,No,8,17,No
+48,Male,Medium,Car,Yes,30,12,Yes
+43,Female,Medium,Car,Yes,11,11,No
+35,Male,Low,Beauty Products,Yes,8,16,Yes
+38,Male,Medium,Groceries,Yes,15,16,Yes
+57,Female,High,Designer items,No,10,1,Yes
+25,Female,Low,Electronics,Yes,11,0,No
+40,Male,High,Car,Yes,12,16,Yes
+31,Male,High,Groceries,Yes,13,15,No
+55,Male,High,Beauty Products,Yes,25,6,Yes
+43,Male,Medium,Groceries,Yes,25,0,Yes
+49,Male,Medium,Electronics,Yes,24,14,No
+38,Female,High,Electronics,Yes,17,12,Yes
+41,Male,High,Groceries,Yes,29,1,No
+36,Male,High,Groceries,No,14,11,Yes
+42,Female,High,Electronics,Yes,17,13,Yes
+23,Female,Medium,Designer items,No,11,19,Yes
+40,Female,Low,Beauty Products,Yes,29,5,Yes
+47,Female,High,Beauty Products,Yes,8,3,No
+51,Male,Medium,Car,No,15,13,Yes
+43,Female,Medium,Designer items,Yes,7,13,No
+48,Male,Medium,Electronics,No,1,15,No
+21,Male,Medium,Beauty Products,Yes,0,19,Yes
+31,Male,High,Groceries,Yes,7,2,Yes
+22,Female,Medium,Car,Yes,5,7,No
+55,Female,High,Electronics,Yes,5,3,Yes
+24,Female,Low,Designer items,No,29,18,No
+56,Female,High,Car,Yes,2,7,Yes
+50,Male,High,Electronics,Yes,0,13,Yes
+55,Female,Medium,Designer items,No,9,13,Yes
+53,Female,Medium,Beauty Products,Yes,5,15,Yes
+38,Male,High,Groceries,No,27,0,Yes
+23,Female,High,Car,Yes,8,14,No
+20,Female,High,Groceries,No,10,14,No
+52,Female,Medium,Electronics,No,13,1,Yes
+46,Male,Medium,Groceries,Yes,3,18,Yes
+29,Female,Low,Electronics,Yes,1,16,No
+52,Male,Low,Groceries,No,9,15,Yes
+39,Female,High,Groceries,No,8,10,No
+38,Female,High,Designer items,No,14,2,No
+38,Male,Medium,Designer items,Yes,20,11,No
+49,Female,Medium,Groceries,Yes,22,4,Yes
+56,Male,High,Designer items,No,8,17,Yes
+38,Male,High,Beauty Products,No,7,11,No
+51,Female,Medium,Electronics,No,9,18,Yes
+58,Female,Low,Groceries,No,24,7,Yes
+41,Male,High,Beauty Products,Yes,23,0,Yes
+55,Male,Low,Car,Yes,11,18,Yes
+51,Male,High,Beauty Products,Yes,10,17,No
+40,Male,Medium,Electronics,No,27,10,Yes
+35,Male,Low,Groceries,Yes,7,14,No
+58,Female,Low,Designer items,Yes,14,6,No
+37,Male,Medium,Designer items,Yes,12,12,Yes
+18,Male,Medium,Beauty Products,Yes,19,3,Yes
+41,Female,High,Designer items,Yes,3,3,Yes
+19,Male,Medium,Designer items,No,27,14,No
+53,Male,High,Groceries,Yes,26,5,Yes
